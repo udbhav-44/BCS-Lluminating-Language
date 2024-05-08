@@ -11,6 +11,22 @@ To start with, just to jog your memory, here are some resources to brush up on y
 1. [Building a Neural Network from Scratch using only Numpy](https://youtu.be/w8yWXqWQYmU?si=YC76soxNfFfz_Hff)
 2. [Neural Networks from Ground Up](https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&si=cImwdtU-u_5W3BFn)
 
+
+3. Git :  
+   1. https://rogerdudler.github.io/git-guide/
+   2. https://github.com/firstcontributions/first-contributions 
+4. [MarkDown](https://www.markdownguide.org/)
+5. Latex:
+   1. https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+   2. https://latex-tutorial.com/
+6. Basic Python:
+   1. https://dabeaz-course.github.io/practical-python/
+   2. https://automatetheboringstuff.com/
+
+>NOTE : DO NOT try to finish the entire thing, or even try to become perfect with every single concept. Get comfortable with things like printing, conditionals, loops, functions and importing libraries and you should be good to go :) 
+   
+   
+
 ## Week 1
 
 The first week will be dedicated to understanding the basics of NLP and the tools that we will be using throughout the project.
