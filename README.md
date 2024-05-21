@@ -27,7 +27,7 @@ To start with, just to jog your memory, here are some resources to brush up on y
    
    
 
-## Week 1
+## Week 1: Basics of NLP
 
 The first week will be dedicated to understanding the basics of NLP and the tools that we will be using throughout the project.
 
@@ -51,6 +51,17 @@ Resources:
    1. https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501
 5. Evaluation: 
    1. https://www.analyticsvidhya.com/blog/2021/07/metrics-to-evaluate-your-classification-model-to-take-the-right-decisions/
+
+## Week 2: Transformer Application
+
+We'll learn about the basics of transformer architechture, start using huggingface hub, and perform the same task as last week but this time using transformers and notice the effects.
+
+Resouces :
+</br>
+
+1. [Attention Mechanism](https://youtu.be/eMlx5fFNoYc?si=FvbU1G3w_RllpGR-)
+2. [GPT](https://youtu.be/wjZofJX0v4M?si=n8hGhdAm0g_rtrwk)
+3. [BLOG](https://jalammar.github.io/illustrated-transformer/)
 
 ## Mentors:
 
