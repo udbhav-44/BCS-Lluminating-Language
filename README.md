@@ -62,6 +62,14 @@ Resouces :
 1. [Attention Mechanism](https://youtu.be/eMlx5fFNoYc?si=FvbU1G3w_RllpGR-)
 2. [GPT](https://youtu.be/wjZofJX0v4M?si=n8hGhdAm0g_rtrwk)
 3. [BLOG](https://jalammar.github.io/illustrated-transformer/)
+4. [Fine Tuning Transformer Model](https://huggingface.co/docs/transformers/en/training)
+
+## Week 3: Data Scraping and Data Collection
+
+In the third week of the project, we'll learn about how to collect data from various sources over the internet, how to process it and make it ready for our final RAG model.
+
+1. [Data Sources](https://docs.google.com/spreadsheets/d/1ga7DUPcPYyEilJR7Y2taUuZYHEw8A-R9jCU8AQZuoAU/edit?usp=drivesdk)
+2. [XPaths](https://www.youtube.com/watch?v=jraDTvKLLvY)
 
 ## Mentors:
 
