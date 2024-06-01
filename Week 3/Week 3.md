@@ -5,7 +5,7 @@ This week, you'll learn how to scrape information from websites using Selenium <
 
 ## Task :
 
-You have been assgined a source individually, use Selenium to extract atleast 2000 words from the sources in plain text format. </br>
+You have been assigned a source individually, use Selenium to extract atleast 2000 words from the sources in plain text format. </br>
 Here is the list : </br>
 | Name                | Data Source                                |
 |---------------------|--------------------------------------------|
