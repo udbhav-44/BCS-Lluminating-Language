@@ -32,16 +32,19 @@ I classified the sentiment and evaluated them for the following models:
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 16 Minutes 58 Seconds            |     51.6%         | Character-Based Truncation till 1000 Characters |
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 18 Minutes 20 Seconds            |     51.6%         | Word-Based Truncation till 270 Words| 
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 23 Minutes 14 Seconds            |     51.6%         | Token-Based Truncation till 460 Tokens|
+| twitter_roberta_base_sentiment(This classifies as 0/1/2 But for the sake of original dataset, I took only Polar Ones,i.e., 0 and 2)      | Custom Pipeline      | 125 Minutes approx(I did for 100 reviews as more than 500 reviews was taking too much time, it took somewhere 5 minutes of time)            |     88.6%         | Token-Based Truncation till 512 Tokens|
 | AurrieMartinez/roberta-base-lora-text-classification-by-finetuning-roberta (FINETUNED)      | Custom Pipeline      | 81 Minutes (I did for 1000 data sets and 4 epochs because it did take a lot of time, almost 16 Minutes 16 Seconds in this case)            |     91.6%         | Token-Based Truncation till 512 Tokens| 14 Minutes 45 Seconds
 
-
+twitter_roberta_base_sentiment
 ## Observations
 From this data, we can notice that 
-1. Direct and Custom Pipeline takes almost similar time while custom one taking a litttle bit more time with almost same accuracy.
-2. The number of tokens in my test cases are Character based truncation < Word based Truncation < Token based Truncation [ Derived from the time then took to act ]
-3. roberta is a very big model with respect to distilbert that is proven by the time it takes to finetune and apply.
-4. Customly made (made by me) finetuned model takes a lot more time than the pretrained finetuned models in both of the cases of roberta and distilbert
-5. Pre-finetuned roberta model gives very less accuracy though I has expected it to score better because it's base model(roberta-base) is more heavy movel than distilbert-base-uncased.
+1. Direct and Custom Pipelines take almost similar time, while custom ones take a little bit more time and have almost the same accuracy.
+2. The number of tokens in my test cases are Character based truncation < Word based Truncation < Token based Truncation [ Derived from the time it took to act ]
+3. Roberta is a very big model with respect to distilbert, proven by the time it takes to fine-tune and apply.
+4. Customly made (made by me) fine-tuned model takes a lot more time than the pre-trained finetuned models in both of the cases of roberta and distilbert
+5. The pre-finetuned roberta model by textattack gives very little accuracy. However, I expected it to score better because its base model(roberta-base) is heavier than the distilbert-base-uncased. This proves that this model hasn't been trained well enough.
+6. Pre-finetuned roberta by Twitter is exceptionally well trained, which proves the accuracy it gives with just only 100 samples, out of which approximately 1/3rd got removed due to binary classifications. Obviously, with more no. of data, the accuracy would increase finitely, which proves if it could have been trained with 5000 rows of data like the distilbert pre-trained ones, it must have produced better accuracy than them, proving that this heavier model is better in terms of performance (accuracy and effectiveness), efficiency (speed within a reasonable limit).
+7. The same goes for the Customly made (made by me) fine-tuned roberta model, its accuracy is far better the Customly made (made by me) fine-tuned distilbert model
 
 ## Acknowledgements
 
