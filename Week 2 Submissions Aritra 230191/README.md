@@ -1,7 +1,7 @@
 
 # Week 2
 
- This is a brief description of the Week 2 of the project Luminating Languages Offered By Braina and Cognitive Society, IIT kanpur.
+ This is a brief description of the Week 2 of the project Luminating Languages Offered By Brain and Cognitive Society, IIT kanpur.
 
 
 ## Task
