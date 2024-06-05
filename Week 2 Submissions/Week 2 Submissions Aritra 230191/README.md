@@ -32,7 +32,7 @@ I classified the sentiment and evaluated them for the following models:
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 16 Minutes 58 Seconds            |     51.6%         | Character-Based Truncation till 1000 Characters |
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 18 Minutes 20 Seconds            |     51.6%         | Word-Based Truncation till 270 Words| 
 | textattack/roberta-base-SST-2      | Direct Pipeline      | 23 Minutes 14 Seconds            |     51.6%         | Token-Based Truncation till 460 Tokens|
-| twitter_roberta_base_sentiment(This classifies as 0/1/2 But for the sake of original dataset, I took only Polar Ones,i.e., 0 and 2)      | Custom Pipeline      | 125 Minutes approx(I did for 100 reviews as more than 500 reviews was taking too much time, it took somewhere 5 minutes of time)            |     88.6%         | Token-Based Truncation till 512 Tokens|
+| twitter_roberta_base_sentiment(This classifies as 0/1/2 But for the sake of original dataset, I took only Polar Ones,i.e., 0 and 2)      | Custom Pipeline      | 250 Minutes approx(I did for 100 reviews as more than 500 reviews was taking too much time, it took somewhere 5 minutes of time)            |     88.6%         | Token-Based Truncation till 512 Tokens|
 | AurrieMartinez/roberta-base-lora-text-classification-by-finetuning-roberta (FINETUNED)      | Custom Pipeline      | 81 Minutes (I did for 1000 data sets and 4 epochs because it did take a lot of time, almost 16 Minutes 16 Seconds in this case)            |     91.6%         | Token-Based Truncation till 512 Tokens| 14 Minutes 45 Seconds
 
 ## Observations
