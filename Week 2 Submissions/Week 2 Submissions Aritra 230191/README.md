@@ -1,23 +1,23 @@
 
 # Week 2
 
- This is a brief description of the Week 2 of the project Luminating Languages Offered By Brain and Cognitive Society, IIT kanpur.
+ This is a brief description of Week 2 of the project Luminating Languages Offered By Brain and Cognitive Society, IIT Kanpur.
 
 
 ## Task
 The Task is to make a sentimental classifier for the ImDB Movie reviews using Transformers.
 
-Transformers from huggingface can be inferenced using 2 methods:
+Transformers from Hugging Face can be inferenced using 2 methods:
 
 1. Using the HuggingFace Pipeline API directly 
 2. Making a custom pipeline to inference models 
 
 In this week's assignment we need to perform sentiment analysis on last weeks dataset using:
-1. Pretrained Transformer models (atleast 2)
+1. Pretrained Transformer models (at least 2)
 2. Fine-tuned models(same as above) on our dataset( We'll have to finetune them)
 
 ## Part-1 & Part-2 Statistics
-Due to the huge number of rows, I reduced the testing of my model to a fixed no. of rows from the top. For all the following calculation, I took the number of rows to be 5000 out of 37000.
+Due to the enormous number of rows, I reduced the testing of my model to a fixed no. of rows from the top. For most of the following calculations, I took the number of rows to be 5000 out of 37000.
 I classified the sentiment and evaluated them for the following models:
 
 
@@ -38,12 +38,12 @@ I classified the sentiment and evaluated them for the following models:
 ## Observations
 From this data, we can notice that 
 1. Direct and Custom Pipelines take almost similar time, while custom ones take a little bit more time and have almost the same accuracy.
-2. The number of tokens in my test cases are Character based truncation < Word based Truncation < Token based Truncation [ Derived from the time it took to act ]
+2. Due to the very large length of each sentence, I needed to truncate them. I used 3 different methods for that purpose. The order of number of tokens in my test cases is Character-based truncation < Word-based Truncation < Token-based Truncation [ Derived from the time it took to act ]
 3. Roberta is a very big model with respect to distilbert, proven by the time it takes to fine-tune and apply.
 4. Customly made (made by me) fine-tuned model takes a lot more time than the pre-trained finetuned models in both of the cases of roberta and distilbert
-5. The pre-finetuned roberta model by textattack gives very little accuracy. However, I expected it to score better because its base model(roberta-base) is heavier than the distilbert-base-uncased. This proves that this model hasn't been trained well enough.
+5. The pre-finetuned roberta model by textattack gives very little accuracy. However, I expected it to score better because its base model(roberta-base) is heavier than the distilbert-base-uncased. This proves that this model hasn't been finetuned and trained well enough.
 6. Pre-finetuned roberta by Twitter is exceptionally well trained, which proves the accuracy it gives with just only 100 samples, out of which approximately 1/3rd got removed due to binary classifications. Obviously, with more no. of data, the accuracy would increase finitely, which proves if it could have been trained with 5000 rows of data like the distilbert pre-trained ones, it must have produced better accuracy than them, proving that this heavier model is better in terms of performance (accuracy and effectiveness), efficiency (speed within a reasonable limit).
-7. The same goes for the Customly made (made by me) fine-tuned roberta model, its accuracy is far better the Customly made (made by me) fine-tuned distilbert model
+7. The same goes for the Customly made (made by me) fine-tuned roberta model. Its accuracy is far better than the Customly made (made by me) fine-tuned distilbert model
 
 ## Acknowledgements
 
