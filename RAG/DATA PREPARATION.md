@@ -1,10 +1,11 @@
+# Data Preparation
 
-![[Pasted image 20240616024837.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*f5r_zM_HqY7Rm9r--Jg0Lw.png)
+
 
 ##  Data Loading:
 
-![[Pasted image 20240616025043.png]]
-
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*6srgrlB4Qqsmb3ow.png)
 When we load the data using the DataLoaders, every page of our files transforms into a **Document object** and has two important components **page_content** and **metadata**
 
 > The **metadata** is a vital ensemble of additional details, like the document’s source (the file it originates from), the page number, file type, and other information.
@@ -33,7 +34,8 @@ There are multiple items which are covered in the in this context window.
 
 We need to select the chunk size carefully.
 For Example->
-![[Pasted image 20240616030312.png]]
+![](https://miro.medium.com/v2/resize:fit:1324/format:webp/0*JNPcun70SopFtVdH.png)
+
 
 
 ### Different Chunking Methods:
@@ -70,7 +72,7 @@ As discussed, Markdown and LaTeX are two examples of structured and formatted co
 
 ## Tokenization
 
-![[Pasted image 20240616051826.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*efaJuXITcOHg7Wg_.png)
 
 To get an overview, you should read and watch -> [Summary by HuggingFace](https://huggingface.co/docs/transformers/tokenizer_summary)
 
@@ -82,15 +84,15 @@ So we'll explore the most efficient way to convert the text into vector embeddin
 
 If you wanna go through the documentation -> [S-bert](https://sbert.net/)
 
-![[Pasted image 20240616052710.png]]
+
+![](https://miro.medium.com/v2/resize:fit:1260/format:webp/1*teNmeq5T0WTn25SNswPqyA.png)
 
 We have already seen a lot of them, now we'll work on a specific class of Transformer based - context dependent embedding models.
 
-![[Pasted image 20240616052857.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*FKH-Uo8_LK8b3Maq.png)
 
 
-
-![[Pasted image 20240616052907.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*myMlwnFjS-4Y_YtP.png)
 
 
 #### Bert Based Models

@@ -1,12 +1,14 @@
+# Vector DataBase
 
-![[Pasted image 20240616054813.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hLvtb1volMlV3P5RIpRcUw.png)
 
 We created the embeddings out data, now we need to store the embeddings so that they can be accessed on demand. For this purpose, we use a special kind of database called a **vector database.**
 
 Efficient storage and retrieval of embeddings with capabilities like CRUD operations, metadata filtering, and horizontal scaling are crucial for large-scale applications using Retrieval-Augmented Generation(RAGs). Vector databases like ChromaDB, Pinecone, and Weaviate specialize in this, offering fast retrieval and similarity searches.
 
 Different types of databases are available:
-![[Pasted image 20240617054241.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*sMPRee-_3KtXuF8o.png)
+
 
 
 ## How does a vector DataBase work?
@@ -54,7 +56,7 @@ Most current day vectordbs use a hybrid of these techniques to maintain a delica
 2. Flat indexes are ‘flat’ because we do not modify the vectors that we feed into them.
 3. These indexes produce the most accurate results. We have perfect search quality, but this comes at the cost of significant search times.
 4. With flat indexes, we introduce our query vector **xq** and compare it against every other full-size vector in our index — calculating the distance to each. After calculating all of these distances, we will return the nearest k of those as our nearest matches. A k-nearest neighbors (kNN) search.
-![[Pasted image 20240617095923.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*F8R3tayT_fJMYFhT.png)
 
 5. Flat indexes are 100% search-quality but 0% search-speed.
 6. To make it go any faster, we have 2 approaches:
@@ -88,7 +90,7 @@ Check them out.
 ## Similarity Metrics/ Distance Metrics
 
 
-![[Pasted image 20240617102046.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*HtLPZbiJD35mEQe_.png)
 
 ### How to chose a similarity Metric?
 It’s a general best practice to use the same similarity measure for the search that the embeddings were trained on; however, the choice of similarity measure also depends on the specific characteristics of the data and the context of the problem you are trying to solve.
@@ -101,7 +103,7 @@ Every vector stored in the database also includes metadata. In addition to the a
 Filtering can be:
 1. Post : In this approach, metadata filtering is done before the vector search. While this can help reduce the search space, it may also cause the system to overlook relevant results that don’t match the metadata filter criteria. Additionally, extensive metadata filtering may slow down the query process due to the added computational overhead.
 2. Pre : the metadata filtering is done after the vector search. This can help ensure that all relevant results are considered, but it may also introduce additional overhead and slow down the query process as irrelevant results need to be filtered out after the search is complete.
-![[Pasted image 20240617102244.png]]
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*DL2BRaVbe4B4gEK2.png)
 
 You can check out this blog by Pinecone on [Filtering](https://www.pinecone.io/learn/vector-search-filtering/)
 

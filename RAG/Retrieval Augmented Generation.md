@@ -28,4 +28,4 @@ Given a user input,(which is also converted into embedding using the embedding m
 
 ## 3. GENERATION:
 
-A ChatModel / LLM produces an answer using a prompt(set of directions that the model will follow while answering the queries) that includes the question and the retrieved data.![[https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JnLO2hzuwwd9_Q3i.png]]
+A ChatModel / LLM produces an answer using a prompt(set of directions that the model will follow while answering the queries) that includes the question and the retrieved data.![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JnLO2hzuwwd9_Q3i.png)
