@@ -1,0 +1,1451 @@
+
+
+Title
+Interactions between the nucleosome histone core and Arp8 in the INO80 chromatin remodeling complex
+
+Authors
+Saravanan Matheshwaran
+Jochen Wuerges
+Daniel Bose
+Elizabeth A McCormack
+
+Abstract
+Actin-related protein Arp8 is a component of the INO80 chromatin remodeling complex. Yeast Arp8 (yArp8) comprises two domains: a 25-KDa N-terminal domain, found only in yeast, and a 75-KDa C-terminal domain (yArp8CTD) that contains the actin fold and is conserved across other species. The crystal structure shows that yArp8CTD contains three insertions within the actin core. Using a combination of biochemistry and EM, we show that Arp8 forms a complex with nucleosomes, and that the principal interactions are via the H3 and H4 histones, mediated through one of the yArp8 insertions. We show that recombinant yArp8 exists in monomeric and dimeric states, but the dimer is the biologically relevant form required for stable interactions with histones that exploits the twofold symmetry of the nucleosome core. Taken together, these data provide unique insight into the stoichiometry, architecture, and molecular interactions between components of the INO80 remodeling complex and nucleosomes, providing a first step toward building up the structure of the complex.
+
+Title
+Evolution of sequence specificity in a restriction endonuclease by a point mutation
+
+Authors
+Saravanan Matheshwaran
+Kommireddy Vasu
+Valakunja Nagaraja
+
+Abstract
+Restriction endonucleases (REases) protect bacteria from invading foreign DNAs and are endowed with exquisite sequence specificity. REases have originated from the ancestral proteins and evolved new sequence specificities by genetic recombination, gene duplication, replication slippage, and transpositional events. They are also speculated to have evolved from nonspecific endonucleases, attaining a high degree of sequence specificity through point mutations. We describe here an example of generation of exquisitely site-specific REase from a highly-promiscuous one by a single point mutation. • genetic recombination • protein engineering • R.Kpnl • metal ion coordination • promiscuous activity
+
+Title
+Type II restriction endonuclease R.KpnI is a member of the HNH nuclease superfamily
+
+Authors
+Saravanan Matheshwaran
+Janusz M Bujnicki
+Iwona A Cymerman
+Desirazu N Rao
+
+Abstract
+
+
+Title
+Boronic acid derivative inhibits LexA mediated SOS response in Mycobacteria
+
+Authors
+Chitral Chatterjee
+Gokul Raj Mohan
+Hariharan V Chinnasamy
+Bhumika Biswas
+
+Abstract
+Antimicrobial resistance (AMR) properties of several pathogens pose as one of the major global concerns demanding continuous innovation in order to be controlled. The bacterial SOS response, regulated by LexA and RecA, contributes to AMR through advantageous mutations. Therefore, targeting LexA/RecA system with a novel inhibitor could suppress SOS response and may reduce AMR. However, RecA presents a challenge as a therapeutic target due to its conservation across species, including humans. Concurrently, LexA, being absent in eukaryotes, can be potentially targeted, in part, due to its association with SOS response and developing AMR. Our studies combining bioinformatic, biochemical, biophysical, and cell-based assays present a unique inhibitor of mycobacterial SOS response wherein we show that the inhibitor interacts directly with the catalytic site residues of LexA of Mycobacterium tuberculosis (Mtb), consequently hindering its cleavage, resulting in suppression of SOS response. We observed important genes under the SOS regulon to be down-regulated in the presence of the inhibitor along with a consequent reduction in the rate of mutation frequency of mycobacterial cells. In essence, this study may facilitate further research on potential LexA inhibitors, reducing mutational rates and offering promise in mitigating AMR.
+
+Title
+Enhanced Activity Reduces the Duration of Intermittent L\'evy Walks in Bacterial Turbulence
+
+Authors
+Dhananjay Gautam
+Hemlata Meena
+Saravanan Matheshwaran
+Sivasurender Chandran
+
+Abstract
+Dense bacterial suspensions display collective motion exhibiting coherent flow structures reminiscent of turbulent flows. In contrast to inertial turbulence, understanding the microscopic dynamics of bacterial fluid elements undergoing collective motion is in its incipient stages. Here, we report experiments revealing correlations between the microscopic dynamics and the emergence of collective motion in bacterial suspensions. Our detailed analysis of the passive tracers and the velocity field of the bacterial suspensions allowed us to systematically correlate the Lagrangian and the Eulerian perspectives. Bacteria within the collective dynamics revealed initial ballistic dynamics followed by intermittent L\'evy walk before the eventual decay to random Gaussian fluctuations. Intriguingly, the persistence length and time of the fluid motion decrease with an increase in the activity, which, in turn, reduces the duration of L\'evy walk. Our results reveal transitions in microscopic dynamics underlying the bacterial turbulence and their control via the intrinsic time scales set by the effective activity of the flow.
+
+Title
+Spin-dependent electrified protein interfaces for probing the CISS effect
+
+Authors
+Ritu Gupta
+Hariharan
+V Chinnasamy
+Dipak
+
+Abstract
+Bio-spinterfaces present numerous opportunities to study spintronics across the biomolecules attached to (ferro)magnetic electrodes. While it offers various exciting phenomena to investigate, it is simultaneously challenging to make stable bio-spinterfaces as biomolecules are sensitive to many factors that it encounters during thin-film growth to device fabrication. The chirality-induced spin-selectivity effect is an exciting discovery, demonstrating an understanding that a specific electron's spin (either up or down) passes through a chiral molecule. The present work utilizes Ustilago maydis Rvb2 protein, an ATP-dependent DNA helicase (also known as Reptin), to fabricate bio-spintronic devices to investigate spin-selective electron transport through the protein. Ferromagnetic materials are well-known for exhibiting spin-polarization, which many chiral and biomolecules can mimic. We report herein spin-selective electron transmission through Rvb2 that exhibits 30% spin polarization at a low bias (+0.5 V) in a device configuration, Ni/Rvb2 protein/indium tin oxide measured under two different magnetic configurations. Our findings demonstrate that biomolecules can be put in circuit components without any expensive vacuum deposition for the top contact. The present study holds a remarkable potential to advance spin-selective electron transport in other biomolecules, such as proteins and peptides, for biomedical applications.
+
+Title
+Fabrication of soft bio-spintronic devices for probing the CISS effect
+
+Authors
+Ritu Gupta
+Hariharan V Chinnasamy
+Dipak Sahu
+Saravanan Matheshwaran
+
+Abstract
+Bio-spinterfaces present numerous opportunities to study spintronics across the biomolecules attached to (ferro)magnetic electrodes. While it offers various exciting phenomena to investigate, it's simultaneously challenging to make stable bio-spinterfaces, as biomolecules are sensitive to many factors that it encounters during thin-film growth to device fabrication. The chirality-induced spin-selectivity (CISS) effect is an exciting discovery demonstrating an understanding that a specific electron's spin (either UP or DOWN) passes through a chiral molecule. The present work utilizes Ustilago maydis Rvb2 protein, an ATP-dependent DNA helicase (also known as Reptin) for the fabrication of bio-spintronic devices to investigate spin-selective electron transport through protein. Ferromagnetic materials are well-known for showing spin-polarization, which many chiral and biomolecules can mimic. We report spin-selective electron transmission through Rvb2 that exhibits 30% spin polarization at a low bias (+ 0.5 V) in a device configuration, Ni/Rvb2 protein/ITO measured under two different magnetic configurations. Our findings demonstrate that biomolecules can be put in circuit components without any expensive vacuum deposition for the top contact. Thus, it holds a remarkable potential to advance spin-selective electron transport in other biomolecules such as proteins, and peptides for biomedical applications.
+
+Title
+Antimicrobial efficacy of a hemilabile Pt (II)-NHC compound against drug-resistant S. aureus and Enterococcus
+
+Authors
+Mandeep Kaur
+Ritesh Thakare
+Arindom Bhattacherya
+Prem Anand Murugan
+
+Abstract
+Three platinum(II)-N-heterocyclic carbene (NHC) compounds [Pt(L1)Cl](PF6) (1), [Pt(L2)(COD)](PF6)2 (2) and [Pt(L2)Cl2] (3) were synthesized bearing pyridyl-functionalized butenyl-tethered (L1H) and n-butyl tethered (L2H) NHC ligands, and their antibacterial activity against clinically relevant human pathogens was evaluated. Complex 1 was designed to have one of its metal coordination sites masked with a hemilabile butenyl group. The antibacterial activity spectrum against the ESKAPE panel of pathogens shows superior activity of 1 compared to 2 and 3 against the Gram-positive S. aureus pathogen. Complex 1 showed equipotent activity against clinical drug-resistant S. aureus and Enterococcus isolates. Furthermore, 1 demonstrated concentration-dependent bactericidal activity with a long post-antibiotic effect, eradicated preformed S. aureus biofilm and synergized with gentamicin and minocycline for combinatorial antimicrobial therapy. Under in vivo conditions, 1 displayed potent activity in reducing bacterial load in a murine thigh infection model, similar to vancomycin, albeit at 2.5× less dosage. An array of experiments reveals key characteristics for the hemilabile complex 1 as a potential anti-staphylococcal drug.
+
+Title
+Nitroisobenzofuranone, a small molecule inhibitor of multidrug-resistant Staphylococcus aureus targets peptidoglycan biosynthesis
+
+Authors
+Viral Rawat
+Sona Tiwari
+Shweta Khanna
+Umang Gupta
+
+Abstract
+
+
+Title
+Zn 2+ -Induced Conformational Change Affects the SAM Binding in a Mycobacterial SAM-Dependent Methyltransferase
+
+Authors
+Soneya Majumdar
+Umang Gupta
+Hariharan V Chinnasamy
+Sathishkumar Laxmipathy
+
+Abstract
+Zinc is a cofactor for enzymes involved in DNA replication, peptidoglycan hydrolysis, and pH maintenance, in addition to the transfer of the methyl group to thiols. Here, we discovered a new role of Zn2+ as an inhibitor for S-adenosyl methionine (SAM) binding in a mycobacterial methyltransferase. Rv1377c is annotated as a putative methyltransferase that is upregulated upon the mitomycin C treatment of Mycobacterium tuberculosis. Sequence analysis and experimental validation allowed the identification of distinct motifs responsible for SAM binding. A detailed analysis of the AlphaFold-predicted structure of Rv1377c revealed four cysteine residues capable of coordinating a Zn2+ ion located in proximity to the SAM-binding site. Further, experimental studies showed distinct conformational changes upon Zn2+ binding to the protein, which compromised its ability to bind SAM. This is the first report wherein Zn2+-driven conformational changes in a methyltransferase undermines its ability to bind SAM.
+
+Title
+Anti-bacterial and arsenic remediation insights in aqueous systems onto heterogeneous metal oxide (Cu0.52Al0.1Fe0.47O4)/rGO hybrid: an approach towards airborne microbial degradation
+
+Authors
+Yaswanth K. Penke
+Prem Anand Murugan
+Saravanan Matheshwaran
+Janakarajan Ramkumar
+
+Abstract
+
+
+Title
+Identification and Genome Analysis of an Arsenic-Metabolizing Strain of Citrobacter youngae IITK SM2 in Middle Indo-Gangetic Plain Groundwater
+
+Authors
+Akshat Verma
+Prem Anand Murugan
+Hariharan V Chinnasamy
+Abhas Singh
+
+Abstract
+Whole-genome sequencing (WGS) data of a bacterial strain IITK SM2 isolated from an aquifer located in the middle Indo-Gangetic plain is reported here, along with its physiological, morphological, biochemical, and redox-transformation characteristics in the presence of dissolved arsenic (As). The aquifer exhibits oxidizing conditions relative to As speciation. Analyses based on 16S rRNA and recN sequences indicate that IITK SM2 was clustered with C. youngae NCTC 13708T and C. pasteuri NCTC UMH17T. However, WGS analyses using the digital DNA-DNA hybridization and Rapid Annotations using Subsystems Technology suggest that IITK SM2 belongs to a strain of C. youngae. This strain can effectively reduce As(V) to As(III) but cannot oxidize As(III) to As(V). It exhibited high resistance to As(V) [32,000 mg L-1] and As(III) [1,100 mg L-1], along with certain other heavy metals typically found in contaminated groundwater. WGS analysis also indicates the presence of As-metabolizing genes such as arsC, arsB, arsA, arsD, arsR, and arsH in this strain. Although these genes have been identified in several As(V)-reducers, the clustering of these genes in the forms of arsACBADR, arsCBRH, and an independent arsC gene has not been observed in any other Citrobacter species or other selected As(V)-reducing strains of Enterobacteriaceae family. Moreover, there were differences in the number of genes corresponding to membrane transporters, virulence and defense, motility, protein metabolism, phages, prophages, and transposable elements in IITK SM2 when compared to other strains. This genomic dataset will facilitate subsequent molecular and biochemical analyses of strain IITK SM2 to identify the reasons for high arsenic resistance in Citrobacter youngae and understand its role in As mobilization in middle Indo-Gangetic plain aquifers.
+
+Title
+NaCl Triggers the Sessile-to-Motile Transition of Bacillus subtilis
+
+Authors
+Prem Anand Murugan
+Manish Kumar Gupta
+T. Sabari Sankar
+Sivasurender Chandran
+
+Abstract
+Various chemical cues are known to alter the motile and sessile states of bacteria differentially and, in turn, the formation of biofilms. However, the underlying mechanisms at the cellular and molecular level remain less understood, which severely limits our ability to control biofilms. Here, we systematically studied the effects of NaCl on the dynamics of biofilm formation across various length scales and the associated changes in the regulation of gene expression in an undomesticated natural isolate of Bacillus subtilis . Interestingly, NaCl induced significant changes in the architecture of pellicles and yielded systematic increase in lateral expansion rates of biofilms when grown on an agar surface. At the microscopic level, we observed an intriguing NaCl-induced transition from slow and isotropic super diffusion behavior of individual bacterial cells to rapid anisotropic diffusion behavior. The average orientation of the cells (at the edge) along the expanding direction and the increased flagellation in a subpopulation of cells in the presence of NaCl corroborates well with the observed rapid anisotropic diffusion of cells. Further, the cellular uptake of NaCl resulted in the downregulation of several genes underlying the formation of biofilms, revealing the role of chemical cues like NaCl in controlling the gene regulatory circuit underlying the sessile to motile transition. Our study opens a new avenue to decipher the competitive advantage provided to the subcellular populations by NaCl due to lifestyle switch in Bacillus subtilis .
+
+Title
+Real-time kinetic studies of Mycobacterium tuberculosis LexA–DNA interaction
+
+Authors
+Chitral Chatterjee
+Soneya Majumdar
+Sachin Deshpande
+Deepak Pant
+
+Abstract
+Transcriptional repressor, LexA, regulates the ‘SOS’ response, an indispensable bacterial DNA damage repair machinery. Compared with its Escherichia coli ortholog, LexA from Mycobacterium tuberculosis (Mtb) possesses a unique N-terminal extension of additional 24 amino acids in its DNA-binding domain (DBD) and 18 amino acids insertion at its hinge region that connects the DBD to the C-terminal dimerization/autoproteolysis domain. Despite the importance of LexA in ‘SOS’ regulation, Mtb LexA remains poorly characterized and the functional importance of its additional amino acids remained elusive. In addition, the lack of data on kinetic parameters of Mtb LexA–DNA interaction prompted us to perform kinetic analyses of Mtb LexA and its deletion variants using Bio-layer Interferometry (BLI). Mtb LexA is seen to bind to different ‘SOS’ boxes, DNA sequences present in the operator regions of damage-inducible genes, with comparable nanomolar affinity. Deletion of 18 amino acids from the linker region is found to affect DNA binding unlike the deletion of the N-terminal stretch of extra 24 amino acids. The conserved RKG motif has been found to be critical for DNA binding. Overall, the present study provides insights into the kinetics of the interaction between Mtb LexA and its target ‘SOS’ boxes. The kinetic parameters obtained for DNA binding of Mtb LexA would be instrumental to clearly understand the mechanism of ‘SOS’ regulation and activation in Mtb.
+
+Title
+Potential Role of a Novel Strain of Citrobacter sp. in Controlling Arsenic Speciation in Groundwater
+
+Authors
+Akshat Verma
+Prem Anand Murugan
+Saravanan Matheshwaran
+Abhas Singh
+
+Abstract
+Elevated arsenic (As) in groundwater is a matter of serious concern in many countries due to its toxic effects on human health. In groundwater, As concentration is primarily controlled by complex site-specific biogeochemistry. Although As contamination in groundwater is mainly attributed to inorganic sources, such as iron (oxy)hydroxides, yet the exact mechanisms on how the biotic components influence As speciation are not clearly understood. This study aims to identify potential controls on arsenic speciation in polluted aquifers by understanding the interaction of arsenic-resistant bacteria with inorganic arsenic sources. A novel strain of Citrobacter sp. (AVAS IITK SM2) was isolated from groundwater in Kanpur, India, at conditions that were oxidizing with respect to arsenic speciation. The strain was enriched in Lysogeny broth and minimal salt media, and was subjected to morphological, physiological, biochemical, and molecular characterizations. Redox transformation efficiency of this Citrobacter sp. was determined through its interactions with either dissolved As(V) or As(III) [0-500 mg L-1] under batch conditions. Additionally, bio-mobilization of As was investigated in a batch containing As-sorbed-goethite (~26 mg g-1) and AVAS IITK SM2. Arsenic speciation was measured using ion chromatography coupled with ICPMS. Results indicated that this rod-shaped isolate can tolerate high concentrations of As(V) and As(III). Further, the isolate can reduce As(V) to As(III) and mobilize arsenic [~7 mg L-1 as As(III); Fig.1a] from As-sorbed-goethite in the presence of glucose. whole genome sequences of g-DNA and plasmids confirmed the presence of ars arsenic operon system in this Citrobacter sp. To understand the bacterial metabolism and its planktonic growth under environmental conditions, time-dependent biofilm formation was also investigated using crystal-violet and microscopic analyses in the presence of varying As(III) [0-1000 mg L-1] and As(V) concentrations [0-5000 mg L-1]. Results indicated that this strain can effectively form biofilm, and it preferred to stay attached to a surface with increase arsenic concentrations and time (Fig. 1b). These results would likely enhance our understanding of As(V)-reducing bacterial strains in controlling arsenic speciation in oxidizing groundwaters
+
+Title
+A biphasic nanohydroxyapatite/calcium sulphate carrier containing Rifampicin and Isoniazid for local delivery gives sustained and effective antibiotic release and prevents biofilm formation
+
+Authors
+Irfan Qayoom
+Rahul Verma
+Prem Anand Murugan
+Deepak Bushan Raina
+
+Abstract
+Long term multiple systemic antibiotics form the cornerstone in the treatment of bone and joint tuberculosis, often combined with local surgical eradication. Implanted carriers for local drug delivery have recently been introduced to overcome some of the limitations associated with conventional treatment strategies. In this study, we used a calcium sulphate hemihydrate (CSH)/nanohydroxyapatite (nHAP) based nanocement (NC) biomaterial as a void filler as well as a local delivery carrier of two standard of care tuberculosis drugs, Rifampicin (RFP) and Isoniazid (INH). We observed that the antibiotics showed different release patterns where INH showed a burst release of 67% and 100% release alone and in combination within one week, respectively whereas RFP showed sustained release of 42% and 49% release alone and in combination over a period of 12 weeks, respectively indicating different possible interactions of antibiotics with nHAP. The interactions were studied using computational methodology, which showed that the binding energy of nHAP with RFP was 148 kcal/mol and INH was 11 kcal/mol, thus varying substantially resulting in RFP being retained in the nHAP matrix. Our findings suggest that a biphasic ceramic based drug delivery system could be a promising treatment alternative to bone and joint TB.
+
+Title
+Antibacterial Platinum- N- Heterocyclic Carbene Compounds and Process of Preparation Thereof
+
+Authors
+Mandeep Kaur
+J. K. Bera
+S. Chopra
+Saravanan Matheshwaran
+
+Abstract
+Platinum-based NHC complex as an antibacterial agent against S. aureus with significantly low MIC value and high selective index
+
+Title
+Effect of Zn and Co Doping on Antibacterial Efficacy and Cytocompatibility of Spark Plasma Sintered Hydroxyapatite
+
+Authors
+Arjak Bhattacharjee
+Rubia Hassan
+Anshul Gupta
+Madhu Verma
+
+Abstract
+
+
+Title
+Role of Arsenic-Resistant Bacteria in Controlling Arsenic Concentrations in groundwater
+
+Authors
+Akshat Verma
+Prem Anand Murugan
+Saravanan Matheshwaran
+Abhas Singh
+
+Abstract
+Arsenic (As) is a geogenic metalloid element, well-known for its toxic and carcinogenic effects on human health. Understanding the source and fate of As in groundwater is essential, as concentrations are primarily controlled by site-specific biogeochemistry. Although the source of As contamination in groundwater is mainly inorganic, the role of organic matter and biotic components (such as As-resistant microbes) on As speciation is not clearly understood. This study aims to explore the link between abiotic and biotic components in controlling As concentrations in polluted aquifers. Two novel strains of facultative anaerobic As-resistant bacteria (AV7 and AV9) were isolated from polluted groundwater (Asdiss = 210 µg L-1), which also contained a high concentration of total organic carbon (~ 40 mg L-1). Strains were enriched in Luria-Bertani (LB) broth and minimal media, and were subjected to morphological, physiological, and biochemical studies. Microscopic analysis suggested that both these strains were Gram-negative rod-shaped bacteria. Geochemical analysis of sampled groundwater data indicated saturation with certain arsenate solids, such as pharmacolite [CaHAsO4.2H2O], ferric orthoarsenate [FeAsO4.0.75H2O], and scorodite [FeAsO4.2H2O], which could be potential source(s) of As mobilization. Redox transformation efficiency of strains AV7 and AV9 were determined by performing batch experiments, and subjecting these strains to either dissolved As [0-1000 mg L-1 as As(V) or As(III)] or solid As(V) phases identified in geochemical analysis. Results indicated that both strains AV7 and AV9 exhibited high resistances to As(V) and As(III). Ion chromatography coupled with inductively coupled plasma mass spectrometry analysis of solute data indicated that bacterial isolates can reduce dissolved As(V) in the presence of 10 mM glucose. X-ray photoelectron spectrometry analysis on As-reacted bacterial isolates also confirmed the presence of As(III) in bacterial cells. Results from microbial characterization and wet-chemical experiments, will be presented, that would likely enhance our understanding of the role of native bacterial population in controlling As concentrations in groundwater
+
+Title
+Antibacterial and magnetic response of site-specific cobalt incorporated hydroxyapatite
+
+Authors
+Arjak Bhattacharjee
+Anshul Gupta
+Madhu Verma
+Prem Anand Murugan
+
+Abstract
+
+
+Title
+Exocyst Subcomplex Functions in Autophagosome Biogenesis by Regulating Atg9 Trafficking
+
+Authors
+Sunaina Singh
+Ruchika Kumari
+Sarika Chinchwadkar
+Amol Aher
+
+Abstract
+During autophagy, double-membrane vesicles called autophagosomes capture and degrade the intracellular cargo. The de novo formation of autophagosomes requires several vesicle transport and membrane fusion events which are not completely understood. We studied the involvement of exocyst, an octameric tethering complex, which has a primary function in tethering post-Golgi secretory vesicles to plasma membrane, in autophagy. Our findings indicate that not all subunits of exocyst are involved in selective and general autophagy. We show that in the absence of autophagy specific subunits, autophagy arrest is accompanied by accumulation of incomplete autophagosome-like structures. In these mutants, impaired Atg9 trafficking leads to decreased delivery of membrane to the site of autophagosome biogenesis thereby impeding the elongation and completion of the autophagosomes. The subunits of exocyst, which are dispensable for autophagic function, do not associate with the autophagy specific subcomplex of exocyst.
+
+Title
+Nonlinear spectroscopy reveals how external pH controls permeation and accumulation of small molecules in two cellular compartments of Escherichia coli
+
+Authors
+Anindita Gayen
+Deepak Kumar
+Saravanan Matheshwaran
+Manabendra Chandra
+
+Abstract
+Quantitative evaluation of small molecule permeation and accumulation in Gram-negative bacteria is important for drug development against them. While these measurements are commonly performed at physiological pH, Escherichia coli and many other Enterobacteriaceae infect human gastrointestinal and urinary tracts where they encounter different pH conditions. To understand how external pH affects permeation and accumulation of small molecules in E. coli cells, we apply second harmonic generation (SHG) spectroscopy using SHG-active antimicrobial compound malachite green as the probe molecule. Using SHG, we quantify periplasmic and cytoplasmic accumulations separately in live E. coli cells, which was never done before. Compartment-wise measurements reveal accumulation of the probe molecule in cytoplasm at physiological and alkaline pH, while entrapment in periplasm at weakly acidic pH and retention in external solution at highly acidic pH. Behind such disparity in localizations, up to two orders of magnitude reduction in permeability across the inner membrane at weakly acidic pH and outer membrane at highly acidic pH are found to play key roles. Our results unequivocally demonstrate the control of external pH over entry and compartment-wise distribution of small molecules in E. coli cells, which is a vital information and should be taken into account in antibiotic screening against E. coli and other Enterobacteriaceae members. In addition, our results demonstrate the ability of malachite green as an excellent SHG-indicator of changes of individual cell membrane and periplasm properties of live E. coli cells in response to external pH change from acidic to alkaline. This finding, too, has great importance as there is barely any other molecular probe which can provide similar information.
+
+Title
+Unveiling the Modulating Role of Extracellular pH in Permeation and Accumulation of Small Molecules in Subcellular Compartments of Gram-negative Escherichia coli using Nonlinear Spectroscopy
+
+Authors
+Deepak Kumar
+Anindita Gayen
+Saravanan Matheshwaran
+Manabendra Chandra
+
+Abstract
+Quantitative evaluation of small molecule permeation and accumulation in Gram-negative bacteria is important for drug development against these bacteria. While these measurements are commonly performed at physiological pH, Escherichia coli and many other Enterobacteriaceae infect human gastrointestinal and urinary tracts, where they encounter different pH conditions. To understand how external pH affects permeation and accumulation of small molecules in E. coli cells, we apply second harmonic generation (SHG) spectroscopy using SHG-active antimicrobial compound malachite green as the probe molecule. Using SHG, we quantify periplasmic and cytoplasmic accumulations separately in live E. coli cells, which was never done before. Compartment-wise measurements reveal accumulation of the probe molecule in cytoplasm at physiological and alkaline pH, while entrapment in periplasm at weakly acidic pH and retention in external solution at highly acidic pH. Behind such disparity in localizations, up to 2 orders of magnitude reduction in permeability across the inner membrane at weakly acidic pH and outer membrane at highly acidic pH are found to play key roles. Our results unequivocally demonstrate the control of external pH over entry and compartment-wise distribution of small molecules in E. coli cells, which is a vital information and should be taken into account in antibiotic screening against E. coli and other Enterobacteriaceae members. In addition, our results demonstrate the ability of malachite green as an excellent SHG-indicator of changes of individual cell membrane and periplasm properties of live E. coli cells in response to external pH change from acidic to alkaline. This finding, too, has great importance, as there is barely any other molecular probe that can provide similar information.
+
+Title
+Accepted Manuscript Site-specific antibacterial efficacy and cyto/hemo-compatibility of zinc substituted hydroxyapatite Site-Specific Antibacterial Efficacy and Cyto/Hemo-compatibility of Zinc Substituted Hydroxyapatite 2
+
+Authors
+Arjak Bhattacharjee
+Anshul Gupta
+Madhu Verma
+Prem Anand Murugan
+
+Abstract
+
+
+Title
+Genome Sequence of Bacillus subtilis subsp. subtilis Strain IITK SM1, Isolated from Kitchen Waste Compost
+
+Authors
+Prem Anand Murugan
+Hariharan V Chinnasamy
+Hari Shankar
+Abhas Singh
+
+Abstract
+We report here the complete genome sequence of Bacillus subtilis subsp. subtilis strain IITK SM1, isolated from kitchen waste compost. We have sequenced the whole genome of this strain to identify and characterize the enzymes that participate in efficient composting activity.
+
+Title
+Title: Exocyst subcomplex functions in autophagosome biogenesis by regulating Atg9 trafficking
+
+Authors
+Sunaina Singh
+Sarika Chinchwadkar
+Amol Aher
+Saravanan Matheshwaran
+
+Abstract
+During autophagy, double membrane vesicles called autophagosomes capture and degrade the intracellular cargo. The de novo formation of autophagosomes requires several vesicle transport and membrane fusion events which are not completely understood. We studied the involvement of Exocyst-an octameric tethering complex, which has a primary function in tethering post-Golgi secretory vesicles to plasma membrane, in autophagy. Our findings indicate not all subunits of exocyst are involved in selective and general autophagy. We show that in the absence of autophagy specific subunits, autophagy arrest is accompanied by accumulation of incomplete autophagosome-like structures. In these mutants, impaired Atg9 trafficking leads to decreased delivery of membrane to the site of autophagosome biogenesis thereby impeding the elongation and completion of the autophagosomes. The subunits of exocyst which are dispensable for autophagic function do not associate with the autophagy specific subcomplex of exocyst.
+
+Title
+Whole genome Sequencing of Mucilaginous Bio-film forming Bacillus subtilis IITK SM1
+
+Authors
+Prem Anand Murugan
+Hariharan V Chinnasamy
+Abhas Singh
+Saravanan Matheshwaran
+
+Abstract
+We have isolated a robust mucilaginous biofilm forming bacteria, with unique property in waste degradation . IITK SM1 strain will be an ideal model system to study cell-cell communications and to discover a varieties of biofilm associated macro and micro molecules. This bacterial strain contain 4238 genes. We have identified 20 new genes which are not reported in any other organisms, these genes and their products will be analysed to understand their role in observed unique properties.
+
+Title
+Functional Epigenomics
+
+Authors
+Soneya Majumdar
+Prerana Singh
+Abhishek Iyer
+Saravanan Matheshwaran
+
+Abstract
+In eukaryotic cells, DNA is present as a compact nucleoprotein complex called chromatin. Chromatin compromises DNA accessibility for the diverse DNA-dependent cellular processes. Hence, timely remodeling of the chromatin structure to enhance DNA availability is one of the key factors in gene expression. Chromatin remodeling is in turn influenced by the epigenetic machinery that modifies DNA and histones. Epigenetic modifications are capable of regulating gene expression by modulating DNA access rather than altering the DNA sequence. Several diseases are associated with altered gene expression levels, implying a possible role for epigenetic modifications. With the emergence of high-throughput techniques, numerous critical diseases have been associated with aberrant epigenetic modifications and mutations in the epigenetic machinery. However, it was realized that regulation of gene expression relies on cross talk between diverse epigenetic marks across the genome. Subsequently, a lot of effort has been focused on developing high-throughput techniques that could precisely identify the characteristic epigenetic pattern for a particular disease. In this chapter we discuss the diverse epigenetic modifications and how these modifications influence the expression of genes associated with specific diseases. Further, we introduce the available techniques to characterize epigenetic changes at the genome level and also present certain recent advances in the development of epigenetic therapies.
+
+Title
+Hemocompatible glutaminase free L-asparaginase from marine Bacillus tequilensis PV9W with anticancer potential modulating p53 expression
+
+Authors
+Ganeshan Shakambari
+Birendranarayan Anand Kumar
+Angelaalincy Maria Joseph
+Sameer Kumar Rai
+
+Abstract
+
+
+Title
+Expression and purification of functional Anabaena PCC 7120 XisA protein
+
+Authors
+Ujwalkumar Trivedi
+Shubham Kaushik
+Prashant Kunjadia
+Saravanan Matheshwaran
+
+Abstract
+Anabaena PCC 7120 xisA gene product mediates the site-specific excision of 11,278 bp nifD element in heterocysts formed under nitrogen starvation conditions. Although XisA protein possesses both site-specific recombinase and endonuclease activities, till date neither xisA transcript nor XisA protein has been detected. Gene encoding XisA protein was isolated from plasmid pMX25 and overexpressed in Escherichia coli BL21 DE3 yielding 7.7 mg enzyme per L of growth culture in soluble fraction. His-tagged XisA was purified using Ni-NTA affinity chromatography with 95 % recovery. The purified XisA showed a single band on SDS-PAGE with molecular mass of 52 kDa. Identity of XisA was confirmed by MALDI-TOF analysis and functionality of enzyme was confirmed using restriction digestion. A PCR based method was developed to monitor excision by XisA, which displayed near 100% activity in E. coli within 1 h at 37 (°)C on LB under static condition.
+
+Title
+PATENT saravanan Matheshwaran US8119382
+
+Authors
+Valakunja Nagaraja
+Saravanan Matheshwaran
+Zhu Z
+
+
+
+Title
+Variant of KpnI restriction endonuclease.
+
+Authors
+Valakunja Nagaraja
+Saravanan Matheshwaran
+Zhu Z
+
+
+
+Title
+Endonuclease Active Site Plasticity Allows DNA Cleavage with Diverse Alkaline Earth and Transition Metal Ions
+
+Authors
+Kommireddy Vasu
+Saravanan Matheshwaran
+Valakunja Nagaraja
+
+Abstract
+A majority of enzymes show a high degree of specificity toward a particular metal ion in their catalytic reaction. However, Type II restriction endonuclease (REase) R.KpnI, which is the first member of the HNH superfamily of REases, exhibits extraordinary diversity in metal ion dependent DNA cleavage. Several alkaline earth and transition group metal ions induce high fidelity and promiscuous cleavage or inhibition depending upon their concentration. The metal ions having different ionic radii and co-ordination geometries readily replace each other from the enzyme's active site, revealing its plasticity. Ability of R.KpnI to cleave DNA with both alkaline earth and transition group metal ions having varied ionic radii could imply utilization of different catalytic site(s). However, mutation of the invariant His residue of the HNH motif caused abolition of the enzyme activity with all of the cofactors, indicating that the enzyme follows a single metal ion catalytic mechanism for DNA cleavage. Indispensability of His in nucleophile activation together with broad cofactor tolerance of the enzyme indicates electrostatic stabilization function of metal ions during catalysis. Nevertheless, a second metal ion is recruited at higher concentrations to either induce promiscuity or inhibit the DNA cleavage. Regulation of the endonuclease activity and fidelity by a second metal ion binding is a unique feature of R.KpnI among REases and HNH nucleases. The active site plasticity of R.KpnI opens up avenues for redesigning cofactor specificities and generation of mutants specific to a particular metal ion.
+
+Title
+KpnI Restriction endonucleases with reduced star activity
+
+Authors
+Zhu Zhenyu
+Valakunja Nagaraja
+Saravanan Matheshwaran
+
+
+
+Title
+Generation of a Manganese Specific Restriction Endonuclease with Nicking Activity
+
+Authors
+Kommireddy Vasu
+Saravanan Matheshwaran
+Rajendra Boggavarapu
+Valakunja Nagaraja
+
+Abstract
+
+
+Title
+Conformational Changes Triggered by Mg2+ Mediate Transactivator Function
+
+Authors
+Ganduri Swapna
+Saravanan Matheshwaran
+Valakunja Nagaraja
+
+Abstract
+Transactivator protein C of bacteriophage mu is essential for the transition from middle to late gene expression during the phage life cycle. The unusual, multistep activation of mom promoter (P(mom)) by C protein involves activator-mediated promoter unwinding to recruit RNA polymerase and subsequent enhanced promoter clearance of the enzyme. To achieve this, C binds its site overlapping the -35 region of the mom promoter with a very high affinity, in Mg(2+)-dependent fashion. Mg(2+)-mediated conformational transition in C is necessary for its DNA binding and transactivation. We have determined the residues in C which coordinate Mg(2+), to induce allosteric transition in the protein, required for the specific interaction with DNA. Residues E26 and D40 in the putative metal binding motif (E(26)X(10)D(37)X(2)D(40)) present toward the N-terminus of the protein are found to be important for Mg(2+) ion binding. Mutations in these residues lead to altered Mg(2+)-induced conformation, compromised DNA binding, and reduced levels of transcription activation. Although Mg(2+) is widely used in various DNA transaction reactions, this report provides the first insights on the importance of the metal ion-induced allosteric transitions in regulating transcription factor function.
+
+Title
+Structural integrity of the Beta Beta Alpha-Metal finger motif is required for DNA binding and stable protein–DNA complex formation in R.KpnI
+
+Authors
+Kommireddy Vasu
+Saravanan Matheshwaran
+Janusz M Bujnicki
+Valakunja Nagaraja
+
+Abstract
+Restriction endonuclease (REase) R.KpnI from Klebsiella pneumoniae is a homodimeric enzyme, which recognizes palindromic sequence GGTAC|C and cleaves generating 4 base 3' end overhangs. R.KpnI belongs to the HNH superfamily of nucleases, which are characterized by the presence of the beta beta alpha-Me finger motif. Structurally, this motif consists of a twisted beta-hairpin followed by an alpha-helix, and serves as a scaffold for side chains of residues involved in co-ordination of a divalent metal ion that is required for catalysis. Homology modeling studies of R.KpnI suggested a crossover structure for the alpha-helix, which could possibly form dimeric interface and/or structural scaffold for the active site. We have evaluated the role of the residues present in this alpha-helix in intersubunit interactions and/or stabilization of the active site. We show here that mutations of residues in the alpha-helix lead to a loss of the enzyme activity, but not dimerization ability. Intrinsic fluorescence and circular dichroism studies revealed that the loss of function phenotype was due to the structural perturbation of the beta beta alpha-Me finger motif. The results of mutational analysis suggest that the alpha-helix of the beta beta alpha-Me finger of R.KpnI plays an important role for the stability of the protein-DNA complex.
+
+Title
+Dual Role for Zn2+ in Maintaining Structural Integrity and Inducing DNA Sequence Specificity in a Promiscuous Endonuclease
+
+Authors
+Saravanan Matheshwaran
+Kommireddy Vasu
+Soumitra Ghosh
+Valakunja Nagaraja
+
+Abstract
+We describe two uncommon roles for Zn2+ in enzyme KpnI restriction endonuclease (REase). Among all of the REases studied, KpnI REase is unique in its DNA binding and cleavage characteristics. The enzyme is a poor discriminator of DNA sequences, cleaving DNA in a promiscuous manner in the presence of Mg2+. Unlike most Type II REases, the active site of the enzyme comprises an HNH motif, which can accommodate Mg2+, Mn2+, or Ca2+. Among these metal ions, Mg2+ and Mn2+ induce promiscuous cleavage by the enzyme, whereas Ca2+-bound enzyme exhibits site-specific cleavage. Examination of the sequence of the protein revealed the presence of a zinc finger CCCH motif rarely found in proteins of prokaryotic origin. The zinc binding motif tightly coordinates zinc to provide a rigid structural framework for the enzyme needed for its function. In addition to this structural scaffold, another atom of zinc binds to the active site to induce high fidelity cleavage and suppress the Mg2+- and Mn2+-mediated promiscuous behavior of the enzyme. This is the first demonstration of distinct structural and catalytic roles for zinc in an enzyme, suggesting the distinct origin of KpnI REase.
+
+Title
+R.KpnI, an HNH superfamily REase, exhibits differential discrimination at non-canonical sequences in the presence of Ca2+ and Mg2+
+
+Authors
+Saravanan Matheshwaran
+Kommireddy Vasu
+Raj R. Kanagaraj
+Desirazu N Rao
+
+Abstract
+
+
+Title
+Ca 2 +-mediated Site-specific DNA Cleavage and Suppression of Promiscuous Activity of KpnI Restriction Endonuclease
+
+Authors
+Siddamadappa Chandrashekaran
+Saravanan Matheshwaran
+Deshpande R Radha
+Valakunja Nagaraja
+
+Abstract
+The characteristic feature of type II restriction endonucleases (REases) is their exquisite sequence specificity and obligate Mg2+ requirement for catalysis. Efficient cleavage of DNA only in the presence of Ca2+ ions, comparable with that of Mg2+, is previously not described. Most intriguingly, KpnI REase exhibits Ca2+-dependent specific DNA cleavage. Moreover, the enzyme is highly promiscuous in its cleavage pattern on plasmid DNAs in the presence of Mn2+ or Mg2+, with the complete suppression of promiscuous activity in the presence of Ca2+. KpnI methyltransferase does not exhibit promiscuous activity unlike its cognate REase. The REase binds to oligonucleotides containing canonical and mapped noncanonical sites with comparable affinities. However, the extent of cleavage is varied depending on the metal ion and the sequence. The ability of the enzyme to be promiscuous or specific may reflect an evolutionary design. Based on the results, we suggest that the enzyme KpnI represents an REase evolving to attain higher sequence specificity from an ancient nonspecific nuclease.
+
+Title
+A new type II restriction endonuclease, OfoI from nonheterocystous cyanobacterium Oscillatoria foreaui
+
+Authors
+Saravanan Matheshwaran
+Kathirvel Elango
+Siddamadappa Chandrashekaran
+Narayanaswamy Anand
+
+Abstract
+Although restriction enzymes are widely distributed in nature, many bacterial genera are yet to be explored for the presence of this important class of enzymes. We have purified and characterized a new type II restriction endonuclease, OfoI from a nonheterocyst cyanobacterium Oscillatoria foreaui. The recognition sequence has been determined by primer extension analysis. The purified enzyme OfoI recognizes and cleaves the palindromic hexanucleotide 5'-Cdown arrowYCGRG-3', generating 5'-protruding ends.
+
+Title
+Catechol dioxygenase is an insensitive reporter for transcription in Mycobacterium smegmatis
+
+Authors
+Saravanan Matheshwaran
+Kathirvel Elango
+Siddamadappa Chandrashekaran
+Narayanaswamy Anand
+
+Abstract
+Although restriction enzymes are widely distributed in nature, many bacterial genera are yet to be explored for the presence of this important class of enzymes. We have purified and characterized a new type II restriction endonuclease, OfoI from a nonheterocyst cyanobacterium Oscillatoria foreaui. The recognition sequence has been determined by primer extension analysis. The purified enzyme OfoI recognizes and cleaves the palindromic hexanucleotide 5¢-C¯YCGRG-3¢, generating 5¢-protruding ends.
+
+Title
+New Active Site Fold And The Role Of Metal Ions In Structure Function Relationship Of A Promiscuous Endonuclease - R.KpnI
+
+Authors
+Saravanan Matheshwaran
+
+Abstract
+
+
+Title
+Estimation of Five Parameter Bivariate Modified Weibull Singular Distribution
+
+Authors
+Sanjay Kumar
+Debasis Kundu
+Sharmishtha Mitra
+
+Abstract
+Recently, El-Bassiouny et al. [5] proposed the flexible Marshall-Olkin type bivariate modified Weibull distribution (BMWD) and obtained the maximum likelihood estimates (MLEs) of the five unknown parameters of the BMWD by solving five non-linear equations. The MLEs of parameters cannot be obtained in closed form. In this paper, we discuss about the computation of the MLEs using the efficient EM algorithm, which reduces the problem to a two-dimensional (2-D) optimization problem. The proposed EM algorithm performs better than the standard existing optimization algorithms, e.g., optim and nlm. The bivariate goodness-of-fit (GoF) test is discussed based on statistically equivalence blocks (SEB). Some nonstandard likelihood ratio (LR) tests are considered for testing the relative GoF to the BMWD. An extensive simulation study is carried out. The EM algorithm performs quite well. A real-life data set is analyzed for illustrative purposes.
+
+Title
+Step-stress Life-testing under Tampered Random Variable Modeling for Weibull Distribution in Presence of Competing Risk Data
+
+Authors
+Farha Sultana
+
+
+Title
+Model order estimation in multi-component chirp signals
+
+Authors
+Abhinek Shukla
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Real datasets exhibiting non-constant frequencies, can be analysed with the help of multi-component chirp signals adequately. This requires estimation of the number of chirp components in practice. The problem of estimation becomes difficult when the data is composed of moderate to large number of chirp components. We propose Bayesian approach to estimate the number of components of a multi-component chirp model using an approximation to the mode of the posterior distribution. This approximation is motivated from the relation between mode of the obtained posterior and the sequential least squares estimators. Extensive numerical simulations highlight superior performance of the proposed estimators than that of the estimators based on Akaike information criterion, Bayesian information criterion and asymptotic maximum a posteriori probability, for a large range of signal-to-noise ratio levels. We further illustrate the implementation of the proposed estimators through two real data examples.
+
+Title
+Estimation of the Stress-Strength Parameter under Two-Sample Balanced Progressive Censoring Scheme
+
+Authors
+Farha Sultana
+
+
+Title
+Inference for compound truncated Poisson log-normal model with application to maximum precipitation data
+
+Authors
+Mohammed Amine Meraou
+Mohammad Z. Raqab
+Debasis Kundu
+Fatemah Alqallaf
+
+
+
+Title
+Two sample Bayesian acceptance sampling plan
+
+Authors
+Deepak Prajapati
+Shuvashree Mondal
+Debasis Kundu
+
+Abstract
+This article presents the optimal Bayesian acceptance sampling plan (BASP) for two sample cases. In constructing the BASP, the decision-theoretic approach is used with a specified loss function, and the Bayes decision rule is developed by minimizing the Bayes risk. Both batches of products from the production line are accepted or rejected simultaneously based on the observed sample. Such implementation has a significant advantage in reducing the cost and time by deciding on the acceptance or rejection of both the batches in a single-life testing experiment. The optimal BASP is derived under the assumption of Weibull and exponential lifetimes, although it can be extended for other lifetime distributions also. Some numerical results have been presented to show the performances of the proposed BASP. We have presented the analysis of two data sets; (i) real and (ii) simulated, mainly to show how the proposed method can be used in practice.
+
+Title
+A Stationary Proportional Hazard Class Process and its Applications
+
+Authors
+Debasis Kundu
+
+Abstract
+The motivation of this work came when we were trying to analyze gold price data of the Indian market and the exchange rate data between Indian Rupees and US Dollars. It is observed that in both the cases there is a significant amount of time when X n = X n+1 , hence they cannot be ignored. In this paper we have introduced a very flexible discrete time and continuous state space stationary stochastic process {X n }, where X n has a proportional hazard class of distribution and there is a positive probability that X n = X n+1. We have assumed a very flexible piecewise constant hazard function of the base line distribution of the proportional hazard class. Different properties of the proposed class has been obtained. Different dependency properties have been established. Estimating the cut points of the piecewise constant hazard function is an important problem and it has been addressed here. The maximum likelihood estimators (MLEs) of the unknown parameters cannot be obtained in closed form, and we have proposed to use profile likelihood method to compute the MLEs. The gold price data set and the exchange rate data set have been analyzed and the results are quite satisfactory. AMS Subject Classifications: 62F10, 62F03, 62H12.
+
+Title
+Robust parameter estimation in two-channel sinusoidal frequency model
+
+Authors
+Debasis Kundu
+
+
+
+Title
+Bivariate Semi-Parametric Model: Bayesian Inference
+
+Authors
+Debashis Samanta
+Debasis Kundu
+
+Abstract
+The motivation of this paper came from two bivariate diabetic retinopathy data sets. The main aim is to test whether the laser treatment delays the onset of blindness compared to the traditional treatment. The first data set is of 197 patients and it provides the onset of blindness of the two eyes. The observed data are heavily censored on both the variables. The second data set is of 91 patients, and it indicates the minimum time of the onset of blindness between the two eyes. In both the cases there is a significant proportion where the onset of blindness has occured on both the eyes simultaneously, i.e. there is a significant proportion where both the variables are equal. Hence, the two variables cannot be treated as independent. We have used a Marshall-Olkin bivariate exponential or Weibull type a bivariate semi-parametric model, where the base line distribution is more flexible than any parametric distribution. The base line distribution is assumed to have a piecewise constant hazard function and that makes the Bayes line hazard function to be very flexible. Marshall-Olkin bivariate exponential distribution becomes a special case of the model. The maximum likelihood estimators may not always exist, and we have considered the Bayesian inference of the unknown parameters. We have used importance sampling technique to compute Bayes estimators and the associated credible intervals. We have addressed some testing of hypothesis problem also based on Bayes factors. Finally, both the data sets have been analyzed, and it is observed for one data set the laser treatment has a significantly different effect than the traditional treatment, where as for the other data set no significantly different effect has been observed.
+
+Title
+A flexible model based on piecewise linear approximation for the analysis of left truncated right censored data with covariates, and applications to Worcester Heart Attack Study data and Channing House data
+
+Authors
+Ayon Ganguly
+Debanjan Mitra
+Narayanaswamy Balakrishnan
+Debasis Kundu
+
+Abstract
+
+
+Title
+Model misspecification of Log-Normal and Birnbaum-Saunders distributions
+
+Authors
+Suparna Basu
+Debasis Kundu
+
+Abstract
+Model misspecification can be a serious issue in any lifetime data analysis. Assumption of the correct model is very important particularly in prediction for future observations and for estimating the tail probabilities of any lifetime distribution. In this paper we have considered the model misspecification of the log-normal and Birnbaum-Saunders distributions. These two distributions have striking similarities both in terms of the probability density functions and hazard functions, in certain range of parameter values, which makes it extremely difficult to detect the correct model. Hence, to identify the correct model, first the conventional method of ratio of maximized likelihood approach has been tried. The necessary theoretical results have been derived. Based on extensive simulations it has been observed that for certain range of parameter values the model misspecification can be quite high even for very large sample sizes. Some of the other methods like the ratio of maximized product of spacings and minimized Kolmogorov-Smirnov distance, have also been explored. But none of the method performs uniformly better than the other over the entire range of the parameter space. Some counterintuitive results have also been obtained. Hence, we finally conclude that it is extremely difficult to choose the correct model in case of log-normal and Birnbaum-Saunders distribution for certain range of parameter values. Finally, we have suggested a modified ratio of maximized likelihood approach, and the performances are quite satisfactory.
+
+Title
+Robust estimators of two dimensional sinusoidal model parameters
+
+Authors
+Debasis Kundu
+Rhythm Grover
+
+
+
+Title
+A finite mixture model for multiple dependent competing risks with applications of automotive warranty claims data
+
+Authors
+Deepak Prajapati
+Ayan Pal
+Debasis Kundu
+
+Abstract
+This paper introduces a parametric finite mixture model (FMM) approach to analyze the dependent competing risks data subjected to progressive first-failure censoring and multiple causes of failure. The cause-specific failure times are assumed to be flexibly modeled by the Lehmann family of distributions (also known as the exponentiated distributions) with variation in both distribution parameters. Application of the expectation maximization (EM) algorithm facilitates the maximum likelihood estimation of the model parameters and illuminates the contribution of the censored data. For interval estimation purposes, we resort to using the asymptotic confidence intervals based on the observed Fisher information matrix. Practitioners often prefer employing simpler lifetime distribution in order to facilitate the data modeling process while knowing the true distribution. In this context, the effects of model misspecification are studied based on the p-th quantile when the true distribution is misspecified. An extensive simulation study is performed to validate our proposed model. Finally, an automotive warranty claims data set is used as an illustration to study the effectiveness of our proposed model, assuming some important members of the Lehmann family, like generalized exponential and exponentiated Pareto distributions.
+
+Title
+On competing risk model under step-stress stage life testing
+
+Authors
+Debashis Samanta
+Debasis Kundu
+
+
+
+Title
+On Estimating Parameters of a Multicomponent Chirp Model With Equal Chirp Rates
+
+Authors
+Abhinek Shukla
+Debasis Kundu
+Amit Mitra
+Rhythm Grover
+
+Abstract
+Multi-component chirp signal models with equal chirp rates appear in various radar applications, e.g., synthetic aperture radar, echo signal of a rapid mobile target, etc. Many sub-optimal estimators have been developed for such models, however, these suffer from the problem of either identifiability or error propagation effect. In this paper, we have developed theoretical properties of the least squares estimators (LSEs) of the parameters of multi-component chirp model with equal chirp rates, where the model is contaminated with linear stationary errors. We also propose two computationally efficient estimators as alternative to LSEs, namely sequential combined estimators and sequential plugin estimators. Strong consistency and asymptotic normality of these estimators have been derived. Interestingly, it is observed that sequential combined estimator of the chirp rate parameter is asymptotically efficient. Extensive numerical simulations have been performed, which validate satisfactory computational and theoretical performance of all three estimators. We have also analysed a simulated radar data with the help of our proposed estimators of multi-component chirp model with equal chirp rates, which performs efficiently in recovery of inverse synthetic aperture radar (ISAR) image of a target from a noisy data.
+
+Title
+Estimation of the Elementary Chirp Model Parameters
+
+Authors
+Anjali Mittal
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+In this paper, we propose some estimation techniques to estimate the elementary chirp model parameters, which are encountered in sonar, radar, acoustics, and other areas. We derive asymptotic theoretical properties of least squares estimators and approximate least squares estimators for the one component elementary chirp model. It is proved that the proposed estimators are strongly consistent and follow the normal distribution asymptotically. We also suggest how to obtain proper initial values for these methods. The problem of finding initial values is a difficult problem when the number of components in the model is large, or when the signal-to-noise ratio is low, or when two frequency rates are close to each other. We propose sequential procedures to estimate the multiple component elementary chirp model parameters. We prove that the theoretical properties of sequential least squares estimators and sequential approximate least squares estimators coincide with those of least squares estimators and approximate least squares estimators, respectively. Further, the asymptotic variances of the proposed estimators attain the Cramér-Rao lower bounds asymptotically when errors are normal random variables and independently and identically distributed. To evaluate the performance of the proposed estimators, numerical experiments are performed. It is observed that the proposed sequential estimators perform well even in situations where least squares estimators do not perform well. We illustrate the performance of the proposed sequential algorithm on a bat data.
+
+Title
+Fundamental Frequency and its Harmonics Model: A Robust Method of Estimation
+
+Authors
+Debasis Kundu
+
+Abstract
+In this paper we have proposed a novel robust method of estimation of the unknown parameters of a fundamental frequency and its harmonics model. Although the least squares estimators (LSEs) or the periodogram type estimators are the most efficient estimators, it is well known that they are not robust. In presence of outliers the LSEs are known to be not efficient. In presence of outliers, robust estimators like least absolute deviation estimators (LADEs) or Huber’s M-estimators (HMEs) may be used. But implementation of the LADEs or HMEs are quite challenging, particularly if the number of component is large. Finding initial guesses in the higher dimensions is always a non-trivial issue. Moreover, theoretical properties of the robust estimators can be established under stronger assumptions than what are needed for the LSEs. In this paper we have proposed novel weighted least squares estimators (WLSEs) which are more robust compared to the LSEs or periodogram estimators in presence of outliers. The proposed WLSEs can be implemented very conveniently in practice. It involves in solving only one non-linear equation. We have established the theoretical properties of the proposed WLSEs. Extensive simulations suggest that in presence of outliers, the WLSEs behave better than the LSEs, periodogram estimators, LADEs and HMEs. The performance of the WLSEs depend on the weight function, and we have discussed how to choose the weight function. We have analyzed one synthetic data set to show how the proposed method can be used in practice.
+
+Title
+Estimating parameters in multichannel fundamental frequency with harmonics model
+
+Authors
+Swagata Nandi
+Debasis Kundu
+
+
+
+Title
+On Weighted Least Squares Estimators for Chirp Like Model
+
+Authors
+Debasis Kundu
+Swagata Nandi
+Rhythm Grover
+
+Abstract
+In this paper we have considered the chirp like model which has been recently introduced, and it has a very close resemblance with a chirp model. We consider the weighted least squares estimators of the parameters of a chirp like model in presence of an additive stationary error, and study their properties. It is observed that although the least squares method seems to be a natural choice to estimate the unknown parameters of a chirp like model, the least squares estimators are very sensitive to the outliers. It is observed that the weighted least squares estimators are quite robust in this respect. The weighted least squares estimators are consistent and they have the same rate of convergence as the least squares estimators. We have further extended the results in case of multicomponent chirp like model. Some simulations have been performed to show the effectiveness of the proposed method. In simulation studies, weighted least squares estimators have been compared with the least absolute deviation estimators which, in general, are known to work well in presence of outliers. One EEG data set has been analyzed and the results are quite satisfactory.
+
+Title
+Weighted least squares: A robust method of estimation for sinusoidal model
+
+Authors
+Debasis Kundu
+
+
+
+Title
+Bayesian acceptance sampling plan for simple step-stress model
+
+Authors
+Deepak Prajapati
+Debasis Kundu
+
+Abstract
+This paper presents a Bayesian acceptance sampling plan for simple step-stress life testing model, when the stress changing time is random, and the experimental units are subject to Type-II censoring. It is assumed that the lifetime distribution of the experimental item is exponential at each stress level with different scale parameters. We first present the Bayes decision function under a specified loss function. Based on the Bayes decision function, the optimal Bayesian sampling plan is determined by minimizing the Bayes risk. We also present some optimal Bayesian sampling plan under specific cases. We further provide order restricted optimal Bayesian sampling plan also. The Bayesian sampling plans presented in this paper are quite beneficial when the experimental items are highly reliable, which is quite common in present days.
+
+Title
+On three-parameter generalized exponential distribution
+
+Authors
+Suparna Basu
+Debasis Kundu
+
+Abstract
+
+
+Title
+A computationally efficient algorithm to estimate the parameters of a two-dimensional chirp model with the product term
+
+Authors
+Abhinek Shukla
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Chirp signal models and their generalizations have been used to model many natural and man-made phenomena in signal processing and time series literature. In recent times, several methods have been proposed for parameter estimation of these models. However, these methods are either statistically sub-optimal or computationally burdensome, especially for two dimensional chirp models. In this paper, we consider the problem of parameter estimation of two dimensional chirp models and propose a computationally efficient estimator and establish asymptotic theoretical properties of the proposed estimators. Moreover, the proposed estimators are observed to have the same rates of convergence as the least squares estimators. Further, the proposed estimators of chirp rate parameters are shown to be asymptotically optimal. Extensive and detailed numerical simulations are conducted, which support the theoretical results of the proposed estimators.
+
+Title
+Bivariate Semi-Parametric Model: Bayesian Inference
+
+Authors
+Debashis Samanta
+Debasis Kundu
+
+Abstract
+The motivation of this paper came from two bivariate diabetic retinopathy data sets. The main aim is to test whether the laser treatment delays the onset of blindness compared to the traditional treatment. The first data set is of 197 patients and it provides the onset of blindness of the two eyes. The observed data are heavily censored on both the variables and there is a significant proportion where both the variables are equal. The second data set is of 91 patients, and it indicates the minimum time of the onset of blindness between the two eyes. We have used a Marshall-Olkin bivariate exponential or Weibull type a bivariate semi-parametric model, where the base line distribution is more flexible than any parametric distribution. The base line distribution is assumed to have a piecewise constant hazard function and that makes the Bayes line hazard function to be very flexible. Marshall-Olkin bivariate exponential distribution becomes a special case of the model. The maximum likelihood estimators may not always exist, and we have considered the Bayesian inference of the unknown parameters. We have used importance sampling technique to compute Bayes estimators and the associated credible intervals. We have addressed some testing of hypothesis problem also based on Bayes factors. Finally, both the data sets have been analyzed, and it is observed for one data set the laser treatment has a significantly different effect than the traditional treatment, where as for the other data set no significantly different effect has been observed. AMS Subject Classifications: 62F10, 62F03, 62H12
+
+Title
+Symmetric Geometric Skew Normal Regression Model
+
+Authors
+Debasis Kundu
+Deepak Prajapati
+
+Abstract
+Recently, Kundu (2014, Sankhya, Ser. B, 167–189, 2014) proposed a geometric skew normal (GSN) distribution as an alternative to Azzalini’s skew normal (ASN) distribution. The GSN distribution can be a skewed distribution; it can be heavy tailed as well as multimodal also, unlike ASN distribution. It can be easily extended to the multivariate case also. The multivariate geometric skew normal (MGSN) distribution also has several desirable properties. In this paper, we have proposed a symmetric geometric skew normal (SGSN) distribution as an alternative to a symmetric distribution like normal distribution, log Birnbaum-Saunders (BS) distribution, Student’s t distribution, etc. It is a very flexible class of distributions, of which normal distribution is a special case. The proposed model has three unknown parameters, and it is observed that the maximum likelihood (ML) estimators of the unknown parameters cannot be obtained in explicit forms. In this paper, we have proposed a very efficient expectation maximization (EM) algorithm, and it is observed that the proposed EM algorithm works very well. We have further considered a location shift SGSN regression model. It is a more flexible than the standard Gaussian regression model. The ML estimators of the unknown parameters are obtained based on EM algorithm. Extensive simulation experiments and the analyses of two data sets have been presented to show the effectiveness of the proposed model and the estimation techniques.KeywordsAbsolute continuous distributionSingular distributionFisher information matrixEM algorithmJoint probability distribution functionJoint probability density function
+
+Title
+Bayesian Sampling Plan for the Exponential Distribution with Generalized Type-I Hybrid Censoring Scheme
+
+Authors
+Deepak Prajapati
+Sharmishtha Mitra
+Debasis Kundu
+
+Abstract
+This paper discusses Bayesian sampling plan when the lifetime of the experimental units follows an exponential distribution and the data are generalized Type-I hybrid censored. Here, we adopt a decision-theoretic approach, and the Bayesian decision function is derived under a general loss function. Based on the Bayesian decision function, the Bayesian sampling plan (BSP) has been obtained. Further, for the conjugate prior distribution, the closed-form Bayes decision rule has been provided under the quadratic decision loss. It is noticed that for higher-degree polynomial loss functions, closed-form Bayes decision function cannot be obtained analytically. To address this limitation, we discuss a numerical approach to obtain Bayes decision function for other forms of the loss functions. As an illustration, we consider fifth-degree polynomial loss function to obtain the optimum BSP. Optimum BSPs under different scenarios have been reported.
+
+Title
+Statistical Inference for the Jointly Adaptive Progressive Type-II Censored Weibull Distributions
+
+Authors
+Farha Sultana
+
+
+Title
+On estimating parameters of a multi-component Chirp Model with equal chirp rates
+
+Authors
+Abhinek Shukla
+Debasis Kundu
+Amit Mitra
+Rhythm Grover
+
+Abstract
+Multi-component chirp signal models with equal chirp rates appear in various radar applications, e.g., synthetic aperture radar, echo signal of a rapid mobile target, etc. Many sub-optimal estimators have been developed for such models, however, these suffer from the problem of either identifiability or error propagation effect. In this paper, we have developed theoretical properties of the least squares estimators (LSEs) of the parameters of multi-component chirp model with equal chirp rates, where the model is contaminated with linear stationary errors. We also propose two computationally efficient estimators as alternative to LSEs, namely sequential combined estimators and sequential plugin estimators. Strong consistency and asymptotic normality of these estimators have been derived. Interestingly, it is observed that sequential combined estimator of the chirp rate parameter is asymptotically efficient. Extensive numerical simulations have been performed, which validate satisfactory computational and theoretical performance of all three estimators. {We have also analysed a simulated radar data with the help of our proposed estimators of multi-component chirp model with equal chirp rates, which performs efficiently in recovery of inverse synthetic aperture radar (ISAR) image of a target from a noisy data.
+
+Title
+Meta-analysis of exponential lifetime data from Type-I hybrid censored samples
+
+Authors
+Kiran Prajapat
+Shuvashree Mondal
+Sharmishtha Mitra
+Debasis Kundu
+
+Abstract
+In this study, in order to do a life testing experiment, sampled units are divided into a prefixed number of groups with equal number of units. Units in all the groups are tested simultaneously and independently and, in each group the experiment is terminated as soon as a prefixed time elapses or a prefixed number of failures occurs. We provide the meta-analysis of an exponential lifetime data from Type-I hybrid censored samples. The main goal of this study is to obtain optimal schemes based on some optimality criteria by minimizing certain cost function that is based on a maximum likelihood estimator of mean lifetime. We provide the maximum likelihood estimator of mean lifetime and its probability density function under this set-up. Various optimal schemes have been provided by minimizing expected total cost incurred during the experiment as the raw moments can be obtained explicitly. Numerical results on bias and mean squared error of the maximum likelihood estimator have been reported. We also provide confidence intervals of the unknown parameter. For illustration, meta-analysis for a real data set of three groups is presented.
+
+Title
+Order Restricted Inference for a Multiple Step-Stress Model with Long-term Survivors for a General Family of Distributions
+
+Authors
+Ayan Pal
+Sharmishtha Mitra
+Debasis Kundu
+
+Abstract
+
+
+Title
+Progressive hybrid censored data
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Inference for exponentially distributed lifetimes
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Inference for other lifetime distributions
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Preliminaries
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Step-stress testing
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Prediction methods
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Adaptive progressive hybrid censoring
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Models and distributional properties of hybrid censoring designs
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Inference for Type-II, Type-I, and progressive censoring
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Applications in reliability
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Goodness-of-fit tests
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+Information measures
+
+Authors
+N. Balakrishnan
+Erhard Cramer
+Debasis Kundu
+
+
+
+Title
+On Efficient Parameter Estimation of Elementary Chirp Model
+
+Authors
+Anjali Mittal
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Elementary chirp signals can be found in various fields of science and engineering. We propose two computationally efficient algorithms based on the choice of two different initial estimators to estimate the parameters of the elementary chirp model. It is observed that the proposed efficient estimators are consistent; they have the identical asymptotic distribution as that of the least squares estimators and they are also less computationally intensive. We also propose sequential efficient procedures to estimate the parameters of the multi-component elementary chirp model. The asymptotic properties of the sequential efficient estimators coincide with the least squares estimators. The important point about the efficient and sequential efficient algorithms is that these algorithms produce efficient frequency rate estimators in a fixed number of iterations. Another important point is that the under normal error assumption the theoretical variances of the proposed estimators achieve the Cramér-Rao lower bounds asymptotically. Simulation experiments are performed to see the performance of the proposed estimators, and it is observed that they are computationally efficient, take less time in computation than the other existing methods and perform well when two frequency rates are close to each other upto a reasonably low degree of separation. On an EEG dataset, we demonstrate the performance of the proposed algorithm.
+
+Title
+Cure Rate-Based Step-Stress Model
+
+Authors
+Ayan Pal
+Debashis Samanta
+Debasis Kundu
+
+Abstract
+In this article, we consider step-stress accelerated life testing (SSALT) models assuming that the time-to-event distribution belongs to the proportional hazard family and the underlying population consists of long-term survivors. Further, with an increase in stress levels, it is natural that the mean time to the event of interest gets shortened and hence a method of obtaining order-restricted maximum likelihood estimators (MLEs) of the model parameters is proposed based on expectation maximization (EM) algorithm coupled with the reparametrization technique. To illustrate the effectiveness of the proposed method, extensive simulation experiments are performed and a real-life data example is analyzed in detail.
+
+Title
+Optimal plan for ordered step-stress stage life testing
+
+Authors
+Debashis Samanta
+Shuvashree Mondal
+Debasis Kundu
+
+Abstract
+In a progressively censored life testing experiment, the censored units can be used for some other life testing experiments. In a step-stress stage life testing experiment, we run parallel experiments while placing the progressively censored units at the higher stress level along with the main experiment. In this work, multiple step-stress stage life testing experiments are performed under the assumption that the experimental units at different stress levels follow Weibull distributions with the same shape parameter, but different scale parameters. The main objectives of this paper are to provide an order-restricted classical inference of the model parameters and also to find out the optimal life testing scheme. We provide the order-restricted maximum likelihood estimators of the unknown parameters and the associated confidence intervals based on the observed Fisher information matrix. An extensive simulation study and a data analysis are provided for illustrative purposes. In search of the optimal life testing plan under this set ups, a meta-heuristic approach based on a variable neighbourhood search algorithm is employed using D-optimality criterion. Finally, we have indicated how the method can be extended when the shape parameter of the Weibull distributions are also different at different stress levels.
+
+Title
+Estimating parameters from the generalized inverse Lindley distribution under hybrid censoring scheme
+
+Authors
+Mojammel Haque Sarkar
+Manas Tripathy
+Debasis Kundu
+
+Abstract
+Estimation of parameters of the generalized inverse Lindley (GIL) distribution is considered under a hybrid censoring scheme. The point estimators, such as the maximum likelihood estimators using the Expectation-Maximization (E-M) algorithm, have been derived. The two approximate Bayes estimators using Tierney and Kadane’s method and Gibbs sampling procedure, using the gamma prior and the general entropy loss (GEL) function, have been obtained. Several confidence intervals are proposed, such as the asymptotic confidence intervals (ACIs), bootstrap confidence intervals, and the highest posterior density (HPD) credible intervals. The prediction for future observations has been considered under one and two-sample Bayesian prediction methods using the type-i hybrid censoring scheme. An extensive simulation study has been conducted to numerically evaluate all the estimators’ performances. The point estimators are compared through their biases and mean squared errors (MSEs). The performances of confidence intervals are evaluated using coverage probability (CP), average length (AL), and probability coverage density (PCD). Two real-life datasets have been considered for illustrative purposes.
+
+Title
+Optimal Bayesian sampling plan for censored competing risks data
+
+Authors
+Deepak Prajapati
+Sharmishtha Mitra
+Debasis Kundu
+Ayan Pal
+
+Abstract
+There is a substantial amount of literature in the area of acceptance sampling plan with censored lifetime data. However, the optimality of a Bayesian sampling plan in the presence of competing risks has not been considered so far. In this paper, first, the Bayesian sampling plans (BSP) for Type-II and Type-I hybrid censoring schemes are discussed in presence of competing risks when the lifetime distribution is exponential. The closed-form expression of the Bayes decision function is obtained analytically for a linear loss function. Then we consider the Weibull distribution with an unknown shape parameter under Type-I hybrid censoring scheme in presence of competing risks to obtain the BSP. However, the Bayes decision function cannot be obtained in closed-form for a general loss function, and in such cases, a numerical algorithm is proposed. As an illustration, in the exponential case, a quadratic loss function, and in Weibull case, a non-polynomial loss function, are considered for the application of the proposed numerical approach to obtain the optimum BSPs using the Bayes decision function.
+
+Title
+An Efficient Parameter Estimation Method of Finite Mixed -Weibull Distribution under a Flexible Cure Rate Model
+
+Authors
+Farha Sultana
+Ayon Ganguly
+Debasis Kundu
+Ayan Pal
+
+Abstract
+Finite mixing distributions often turn out as competent candidates to model time-to-event data possibly having multimodal structures. Such data is often available in case the event of interest occurs in presence of multiple modes. Although the finite mixed-Weibull model is a flexible model compared to single-population Weibull model, it has not widely been used in reliability and survival analysis analysis by the practitioners owing to lack of an efficient parameter estimation method. In this paper, we focus primarily on exploring the parametric classical inference for the finite mixed-Weibull distribution based on random right censored time-to-event competing risks data when the underlying population consists of long-term survivors. For a flexible modeling, we further assume that each of the constituent subpop-ulations of the finite mixed-Weibull model (susceptible model) are Weibull distributed with different shape and scale parameters. A new efficient maximum likelihood estimation/expectation maximization (MLE/EM) algorithm is proposed for estimating the susceptible model parameters along with the cured fraction. Additionally, methods for construction of the confidence intervals of all the model parameters are addressed. Extensive simulation studies are performed to investigate the finite sample properties of 1 the proposed estimation methodology. Finally, the methods are illustrated with the analysis of one real data on cutaneous melanoma.
+
+Title
+Estimation methods for elementary chirp model parameters
+
+Authors
+Anjali Mittal
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+In this paper, we propose some estimation techniques to estimate the elementary chirp model parameters, which are encountered in sonar, radar, acoustics, and other areas. We derive asymptotic theoretical properties of least squares estimators and approximate least squares estimators for the one-component elementary chirp model. It is proved that the proposed estimators are strongly consistent and follow the normal distribution asymptotically. We also suggest how to obtain proper initial values for these methods. The problem of finding initial values is a difficult problem when the number of components in the model is large, or when the signal-to-noise ratio is low, or when two frequency rates are close to each other. We propose sequential procedures to estimate the multiple-component elementary chirp model parameters. We prove that the theoretical properties of sequential least squares estimators and sequential approximate least squares estimators coincide with those of least squares estimators and approximate least squares estimators, respectively. To evaluate the performance of the proposed estimators, numerical experiments are performed. It is observed that the proposed sequential estimators perform well even in situations where least squares estimators do not perform well. We illustrate the performance of the proposed sequential algorithm on a bat data.
+
+Title
+Exact likelihood ratio and Wald tests for the balanced joint progressive censoring scheme
+
+Authors
+Shuvashree Mondal
+Debasis Kundu
+
+Abstract
+Recently, the balanced joint progressive censoring (BJPC) for two samples has been introduced by the authors. This work comprises of developing testing of hypothesis for the BJPC scheme. An exact likelihood ratio test is developed to test the ratio of mean life times of two different products through joint life testing experiment. Along with this development, the Wald test has also been discussed, and an approximate power function has been used for power computation. Along with the study of testing of hypothesis, the optimal censoring scheme based on the power of the proposed tests has been determined. Meta heuristic variable neighborhood algorithm is exploited in this optimization task.
+
+Title
+A Computationally Efficient algorithm to estimate the Parameters of a Two-Dimensional Chirp Model with the product term
+
+Authors
+Abhinek Shukla
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Chirp signal models and their generalizations have been used to model many natural and man-made phenomena in signal processing and time series literature. In recent times, several methods have been proposed for parameter estimation of these models. These methods however are either statistically sub-optimal or computationally burdensome, specially for two dimensional (2D) chirp models. In this paper, we consider the problem of parameter estimation of 2D chirp models and propose a computationally efficient estimator and establish asymptotic theoretical properties of the proposed estimators. And the proposed estimators are observed to have the same rates of convergence as the least squares estimators (LSEs). Furthermore, the proposed estimators of chirp rate parameters are shown to be asymptotically optimal. Extensive and detailed numerical simulations are conducted, which support theoretical results of the proposed estimators.
+
+Title
+Estimation of parameters of two-dimensional random amplitude chirp signal in additive noise
+
+Authors
+Swagata Nandi
+Rhythm Grover
+Debasis Kundu
+
+Abstract
+In this paper, we consider a two-dimensional random amplitude chirp signal model. It is assumed that the additive error is independent and identically distributed. This is an extension of the one dimensional random amplitude chirp model proposed by Besson et al. (IEEE Trans Signal Process 47(12):3208–3219, 1999) to two-dimension. The random amplitudes can be thought of as a multiplicative error and are assumed to be independent and identically distributed with non-zero mean such that the fourth order moment exists. The parameters are estimated by maximizing a two-dimensional chirp periodogram like function and discuss their theoretical properties. The proposed estimators are consistent and we obtain the asymptotic distribution as multivariate normal. Under normality of the additive error, the proposed estimator attains the Cramer–Rao lower bound. We propose a general multicomponent two-dimensional model of similar form. The performances of the proposed estimators for finite samples are evaluated based on numerical experiments and are reported graphically.
+
+Title
+On Weighted Least Squares Estimators of Parameters of a Chirp Model
+
+Authors
+Debasis Kundu
+Swagata Nandi
+Rhythm Grover
+
+Abstract
+The least squares method seems to be a natural choice in estimating the parameters of a chirp model. But the least squares estimators are very sensitive to the outliers. Even in presence of very few outliers, the performance of the least squares estimators becomes quite unsatisfactory. Due to this reason, the least absolute deviation method has been proposed in the literature. But implementing the least absolute deviation method is quite challenging particularly for the multicomponent chirp model. In this paper, we propose to use the weighted least squares estimators, which seem to be more robust in presence of a few outliers. First, we consider the weighted least squares estimators of the unknown parameters of a single component chirp signal model. It is assumed that the weight function is a finite degree polynomial and the errors are independent and identically distributed random variables with mean zero and finite variance. It is observed that the weighted least squares estimators are strongly consistent and they have the same convergence rate as the least squares estimators. The weighted least squares estimators can be obtained by solving a two dimensional optimization problem. In case of the multicomponent chirp signal, we provide a sequential weighted least squares estimators and provide the consistency and asymptotic normality properties of these sequential weighted least squares estimators. To compute the sequential weighted least squares estimators one needs to solve only one two dimensional optimization problem at each stage. Extensive simulations have been performed to see the performances of the proposed estimators. Two data sets have been analyzed for illustrative purposes.
+
+Title
+Estimating Parameters in Multichannel Sinusoidal Model
+
+Authors
+Swagata Nandi
+Debasis Kundu
+
+Abstract
+In this paper, we study the problem of estimation of parameters of multichannel sinusoidal model. In multichannel sinusoidal model, the inherent frequencies from distinct channels are same with different amplitudes. It is assumed that the errors in individual channel are independently and identically distributed, whereas the signal from different channels is correlated. We first propose to minimize the sum of residual sum of squares to estimate the unknown parameters, and they can be easily obtained. Next we propose to use more efficient generalized least squares estimators which become the maximum likelihood estimators also when the errors follow multivariate Gaussian distribution. Both the estimators are strongly consistent and asymptotically normally distributed. We have provided the implementation of the generalized least squares estimators. Simulation experiments have been performed to compare the performances of the least squares estimators and generalized least squares estimators. It is observed that the variances of the maximum likelihood estimators reach the Cramer–Rao lower bound even for moderate sample sizes. We have extended the methods of estimation and the associated results of the two-channel model to an arbitrary m-channel model. It is observed that the computational complexity does not increase significantly with the increase in number of channels.
+
+Title
+Model Misspecification of Log-Normal and Birnbaum-Saunders Distributions
+
+Authors
+Suparna Basu
+Debasis Kundu
+
+Abstract
+Model misspecification can be a serious issue in any lifetime data analysis. Assumption of the correct model is very important particularly in prediction for future observations and for estimating the tail probabilities of any lifetime distribution. In this paper we have considered the model misspecification of the log-normal and Birnbaum-Saunders distributions. These two distributions have striking similarities both in terms of the probability density functions and hazard functions, in certain range of parameter values, which makes it extremely difficult to detect the correct model. Hence, to identify the correct model, first the conventional method of ratio of maximized likelihood approach has been tried. The necessary theoretical results have been derived. Based on extensive simulations it has been observed that for certain range of parameter values the model misspecification can be quite high even for very large sample sizes. Some of the other methods like the ratio of maximized product of spacings and minimized Kolmogorov-Smirnov distance, have also been explored. But none of the method performs uniformly better than the other over the entire range of the parameter space. Some counter intuitive results have also been obtained. Hence, we finally conclude that it is extremely difficult to choose the correct model in case of log-normal and Birnbaum-Saunders distribution for certain range of parameter values. Finally, we have suggested a modified ratio of maximized likelihood approach, and the performances are quite satisfactory. AMS Subject Classifications: 62F10, 62F03, 62H12.
+
+Title
+Bivariate Semi-parametric Singular Family of Distributions and its Applications
+
+Authors
+Debasis Kundu
+
+Abstract
+In this paper we introduce a very general class of bivariate semi-parametric distributions whose marginals belong to the proportional hazard class, and it has a singular component. This model can be used quite effectively to analyze a bivariate data set when there are ties. Note that the Marshall-Olkin bivariate exponential distribution is a special case of the proposed class. We derive several properties of the proposed distribution, and it is observed that it has a very convenient copula structure. Hence, several dependence properties and dependence measures can be obtained based on the copula. The main feature of the proposed distribution is that we do not use any specific parametric form of the base line distribution, instead we have assumed that the base line distribution has piecewise constant hazard function. It makes the proposed family a very flexible family. The maximum likelihood estimators cannot be obtained in explicit form, and we have used a very convenient EM algorithm to compute the maximum likelihood estimators. Simulation experiments have been performed to see the effectiveness of the proposed EM algorithm. Finally we have used this model to analyze a dependent competing risks data. Two data sets have been analyzed and the results are quite satisfactory.
+
+Title
+Misspecification of copula for one-shot devices under constant stress accelerated life-tests
+
+Authors
+Deepak Prajapati
+Man Ho Ling
+Ben Chung-Lap Chan
+Debasis Kundu
+
+Abstract
+Copula models have attracted significant attention in the recent literature for modeling multivariate observations. An essential feature of copulas is that they enable us to specify the univariate marginal distributions and their joint behaviors separately. This paper provides asymptotic results for misspecification of copula models, and examines the consequences and detection of misspecification in copula models under constant-stress accelerated life-tests for one-shot devices. The one-shot device is considered as a two-component system. The reliability is an important factor in lifetime data applications, and we focus on the effect of misspecification on the estimation of the reliability of one-shot devices. Moreover, the Akaike information criterion is used as a specification test for copula model validation. A simulation study is carried out to evaluate the effect of misspecification under the Gumbel-Hougaard, the Frank and the Clayton copulas incorporated with Weibull and gamma distributions as marginal distributions, in terms of asymptotic bias, asymptotic relative bias, and root mean square error.
+
+Title
+Statistical Inference on the Shannon and Rényi Entropy Measures of Generalized Exponential Distribution Under the Progressive Censoring
+
+Authors
+Kousik Maiti
+Suchandan Kayal
+Debasis Kundu
+
+Abstract
+The aim of this paper is twofold. First, the estimation of the Shannon and Rényi entropy measures of a generalized exponential distribution is discussed when data are progressively censored. The maximum-likelihood estimates are obtained. The Bayes estimates with respect to three loss functions are proposed. It is assumed that the unknown parameters have independent gamma priors. The closed-form expressions of the Bayes estimates cannot be obtained. Therefore, Lindley’s approximation and importance sampling methods are employed. The asymptotic confidence intervals are computed. The normal approximation of the maximum-likelihood estimate and the log-transformed maximum-likelihood estimate are used. In addition, bootstrap algorithms are used to compute the confidence intervals. Highest posterior density credible intervals of the entropy functions are developed. A detailed numerical study is performed to compare the proposed estimates with respect to their average values and the mean squared errors. The confidence intervals are compared with respect to the average lengths. A real dataset is considered to illustrate the proposed methods. Furthermore, different criteria are proposed for the comparison of various sampling schemes. Then, the optimal sampling scheme for a given criterion is obtained.
+
+Title
+The Stress-Strength Reliability Estimation under Two-Sample Balanced Progressive Censoring Scheme
+
+Authors
+Farha Sultana
+
+
+Title
+A stationary Weibull process and its applications
+
+Authors
+Debasis Kundu
+
+Abstract
+In this paper we introduce a discrete-time and continuous state-space Markov stationary process {Xn;n=1,2,…}, where Xn has a two-parameter Weibull distribution, Xn's are dependent and there is a positive probability that Xn=Xn+1. The motivation came from the gold price data where there are several instances for which Xn=Xn+1. Hence, the existing methods cannot be used to analyze this data. We derive different properties of the proposed Weibull process. It is observed that the joint cumulative distribution function of Xn and Xn+1 has a very convenient copula structure. Hence, different dependence properties and dependence measures can be obtained. The maximum likelihood estimators cannot be obtained in explicit forms, we have proposed a simple profile likelihood method to compute these estimators. We have used this model to analyze two synthetic data sets and one gold price data set of the Indian market, and it is observed that the proposed model fits quite well with the data set.
+
+Title
+Modeling Vehicle Insurance Loss Data with Zero Truncated Poisson Exponential Model
+
+Authors
+Mohammed Amine Meraou
+Noriah M. Al-Kandari
+Mohammad Z. Raqab
+Debasis Kundu
+
+
+
+Title
+Order Restricted Inference for Adaptive Progressively Censored Competing Risks Data
+
+Authors
+Ayon Ganguly
+Debanjan Mitra
+Debasis Kundu
+
+Abstract
+Under adaptive progressive Type-II censoring schemes, order restricted inference based on competing risks data is discussed in this article. The latent failure lifetimes for the competing causes are assumed to follow Weibull distributions, with an order restriction on the scale parameters of the distributions. The practical implication of this order restriction is that one of the risk factors is dominant, as often observed in competing risks scenarios. In this setting, likelihood estimation for the model parameters, along with bootstrap based techniques for constructing asymptotic confidence intervals are presented. Bayesian inferential methods for obtaining point estimates and credible intervals for the model parameters are also discussed. Through a detailed Monte Carlo simulation study, the performance of order restricted inferential methods are assessed. In addition, the results are also compared with the case when no order restriction is imposed on the estimation approach. The simulation study shows that order restricted inference is more efficient between the two, when this additional information is taken into consideration. A numerical example is provided for illustrative purpose.
+
+Title
+Exact Likelihood Inference for Two Exponential Populations under Jointly Generalized Progressive Hybrid Censoring
+
+Authors
+
+
+Title
+Approximate least squares estimators of a two-dimensional chirp model
+
+Authors
+Abhinek Shukla
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+In this paper, we propose a method based on maximizing a periodogram-type function for parameter estimation of a two-dimensional (2-D) mono-component chirp signal model. The obtained estimators are called approximate least squares estimators (ALSEs). We also put forward a sequential algorithm for parameter estimation of a more general version of the model with multiple number of components. The main focus of the paper has been on developing the large-sample properties of the proposed estimators. Derived theoretical results show that the proposed estimators are strongly consistent and asymptotically normally distributed. Moreover, it is shown that the derived asymptotic distribution is identical to that of the traditional least squares estimators (LSEs). The numerical performance of the ALSEs and sequential ALSEs is demonstrated through extensive simulation studies. The results are positioned parallel to that obtained using the least squares method and 2-D multilag High Order Ambiguity function (2D-ml-HAF) for a comparative study. These simulations make use of the true values as the initial guesses in the optimization algorithm as using a fine grid search for this purpose is practically infeasible. We also provide a practical alternative for modelling of real world signals in an another set of simulation experiments. This involves a combination of two methods- 2D-ml-HAF estimators and genetic algorithm (GA). The results show that the proposed combination is a reasonable scheme to find initial guesses and provides satisfactory performance for varying signal-to-noise ratio (SNR).
+
+Title
+Comparison of Different Confidence Intervals under Type-I Censoring Scheme
+
+Authors
+Ali Algarni
+Abdullah M Almarashi
+Debasis Kundu
+G. A. Abd-Elmougod
+
+Abstract
+
+
+Title
+Statistical Inference of Jointly Type-II Lifetime Samples under Weibull Competing Risks Models
+
+Authors
+Abdulaziz S. Alghamdi
+G. A. Abd-Elmougod
+Debasis Kundu
+Marin Marin
+
+Abstract
+In this paper, we develop statistical inference of competing risks samples which are collected under a joint Type-II censoring scheme of products with Weibull lifetime distributions. These inferences are drawn from two independent fatal risks and come from two different lines of production with the same facility. The model parameters and the parameters of life (reliability and hazard rate functions) are estimated using maximum likelihood (ML), bootstrap and Bayes methods. Additionally, we constructed asymptotic ML confidence intervals, bootstrap confidence intervals and Bayes credible intervals. Furthermore, the theoretical results are assessed and compared through Monte Carlo simulations. Finally, one real data set is analyzed under the proposed model for illustrative purpose.
+
+Title
+Statistical Inference of Chen Distribution Based on Type I Progressive Hybrid Censored Samples
+
+Authors
+Tanmay Kayal
+Yogesh Mani Tripathi
+Debasis Kundu
+Manoj KUMAR Rastogi
+
+Abstract
+In this paper we study the problem of estimating unknown parameters of a two-parameter distribution with bathtub shape under the assumption that data are type I progressive hybrid censored. We derive maximum likelihood estimators and then obtain the observed Fisher information matrix. Bayes estimators are also obtained under the squared error loss function and highest posterior density intervals are constructed as well. We perform a simulation study to compare proposed methods and analyzed a real data set for illustration purposes. Finally we establish optimal plans with respect to cost constraints and obtain comments based on a numerical study.
+
+Title
+Analysis of skewed data by using compound Poisson exponential distribution with applications to insurance claims
+
+Authors
+Mohammed Amine Meraou
+Noriah M. Al-Kandari
+Mohammad Z. Raqab
+Debasis Kundu
+
+
+
+Title
+A new bivariate lifetime distribution: properties, estimations and its extension
+
+Authors
+Ammar Sarhan
+Joseph Apaloo
+Debasis Kundu
+
+Abstract
+In this paper a new bivariate lifetime distribution is introduced. Its marginal distribution functions follow two-parameter Chen distribution, which has a bathtub shaped or increasing hazard rate functions. The proposed distribution, which we call a bivariate Chen distribution (BCD), is of Marshall-Olkin type and it is a singular distribution. Several properties of this proposed distribution are discussed. The BCD distribution has four unknown parameters. The maximum likelihood (ML) method and the Bayes techniques are used to estimate the unknown parameters. The maximum likelihood estimators or the Bayes estimators cannot be obtained in closed form. Numerical methods have been used in both cases. A real data set is analyzed using the proposed distribution for illustrative and comparison purposes. An application to dependent competing risks data is discussed, and finally we have extended the BCD to the multivariate case.
+
+Title
+Computationally Efficient Algorithm for Frequency Estimation of a Two-Dimensional Sinusoidal Model
+
+Authors
+Rhythm Grover
+Aditi Sharma
+Théo Delcourt
+Debasis Kundu
+
+Abstract
+In this paper, we propose a computationally faster yet conceptually simple methodology to estimate the parameters of a two-dimensional (2-D) sinusoidal model in the presence of additive white noise. We develop the large sample properties like consistency and asymptotic normality of these low-complexity estimators, and they are observed to be theoretically as efficient as the ordinary least squares estimators. To assess the numerical performance, we conduct extensive simulation studies. The results indicate that the proposed estimators can successfully replace the least squares estimators for sample size as small as 20 \(\times \) 20 and for signal-to-noise ratio (SNR) as small as 12 dB.
+
+Title
+Robust Estimators of Two-Dimensional Sinusoidal Model Parameters
+
+Authors
+Debasis Kundu
+Rhythm Grover
+
+
+
+Title
+Photon statistics and non-local properties of a two-qubit-field system in the excited negative binomial distribution
+
+Authors
+Abdullah M Almarashi
+Sayed Abdel-Khalek
+Debasis Kundu
+
+Abstract
+In this paper, a quantum scheme for a two-qubit system (2QS) and field initially prepared in the excited negative binomial distribution is presented. The field photon statistics is detected from the evolution of the Mandel parameter, while the evolution of von Neumann entropy detects the nonlocal correlation between the 2QS and radiation field. The concurrence is used to detect the qubit-qubit entanglement during the time evolution. The dynamical properties of single-qubit and two-qubit quantum Fisher information are investigated. We visualize the number of photon excitations on the field in negative binomial states with influence of photon success probability. A connection is provided between the dynamical behaviors of these statistical quantities. We have found that the proposed quantities are strongly influenced by the number of excited photons of the field in negative binomial states and photon success probability.
+
+Title
+On Two Exponential Populations Under A Joint Adaptive Type-II Progressive Censoring
+
+Authors
+Farha Sultana
+Arnab Koley
+Ayan Pal
+Debasis Kundu
+
+
+
+Title
+On two exponential populations under a joint adaptive type-II progressive censoring
+
+Authors
+Farha Sultana
+Arnab Koley
+Ayan Pal
+Debasis Kundu
+
+Abstract
+
+
+Title
+Stationary GE-Process and its Application in Analyzing Gold Price Data
+
+Authors
+Debasis Kundu
+
+Abstract
+In this paper we introduce a new discrete time and continuous state space stationary process {Xn;n = 1,2,…}, such that Xn follows a two-parameter generalized exponential (GE) distribution. Joint distribution functions, characterization and some dependency properties of this new process have been investigated. The GE-process has three unknown parameters, two shape parameters and one scale parameter, and due to this reason it is more flexible than the existing exponential process. In presence of the scale parameter, if the two shape parameters are equal, then the maximum likelihood estimators of the unknown parameters can be obtained by solving one non-linear equation and if the two shape parameters are arbitrary, then the maximum likelihood estimators can be obtained by solving a two dimensional optimization problem. Two synthetic data sets, and one real gold-price data set have been analyzed to see the performance of the proposed model in practice. Finally some generalizations have been indicated.
+
+Title
+A sequential sampling approach for discriminating log-normal, Weibull, and log-logistic distributions
+
+Authors
+Biplab Paul
+Shyamal K. De
+Debasis Kundu
+
+Abstract
+
+
+Title
+Asymptotic Properties of Least Squares Estimators and Sequential Least Squares Estimators of a Chirp-like Signal Model Parameters
+
+Authors
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Sinusoidal model and chirp model are the two fundamental models in digital signal processing. Recently, a chirp-like model was introduced by Grover et al. (International conference on computing, power and communication technologies, IEEE, pp. 1095–1100, 2018). A chirp-like model is a generalization of a sinusoidal model and provides an alternative to a chirp model. We derive, in this paper, the asymptotic properties of least squares estimators and sequential least squares estimators of the parameters of a chirp-like signal model. It is observed theoretically as well as through extensive numerical computations that the sequential least squares estimators perform at par with the usual least squares estimators. The computational complexity involved in the sequential algorithm is significantly lower than that involved in calculating the least squares estimators. This is achieved by exploiting the orthogonality structure of the different components of the underlying model. The performances of both the estimators for finite sample sizes are illustrated by simulation results. In the specific real-life data analyses of signals, we show that a chirp-like signal model is capable of modeling phenomena that can be otherwise modeled by a chirp signal model, in a computationally more efficient manner.
+
+Title
+Correction to: Asymptotic Properties of Least Squares Estimators and Sequential Least Squares Estimators of a Chirp-like Signal Model Parameters
+
+Authors
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+
+
+Title
+Stationary GE-Process and its Application in Analyzing Gold Price Data
+
+Authors
+Debasis Kundu
+
+Abstract
+In this paper we introduce a new discrete time and continuous state space stationary process $\{X_n; n = 1, 2, \ldots \}$, such that $X_n$ follows a two-parameter generalized exponential (GE) distribution. Joint distribution functions, characterization and some dependency properties of this new process have been investigated. The GE-process has three unknown parameters, two shape parameters and one scale parameter, and due to this reason it is more flexible than the existing exponential process. In presence of the scale parameter, if the two shape parameters are equal, then the maximum likelihood estimators of the unknown parameters can be obtained by solving one non-linear equation and if the two shape parameters are arbitrary, then the maximum likelihood estimators can be obtained by solving a two dimensional optimization problem. Two {\color{black} synthetic} data sets, and one real gold-price data set have been analyzed to see the performance of the proposed model in practice. Finally some generalizations have been indicated.
+
+Title
+Analysis of skewed data by using compound Poisson exponential distribution with applications to insurance claims
+
+Authors
+Mohammed Amine Meraou
+Noriah M. Al-Kandari
+Mohammad Z. Raqab
+Debasis Kundu
+
+Abstract
+The main aim of this paper is to introduce a new family of distributions, namely compound zero-truncated Poisson exponential distribution of which exponential distribution is a special case. The proposed family of distributions represents the zero truncated-Poisson sum of independent and identically distributed exponential random variables. The proposed distribution has two parameters and its probability density function can be skewed and unimodal. It can be used quite effectively in analyzing skewed data. We suggest to use expectation–maximization (EM)-type algorithm to estimate the unknown parameters, and it is observed that it is easy to implement in practice. We further consider the bivariate version of the proposed model which has three parameters and provides different properties. We have performed extensive simulation studies to see the performances of the proposed EM algorithm, and a real data set has been analyzed to see the effectiveness of the proposed models.
+
+Title
+An Optimal Bayesian Sampling Plan for Two Parameter Exponential Distribution Under Type-I Hybrid Censoring
+
+Authors
+Kiran Prajapat
+Arnab Koley
+Sharmishtha Mitra
+Debasis Kundu
+
+Abstract
+The Bayesian sampling plan for two parameter exponential distribution has been considered by Lam (1990) under the conventional Type-II censoring. Lin et al. (2008b) have obtained an exact Bayesian sampling plan for one parameter exponential distribution under Type-I and Type-II hybrid censoring schemes. In this paper, we obtain an optimal Bayesian sampling plan for the two parameter exponential distribution under Type-I hybrid censoring scheme based on a four parameter conjugate prior, introduced by Varde (1969). Bayes risk expressions of Lam (1990) for the conventional Type-II cen-soring scheme can be obtained as special cases of the Type-I hybrid censoring scheme. The optimal Bayesian sampling plan cannot be obtained analytically, we provide a numerical algorithm to compute the optimal Bayesian sampling plan. Dierent optimal Bayesian sampling plans have been reported.
+
+Title
+C. Radhakrishna Rao: A Century in Statistical Science
+
+Authors
+Nandini Kannan
+Debasis Kundu
+
+Abstract
+
+
+Title
+Estimation of Parameters of Multiple Chirp Signal in Presence of Additive Alpha-Stable Errors
+
+Authors
+Swagata Nandi
+Rhythm Grover
+Debasis Kundu
+
+Abstract
+
+
+Title
+On a Chirp-Like Model and Its Parameter Estimation Using Periodogram-Type Estimators
+
+Authors
+Debasis Kundu
+Rhythm Grover
+
+Abstract
+Parametric modelling of physical phenomena has received a great deal of attention in the signal processing literature. Different models like ARMA models, sinusoidal models, harmonic models, models with amplitude modulation, models with frequency modulation and their different versions and combinations have been used to describe natural and synthetic signals in a wide range of applications. Two of the classical models that were considered by Professor C. R. Rao were one-dimensional superimposed exponential model and two-dimensional superimposed exponential model. In this paper, we consider parameter estimation of a newly introduced but related model, called a chirp-like model. This model was devised as an alternative to the more popular chirp model. A chirp-like model overcomes the problem of computational difficulty involved in fitting a chirp model to data to a large extent and at the same time provides visually indistinguishable results. We search the peaks of a periodogram-type function to estimate the frequencies and chirp rates of a chirp-like model. The obtained estimators are called approximate least squares estimators (ALSEs). We also put forward a sequential algorithm for the parameter estimation problem which reduces the computational load of finding the ALSEs significantly. Large-sample properties of the proposed estimators are investigated and the results indicate strong consistency and asymptotic normality of the ALSEs as well as the sequential ALSEs. The performance of the estimators is analysed in an extensive manner both on synthetic as well as real world signals and the results indicate that the proposed methods of estimation provide reasonably accurate estimates of frequencies and frequency rates.
+
+Title
+Analyzing competing risks data using bivariate Weibull-geometric distribution
+
+Authors
+Debasis Kundu
+Shuvashree Mondal
+
+Abstract
+The motivation of this paper came from a study which was conducted to examine the effect of laser treatment in delaying the onset of blindness in patients with diabetic retinopathy. The data are competing risks data with two dependent competing causes of failures, and there are ties. In this paper we have used the bivariate Weibull-geometric (BWG) distribution to analyse this data set. It is well known that the Bayesian inference has certain advantages over the classical inference in certain cases. In this paper, first we develop the Bayesian inference of the unknown parameters of the BWG model, under a fairly flexible class of priors and analyse one real data set with ties to show the effectiveness of the model. Further, it is observed that the BWG can be used to analyse dependent competing risk data quite effectively when there are ties. The analysis of the above-mentioned competing risks data set indicates that the BWG is preferred compared to the MOBW in this case.
+
+Title
+Bayesian inference of a dependent competing risk data
+
+Authors
+Debashis Samanta
+Debasis Kundu
+
+Abstract
+Recently, Feizjavadian and Hashemi (Analysis of dependent competing risks in presence of progressive hybrid censoring using Marshall–Olkin bivariate Weibull distribution. Comput Stat Data Anal. 2015;82:19–34) provided a classical inference of a competing risks data set using Marshall–Olkin bivariate Weibull distribution when the failure of an unit at a particular time point can happen due to more than one cause. The aim of this paper is to provide the Bayesian analysis of the same model based on a very flexible Gamma–Dirichlet (GD) prior on the scale parameters. The Bayesian inference has certain advantages over the classical inference in this case. We provide the Bayes estimates of the unknown parameters and the associated highest posterior density credible intervals based on Gibbs sampling technique. We further consider the Bayesian inference of the model parameters assuming partially ordered GD prior on the scale parameters when one cause is more severe than the other cause. We have extended the results for different censoring schemes also.
+
+Title
+Estimation of parameters of a harmonic chirp model
+
+Authors
+Rhythm Grover
+Debasis Kundu
+Amit Mitra
+
+Abstract
+Abstract Here, we address the problem of estimation of the parameters of a harmonic chirp model, often encountered in speech and music applications. This model was introduced recently by Christensen and Jensen [1] as an extension of a standard harmonic model. We propose two methods of estimation: the least squares estimation method and the approximate least squares estimation method. We establish the asymptotic properties of the least squares estimators as well as the approximate least squares estimators of the parameters of this model under the assumption of stationary errors. These asymptotic properties are proved analytically as well as corroborated through simulation experiments. We present two speech signal data sets and their analysis using both the estimation methods. The results show that the proposed methods perform reasonably well for estimating the unknown model parameters.
+
+Title
+Bayesian Inference of a Dependent Competing Risk Data
+
+Authors
+Debashis Samanta
+Debasis Kundu
+
+Abstract
+Analysis of competing risks data plays an important role in the lifetime data analysis. Recently Feizjavadian and Hashemi (Computational Statistics and Data Analysis, vol. 82, 19-34, 2015) provided a classical inference of a competing risks data set using four-parameter Marshall-Olkin bivariate Weibull distribution when the failure of an unit at a particular time point can happen due to more than one cause. The aim of this paper is to provide the Bayesian analysis of the same model based on a very flexible Gamma-Dirichlet prior on the scale parameters. It is observed that the Bayesian inference has certain advantages over the classical inference in this case. We provide the Bayes estimates of the unknown parameters and the associated highest posterior density credible intervals based on Gibbs sampling technique. We further consider the Bayesian inference of the model parameters assuming partially ordered Gamma-Dirichlet prior on the scale parameters when one cause is more severe than the other cause. We have extended the results for different censoring schemes also.
+
+Title
+A consistent method of estimation for three-parameter generalized exponential distribution
+
+Authors
+Kiran Prajapat
+Sharmishtha Mitra
+Debasis Kundu
+
+Abstract
+In this article, we provide a consistent method of estimation for the parameters of a three-parameter generalized exponential distribution which avoids the problem of unbounded likelihood function. The method is based on a maximum likelihood estimation of the shape parameter, which uses location and scale invariant statistic, originally proposed by Nagatsuka et al. (A consistent method of estimation for the three-parameter weibull distribution, Computational Statistics & Data Analysis 58:210–26). It has been shown that the estimators are unique and consistent for the entire range of the parameter space. We also present a Monte-Carlo simulation study along with the comparisons with some prominent estimation methods in terms of the bias and root mean square error. For the illustration purpose, the data analysis of a real lifetime data set has been reported.
+
+Title
+Likelihood analysis and stochastic EM algorithm for left truncated right censored data and associated model selection from the Lehmann family of life distributions
+
+Authors
+Debanjan Mitra
+Debasis Kundu
+Narayanaswamy Balakrishnan
+
+Abstract
+The Lehmann family of distributions includes Weibull, Gompertz, and Lomax models as special cases, all of which are quite useful for modeling lifetime data. Analyses of left truncated right censored data from the Lehmann family of distributions are carried out in this article. In particular, the special cases of Weibull, Gompertz, and Lomax distributions are considered. Maximum likelihood estimates of the model parameters are obtained. The steps of the stochastic expectation maximization algorithm are developed in this context. Asymptotic confidence intervals for the model parameters are constructed using the missing information principle and two parametric bootstrap approaches. Through extensive Monte Carlo simulations, performances of the inferential methods are examined. The effect of model misspecification is also assessed within this family of distributions through simulations. As it is quite important to select a suitable model for a given data, a study of model selection based on left truncated right censored data is carried out through extensive Monte Carlo simulations. Two examples based on real datasets are provided for illustrating the models and methods of inference discussed here.
+
+Title
+On Chirp and Some Related Signals Analysis: A Brief Review and Some New Results
+
+Authors
+Debasis Kundu
+Swagata Nandi
+
+Abstract
+Chirp signals have played an important role in the statistical signal processing literature. An extensive amount of work has been done in analyzing different one dimensional chirp, two dimensional chirp and some related signal processing models. The main aim of this article is to introduce the challenges associated with these problems to the statistical community with a hope that it will generate enough interests among the statisticians to contribute in this area of research. We provide a comprehensive review of different one dimensional, two dimensional, generalized chirp signals and some related models. We discuss some new chirp signal like models which can be used quite effectively for analyzing real life signals. Several open problems are discussed through out the paper for future research.
