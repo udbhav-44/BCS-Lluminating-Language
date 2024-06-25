@@ -1,0 +1,569 @@
+The Brain & Cognitive Society (BCS @IITK) is a student society at IIT Kanpur. We aim at studying Brain Science to reverse engineer human intelligence to create more general and intelligent AI's for the future world. To achieve this we try to probe it from both ways i.e. developing better computational models of human cognition as well as relating the individual functionality of artificial computational models with that of humans. Our work is highly interdisciplinary and thrives at the intersection of cognitive neuroscience, cognitive psychology, and computational cognition.
+Throughout the semester we carry out following types of activities in our society:
+Journal Club
+Here we meet to discuss and talk about the latest ongoing research in this field. This is conducted weekly on Friday night of 2 hours long duration. Where interested students present a short talk on some latest articles which they found to be interesting to share. This helps significantly in developing and maintaining curiosity and in spreading the latest research among the campus. Have a look at our activities in the journal club here.
+Semester Projects
+We promote three types of projects:
+Replications of previous work: Whether the previous works are reproducible or not plays a great role specifically in experimental psychology. We try to target some of the most influential results of past research and check whether those results can be reproduced or not.
+Working on a new idea: We also support some of the projects on the latest ongoing research in our area of interest.
+Projects for Learning: Many of the projects are encouraged just for learning purposes. To provide support and guidance to students who don’t have much experience and would like to jump into our area of interest.
+Talks/ Lectures
+We organize talks and sessions with people who are working in this similar area, this includes talks by professors, Post-Docs, PhDs, and any other experienced individual. We also conduct lectures and workshops to provide the necessary background to newbies.
+
+NEWS:
+Brain and Cognitive Society Online Workshop Jan '21
+January 23, 2021
+This workshop was aimed at introducing the participants to Machine Learning and different aspects of related to it with correspondance to Cognitive models. It comprised of assignments in the form of notebooks over a range of topics, including:
+Basic Python
+Model Fitting
+Machine Learning
+Deep Learning
+Reinforcement Learning
+The workshop materials were created with the help of different notebooks under the Summer Course held by Neuromatch Academy. The mentioned assignments were edited accordingly by Brain and Cognitive Society, IIT Kanpur.
+People involved :
+Moderated and Managed by - Harsh
+Assignments Curated by - Harsh, Sandipan, Arpit, Aditya Gupta, Debaditya
+
+Speaker: Som V Tambe, an Undergraduate student at the Dept. of Aerospace Engineering, IIT Kanpur.
+Title: Are ANNs capable of Few-Shot Learning?
+Abstract:
+Despite remarkable advances in artificial intelligence and machine learning, machine systems have lagged behind Human Learning in two aspects. First, people can learn a new concept from just one or a handful of examples, whereas standard algorithms in machine learning require tens or hundreds of examples to perform similarly. Second, people learn richer representations than machines do, even for simple concepts, using them for a wider range of functions. Past efforts to counter these problems include the Bayesian Program Learning, which follows the idea of “how humans do one-shot classification”. The Bayesian Program Learning paper was remarkable but seems to have hand-engineered various parts of the model.
+Our talk focuses on developing more human-like algorithms like One-Shot Learning. This talk will involve Brendan Lake’s paper, as well as other related literature. The speaker shall then discuss the studies he conducted with his mentor, Shashikant Gupta, which provides a completely deep-learning based approach to tackle the Omniglot dataset, and the progress they have achieved with the project.
+
+Speaker: Mohit Kulkarni,Department of Mathematics, IIT Kanpur.
+Title: Does the Brain do Backpropagation? A look into learning rules and synaptic plasticity.
+Abstract:
+During learning, the brain modifies synapses to improve behaviour. In the cortex, synapses are embedded within multilayered networks, making it difficult to determine the effect of an individual synaptic modification on the behaviour of the system. Training deep neural networks with the error backpropagation algorithm is considered implausible from a biological perspective. Numerous recent publications suggest elaborate models for biologically plausible variants of deep learning, Here we build on past and recent developments to argue whether an algorithm similar to backpropagation enables learning in the brain and modulates synaptic plasticity.
+
+Hello Y20!
+The BCS team conducted an introductory lecture for the incoming Y20 batch of IITK so that the freshers can gain some idea about what we do here and to encourage the enthusiasm shown by them during the SnT Pavillion and Orientation’20. We received a tremendous response from the freshers’ batch and we had some really interesting discussions during the lecture. We are very excited ourselves to interact and work together with these bright minds.
+The lecture was divided into 3 parts of approx. 30 mins each. The key speakers were -
+Cognitive Psychology - Ayushi Chaudhary
+Slides - pptx, pdf
+Neuroscience - Debaditya Bhattacharya & Aditya Prakash
+Slides - pptx, pdf
+Machine Learning & AI - Mohit Kulkarni
+Slides - pptx, pdf
+Content Contributors - Ayushi Chaudhary, Debaditya Bhattacharya, Aditya Prakash, Yatin Azad, Mohit Kulkarni & Umang Pandey
+
+Hello Y20!
+We bring to you an exciting and fun-learning opportunity “Train the Brain”! To participate, give an interesting yet suitable name to the projects we showed you in the orientation(Slides). Mind you, you don’t have to be a neuroscience-pro to give names to them- suggest names based on whatever you understand from them: this activity is meant to give you a good introductory exposure to cognitve science and what the club deals with! 
+
+Summer Projects May'20
+Due to the unprecedented times of the pandemic, the Science and Technology Council, IIT Kanpur decided to conduct all Summer’20 Projects in an online mode. So, Brain and Cognitive Society accordingly formed different groups for several interesting projects and different platforms like Slack were used by the projects teams to keep in touch. Although it was a new paradigm for everyone, all members worked hard to make it a big success.
+Following are the projects that were completed along with feedbacks by some of the project memebers:-
+Analysis of Reinforcement Learning
+“The project paved my way into the world of RL and Deep Learning(DL) as DL methods are used to implement RL algorithms. I have developed keen interest in these fields and look forward to explore more in RL. As my first project,I got an experience of the whole process, i-e the documentation and the presentations that had to be done. Overall it was very nice experience.” - Aaryansh
+Comparing Deep Neural Network Features With Psychological Representations
+“This was my first Deep Learning project and it has cultivated a great interest for me in this field. I will definitely be looking forward to doing more DL/ML projects. The mentoring for this project was excellent and the guidance has helped us grow and even win the ‘Best Research Award’ in SnT Summer Camp ‘20. Very positively looking forward to doing projects with BCS again.” - Amartya Dash
+Facial Expression Recognition
+“This project was a combined effort of all the members, I enjoyed working on this project exploring the field of Machine learning. Managing a project needs a lot of team effort and interaction, though we had problems, but we managed our way out of them somehow and with the guidance of our mentor, we were able to finish this project.” - Arpit
+“This was my very first project ever and I learned a lot through it. It gave me an opportunity to learn how a project is planned and implemented. How to look for information about a specific topic and yes, it definitely helped me to learn some basics of machine learning and much more. It was also a really wonderful experience to work with all my team members and solve every difficulty that we faced during this project and co-ordinate with each other.” -Tanisha Agrawal
+“This project taught me how to read research papers and implement them . We began by exploring various techniques for pre-processing and using CNNs and LSTMs for classification.I had read a lot about them but this was the first complete implementation of the former. It has been a great learning opportunity and my interests in Deep Learning and AI have only increased since then. Overall, it was fun to work with all my teammates :)” - Bhavesh Jain
+“This was my first project ever and I learnt a lot through it. I began from scratch and learnt various concepts such as Image Processing, Data Normalisation, CNNs and much more. It has been a great learning opportunity and my interests in Deep Learning and AI have only increased since then. Overall, the project was very interesting and it was fun to work with all the team members as well.” - Lakshita Mohanty
+“This was my first ever project and it gave a very nice sneak peek into the world of machine learning, and made me realise the power of computing. Being an absolute beginner, I enjoyed reading through different papers and googling stuff to learn more about the process. This certainly has increased my curiosity to explore the field of cognitive science and I hope to be part of more fun activities and projects by BCS.” - Shruthi Sureshkumar
+Mapping of Brain Signals
+“The project made way to develop insights into a plethora of novel concepts and ideas which sparked curiosity and nurtured the interest and fascination we had while taking up this project. Weekly meetings, assigned work and a flexibility to execute our own ideas was a highlight. We had the opportunity to work with something completely new and incorporate the professor’s ideas and vision and though, we could not reach its culmination, at the end of the day we walked out with an amazing experience.” - Saksham Pruthi
+Playing Atari with Deep Reinforcement Learning
+“This project helped to learn a new and evolving field in Machine Learning. The Learning curve was steep but with the guidance of mentor and correct resources, the learning became fun. The Best part of the project was the model we built can easily beat an average Human player which is awesome.” - Sajal
+The Connectome Project
+“The project was very dynamic. We learnt a lot about how to organize a project. How to look for information regarding a specific topic. It was a fun and dynamical experience. Although we got stuck a few times, we reached out to many different people and got the appropriate help that pulled us through.” - Debaditya
+The Omniglot Challenge
+“The project was a great learning opportunity, the project focused on aspects like one-shot learning which opened up the exciting possibility of being able to replicate human learning capabilities using Machine Learning. This was my first project so it taught a lot about how a project is planned and how to move forward with ideas and try to implement them.” -Anmol Pabla
+“Before joining the BCS, I had absolutely no idea about the computational aspects of Psychology. The project gave me a platform to expand my ideas above the general Machine Learning projects that I had taken. I really admire Shashi Kant as a mentor, his ideas were absolutely brilliant! I expect to complete my study by extending the project this semester. I would want to explore the field of Cognitive Science even more now, thanks to BCS!” -Som Tambe
+Tweet Sentiment Extraction
+“I learnt a ton of new things during this project. This was my first project under Snt Council. My mentor and team-mates helped me a lot and guided me. Before this project my knowledge of NLP/TSE/ML was very less. Now I have got a good experience on NLP/TSE/ML. After doing this project, I have developed interest in these fields of study and now I want to explore them more.” - Saad Ahmad
+Mentors
+Shashi Kant, Avisha Gaur, Ishika Singh, Yatin Azad
+Projects’ Participants
+Aaryansh Mohan Bansal, Abhinaya, Abhishek Jain, Aditi Goyal, Aditya Gupta, Aditya Jindal, Aditya Prakash, Aman Agarwal, Amartya Dash, Ananya Gupta, Anmol Pabla, Anumam Yadav, Arka Das, Arpit Verma, Atul Yaduvanshi, Bhavesh Jain, Bhavy Gandhi, Bhuvan, Debaditya Bhattacharya, Deepika Meena, Falguni Yadav, Gagan Aryan, Gaurav Sharma, Himanshu Shetty, Kunal, Kusum Bunkar, Lakshita Mohanty, Mohit Kulkarni, Mrigya Gupta, Mukulesh Shinde, Muskan Goyal, Nikita Chauhan, Nishima Panwar, Padmaja Chavan, Prachi Singh, Pranav Kumar, Pranay Vandanapu, Rahul Sethi, Rakesh Potnuru, Rishi Dhakar, Rishika Saraswat, Saad Ahmad, Sagarima Datta, Sahithi Macharla, Sajal Goyal, Saksham Pruthi, Sampada Sinha, Samriddhi Gupta, Sanket Agrawal, Sanket Garg, Saurabh K. Gupta, Shakshi, Shashi Kumar, Shivanshu Tyagi, Shruthi, Sureshkumar, Som Tambe, Somya Lohani, Swapnil Singh, Tanisha Agrawal, Tushar Singla, Urbi Ghosh, Vaibhav Thakkar, Vansh, Bansal, Varenya Srivatava, Vatsal, Videeta Sharma, Yatharth Gupta, Yatish Goel.
+
+Brain and Cognitive Society Online Workshop Apr '20
+The goal of the workshop was to introduce the basics of different technical skills needed for studying brain science and to reverse engineer human brain/intelligence to create more general and intelligent AI’s. It covered a range of topics, including:
+Basic Machine Learning
+Computational Modeling
+Psychophysics, Data Analysis and Experiment Design
+The lectures and workshop materials were a combination of links to different online resources plus some additional materials created by Brain and Cognitive Society, IIT Kanpur. Assignments were created by Brain and Cognitive Society, IIT Kanpur.
+Organisers
+Shashi Kant - Lead Organiser and Mentor
+Avisha Gaur - Volunteered (Logistic)
+Shobhit Jagga - Volunteered (Logistic)
+
+ONGOING PROJECTS:
+Resume Parser
+January 1, 2024
+Resume-Parser employs a Transformer-based Natural Language Processing (NLP) model to streamline the evaluation process, allowing for a quick and insightful glance at resumes. The parser selectively extracts relevant information, eliminating unnecessary content and simplifying the effort required for candidate shortlisting.
+Mentor: Aniruddh Pramod
+Project Members: Manasvi Nidangula
+Abstract: Resume-Parser employs a Transformer-based Natural Language Processing (NLP) model to streamline the evaluation process, allowing for a quick and insightful glance at resumes. The parser selectively extracts relevant information, eliminating unnecessary content and simplifying the effort required for candidate shortlisting.
+
+Sentiment Analysis
+December 1, 2023
+This project focuses on sentiment analysis, employing a pre-trained natural language processing (NLP) model to analyze the sentiment. The features of the model include positive/negative analysis, emotion analysis, category of text ( sociology, computer science etc.) and AI generated text classification. The project has a Gradio application which integrates the pre-trained NLP model to process the input data and presents the sentiment analysis results.
+Mentor: Aniruddh Pramod
+Project Members: Nandini Bhattad, Hardik Jindal
+
+Note Taking
+December 1, 2023
+Training a transcription model to understand, transcribe and translate hinglish to English, which can have wide applications in note-taking in meetings, classes, etc.
+Mentor: Aniruddh Pramod
+Project Members: Devansh Gupta, Aditya V
+Abstract: Training a transcription model to understand, transcribe and translate hinglish to English, which can have wide applications in note-taking in meetings, classes, etc.
+
+EEG-Based Emotion Recognition and Mapping
+December 1, 2023
+An experiment to develop an EEG-based emotion recognition system using a bandit-based decision-making framework. The aim is to detect emotions like disgust, happiness, frustration, and neutral states from EEG data of participants exposed to various stimuli. 
+Mentor: Aniruddh Pramod, Priyanshu Tiwari
+Project Members: Debarpita Dash, Manasvi N, Deham R, Sonal T
+Abstract: An experiment to develop an EEG-based emotion recognition system using a bandit-based decision-making framework. The aim is to detect emotions like disgust, happiness, frustration, and neutral states from EEG data of participants exposed to various stimuli.
+Upside Down Lab’s Neuroscience Pro Kit is used as the EEG for this setup. The experimental design is complete and being implemented in PsychoPy. We’ll soon be starting with human trials to gather data.
+
+Automatic Stock Trading using RL
+December 1, 2023
+Utilized Reinforcement Learning algorithms to automate stock trading decisions, optimizing portfolio performance.
+Mentor: Aniruddh Pramod
+Project Members: Debarpita Dash
+
+ASL Interpreter
+December 1, 2023
+A project aimed at interpreting American Sign Language to facilitate communication for the differently abled.
+Mentor: Aniruddh Pramod
+Project Members: Aditya Prakash
+Abstract: A project aimed at interpreting American Sign Language to facilitate communication for the differently abled.
+
+Passphrase Hacking
+October 1, 2023
+We study ML algorithms that can capture a passphrase being typed on laptop based on keypresses heard over a Zoom call. Mentees dived into audio processing and acoustic side-channel attacks and are currently implementing a procedure described in a research paper.
+Mentor: Aniruddh Pramod
+Project Members: Sagar Arora, Udbhav Agarwal
+
+COMPLETED PROJECTS:
+PDF Chatbot
+October 1, 2023
+Mentees worked on the application of LLMs to implement a simple Chatbot that can answer queries based on an input PDF Document.
+Mentor: Aniruddh Pramod
+Project Members: Raghav Manglik, Srishti Chandra, Manasvi Nidangula
+
+Dimensionality Reduction Using Auto-Encoders
+November 26, 2022
+The problem with high dimensional data is that it means high computational cost to perform learning and it often leads to over-fitting when learning a model. Due to this reason, we have dimensionality reduction. Dimensionality reduction is the transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data. It helps in data compression, reduces computation time and helps remove redundant features, if any. In this project, we shall be comparing two methods of dimensionality reduction using principal component analysis (PCA) and auto encoders by applying them over a variety of datasets.
+Mentor: Sourabh Patil
+Project Members: Kumar Kanishk Singh
+Abstract:
+Using RAVDESS dataset which contains around 1500 audio file inputs from 24 different actors (12 male and 12 female ) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice. After training we can deploy this model for predicting with live voices.
+
+Why would you do that?
+May 16, 2021
+Neuroeconomics seeks to explain human decision making, the ability to process multiple alternatives and to follow a course of action.In general, a population of people thrives when they depict some sort of social behaviours. Small individual choices can have a big effect on the population. In this project we’ll be taking a look at how multi-agent systems interact and produce macro effects as a result of micro choices, and how those results in turn affect the decisions of the agents.
+Mentor: Shivanshu Tyagi
+Project Members: Ayushi Chaudhary, Siddhant Singh, Subiksha Shree S, Suyash Mallik, Akanksha Singh
+Abstract:
+Neuroeconomics seeks to explain human decision making, the ability to process multiple alternatives and to follow a course of action.In general, a population of people thrives when they depict some sort of social behaviours. Small individual choices can have a big effect on the population. In this project we’ll be taking a look at how multi-agent systems interact and produce macro effects as a result of micro choices, and how those results in turn affect the decisions of the agents. We’ll create a simple agent that can decide whether to show altruistic traits or not, in an artificial environment to maximise it’s chances of survival (We’ll create an environment also), we’ll simulate this on a number of populations with various constraints to find any pattern. Next, (if time permits), we’ll try to create a simple Q-Learning model / any other suitable model to take into account the variability in the agent decisions based on environmental input (reinforcement).
+
+Models of Memory
+May 16, 2021
+Human memory can store large amounts of information. Nevertheless, recalling is often a challenging task. In this project we look at the past models of memory retrieval namely the hopfield network and the mean field theory. After the classical models, we also develop a more realistic sequential neural network model for recall tasks(For eg, NTM, MANN etc). After that, we will try to optimize and develop our own models of memory that may be
+Mentor: Mohit Kulkarni
+Project Members: A. Kedarnath, Amay Bhargava, Nilay Beniwal, Roylan Pais, Jaswant Kumar, Falguni Yadav, Akshay Mehta, Prajwal Arya, Deepalok Kaushik, Amartya S. Das, Aditya Prakash
+Abstract:
+Human memory can store large amounts of information. Nevertheless, recalling is often a challenging task. In this project we look at the past models of memory retrieval namely the hopfield network and the mean field theory. After the classical models, we also develop a more realistic sequential neural network model for recall tasks(For eg, NTM, MANN etc). After that, we will try to optimize and develop our own models of memory that may be
+
+Analysing Steinmetz dataset to find the role of Hippocampus in Decision Making.
+May 16, 2021
+The motive of the project is to learn how to analyse a NeuroImaging data. We start from the basics, learn about brain anatomy and various neuroimaging dataset and various techniques/libraries helpful in analysing data. Then everything learnt to analyse Steinmetz dataset to find the role of a particular brain group [this depends on the student’s interest, for now I have chosen Hippocampus which is involved with memory and learning] in the decision making process. So the aim would be basically to understand the role of memory and learning [at which stage are they required] in a decision making process.
+Mentor: Aditya Prakash
+Project Members: Bidhan Arya, P Praveen Kumar, Sagar Agarwal, Sarthak Gupta, Ritam Pal
+Abstract:
+The motive of the project is to learn how to analyse a NeuroImaging data. We start from the basics, learn about brain anatomy and various neuroimaging dataset and various techniques/libraries helpful in analysing data. Then everything learnt to analyse Steinmetz dataset to find the role of a particular brain group [this depends on the student’s interest, for now I have chosen Hippocampus which is involved with memory and learning] in the decision making process. So the aim would be basically to understand the role of memory and learning [at which stage are they required] in a decision making process.
+
+Speech Emotion Recognition
+May 16, 2021
+Using RAVDESS dataset which contains around 1500 audio file inputs from 24 different actors (12 male and 12 female ) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice. After training we can deploy this model for predicting with live voice
+Mentor: Aditya Gupta, Arpit Verma
+Project Members: Anand Patwa Aryan Singh Darshit Trevadia Pushpanshu Tripathi Shreyasi Mandal Parth Govil Aakarshika Singh Aarjav Jain Rajat Singh Saaransh Agarwal Sarthak Kohli Samudh BG Dheeraj Agarwal Viplav Patel Mirge Saurabh Arun Samriddhi Gupta Varun Singh Nitesh Pandey Rashmi GR Anmol Agarwal Srajan Jain Rishabh Mukati Pranav Singh Sarah Kapoor Sahil Bansal Gaurav Kumar Tarun Agarwal Ankit Yadav Harsh Patel Gulshan Kumar Aakash Kumar Bhoi Aryan Agarwal
+Abstract:
+Using RAVDESS dataset which contains around 1500 audio file inputs from 24 different actors (12 male and 12 female ) who recorded short audios in 8 different emotions, we will train a NLP- based model which will be able to detect among the 8 basic emotions as well as the gender of the speaker i.e. Male voice or Female voice. After training we can deploy this model for predicting with live voices.
+
+How can I explain this to you?
+May 16, 2021
+The motive of the project is to address the major concerns of the deep learning models. The dl models are black boxes needed to be explained. For this part we will learn how we can get insights from the model, about the model. In the second part, we will address another major concern about dl models- Robustness/Vulnerabilities. How the dl models can fooled and how we can overcome these vulnerabilities by defense techniques
+Mentor: Akshay Gupta
+Project Members: Dhrubajit Basumatary, Pranjal Sharma, and Ujwal Kumar
+Abstract:
+The motive of the project is to address the major concerns of the deep learning models. The dl models are black boxes needed to be explained. For this part we will learn how we can get insights from the model, about the model. In the second part, we will address another major concern about dl models- Robustness/Vulnerabilities. How the dl models can fooled and how we can overcome these vulnerabilities by defense techniques
+
+Finding a correlation in color-perception MRI studies and deep neural network features
+May 16, 2021
+Multiple studies have been carried out to study how the brain perceives color. Some on macaque monkeys, some on humans. We start with studying the literature on color perception and on the experiments carried out. Then, we look for a dataset of MRI images on which a deep learning analysis can be done.
+Mentor: Shivi Gupta
+Project Members: Ayushi Arora, Deeksha Vijay, Diksha Banka, Dravya Marwaha, Gaurvika Kapoor, Praveen Prabhat, Twinkle Arora1
+Abstract:
+Multiple studies have been carried out to study how the brain perceives color. Some on macaque monkeys, some on humans. We start with studying the literature on color perception and on the experiments carried out. Then, we look for a dataset of MRI images on which a deep learning analysis can be done. Next, we try to model a deep learning problem on the dataset, for example, a simple classification task. And finally, we try to find a correlation of the data (or of some deep representation of the data) with convolutional neural network features.
+
+Convolutional Network for Online Video Understanding
+May 16, 2021
+Using UCF101 and Something-Something datasets, we implement high-quality action classification and video captioning within a video, where each video can consist of a few hundred frames. We will look at previous approaches and implement a convolutional network for online video understanding. The network architecture takes long-term content into account and enables fast per-video processing at the same time.
+Mentor: Shivangi Singh, Tanvi Nerkar
+Project Members: Dev Barbhaya, Ankit Yadav, Lochan Gupta, Utkarsh Agrawal, Vinamra Shrivastava
+Abstract:
+Using UCF101 dataset, we implement high-quality action classification and video captioning within a video, where each video can consist of a few hundred frames. We will look at previous approaches and implement a convolutional network for online video understanding. The network architecture takes long-term content into account and enables fast per-video processing at the same time.
+
+Tweet Sentiment Extraction
+July 1, 2020
+In order to keep cognition models accessible, we need it to understand human language. The Natural Language Processing (NLP) becomes important which is concerned with the interactions between computers and human (natural) languages. One of the basic attributes of human communication is Sentiment. It is important that machines understand these sentiments.
+Mentor: Ishika Singh
+Team 1
+Team Members: Yatish Goel, Varenya Srivatava, Tushar Singla, Nishima Panwar, Gagan Aryan
+Abstract:
+Twitter according to Wikipedia is a micro-blogging and social networking site where users post and interact with messages known as âtweetsâ. These tweets play an integral part in conveying many important messages. A new policy by the government, the retirement of a sportsman, key updates of tech-giants and many other updates are announced first on twitter. Over a billion tweets are tweeted every day. With all these tweets getting circulated every second, it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a personâs, brand for being viral(positive), or devastate profits because it strikes a negative tone. Hence, capturing the sentiment of a tweet is critical. In this project, we not only try to capture a sentiments tweet but also try to extract the phrase that conveys a particular sentiment. To achieve this we have used two NLP techniques NER and Roberta trained models by modelling the problem statement in the form of a question answering task. We obtained an accuracy of 66.4 per cent using a baseline NER model and an accuracy of 70.3 per cent using the Roberta model. This task was also a Kaggle competition that concluded recently. We finished 1313 in the competition out of 2227 team with an accuracy of 71.25 per cent.
+Team 2
+Team Members: Atul Yaduvanshi, Saad Ahmad, Sajal Goyal, Saurabh K. Gupta
+Abstract:
+In order to keep cognition models accessible, we need it to understand human language. The Natural Language Processing (NLP) becomes important which is concerned with the interactions between computers and human (natural) languages. One of the basic attributes of human communication is Sentiment. It is important that machines understand these sentiments.
+Step 1: Understanding functioning of LM’s and textual data preprocessing.
+Step 2: Utilizing pretrained LM’s and building a basic pipeline of the solution.
+Step 3: Fine tune LM’s.
+
+The Omniglot Challenge
+July 1, 2020
+The Omniglot Challenge focuses on developing more human-like algorithms like One-Shot Learning. The Project was divided into several sub-teams which focused on Replication of the original Bayesian Program Learning model in Python on the 'Omniglot' dataset, Building SOTA ML models based on BPL fundamentals i.e. breaking the problem down into smaller problems aiming to build more generalized one-shot learning models and Comparing the BPL model with traditional ML models for the Text Generation task this would allowing us to implement tasks like Classification and Generation on the Omniglot Dataset through several methods and at the same time be able to compare them.
+Mentor: Shashi Kant
+Project Members: Som Tambe, Mohit Kulkarni, Nikita Chauhan, Anmol Pabla, Vaibhav Thakkar
+Abstract:
+Despite remarkable advances in artificial intelligence and machine learning, machine systems have lagged behind Human Learning in two aspects. First, people can learn a new concept from just one or a handful of examples, whereas standard algorithms in machine learning require tens or hundreds of examples to perform similarly. Second, people learn richer representations than machines do, even for simple concepts, using them for a wider range of functions. Past efforts to counter these problems include the Bayesian Program Learning, which follows the idea of “how humans do one-shot classification”. The Bayesian Program Learning paper was remarkable but seems to have hand-engineered various parts of the model.
+The Omniglot Challenge focuses on developing more human-like algorithms like One-Shot Learning. The Project was divided into several sub-teams which focused on Replication of the original Bayesian Program Learning model in Python on the ‘Omniglot’ dataset, Building SOTA ML models based on BPL fundamentals i.e. breaking the problem down into smaller problems aiming to build more generalized one-shot learning models and Comparing the BPL model with traditional ML models for the Text Generation task this would allowing us to implement tasks like Classification and Generation on the Omniglot Dataset through several methods and at the same time be able to compare them.
+
+The Connectome Project
+July 1, 2020
+This project seeks to understand what the connectome is and develop the modern tools required to study it. Through this project, we have looked at various the biological organization of neurons and the higher structures they form. We have looked into various neuroimaging techniques that are involved. We also looked into the auditory system in humans; the visual system in insects, and in more detail the olfactory system in Drosophila.
+Mentor: Yatin Azad
+Project Members: Abhinaya, Bhuvan, Debaditya, Kunal, Vatsal
+Abstract:
+One of the most complex and least-understood organs in the body is the brain. We do know its main components which are primarily neurons which are connected to each other via synapses. However, the wonder of the brain not lies in what a single neuron can do but based on what the brain achieves as a result of the collaboration of thousands of neurons in networks.
+A connectome is a structural and functional map of the brain. On an expansive and huge scale, developing a human connectome will be the next big thing in the medical industry, diagnosing various diseases, behavioural and mental and in the (data) analysis of the plethora of data our brains collect every waking and sleeping second - a complete A new way to look at neuroscience.
+This project seeks to understand what the connectome is and develop the modern tools required to study it. Through this project, we have looked at various the biological organization of neurons and the higher structures they form. We have looked into various neuroimaging techniques that are involved. We also looked into the auditory system in humans; the visual system in insects, and in more detail the olfactory system in Drosophila.
+We have modelled the Drosophila olfactory system (Mittal et al.) and have tried to show that identification of odours need not be a feature that is learnt.
+
+Playing Atari with Deep Reinforcement Learning
+July 1, 2020
+Atari 2600 is a challenging RL testbed that presents agents with a high dimensional visual input and a diverse and interesting set of tasks that were designed to be difficult for humans players. The goal is to connect a RL algorithm to an deep neural network which operates directly on RGB images and by using stochastic gradient updates.
+Mentor: Ishika Singh
+Project Members: Aditya Gupta, Arka Das, Padmaja Chavan, Sajal Goyal
+Abstract:
+Atari 2600 is a challenging RL testbed that presents agents with a high dimensional visual input (210 x 160 RGB video) and a diverse and interesting set of tasks that were designed to be difficult for humans players. The network is not provided with any game specific information or hand-designed visual features, it learns just from the video input, the reward, terminal signals, and the set of possible actions. The goal is to connect a RL algorithm to an deep neural network which operates directly on RGB images and by using stochastic gradient updates. Utilizing experience replay which is applying Q-learning updates to samples of experience, random from the pool of stored samples. Although RL takes a lot of time to train, it is capable of doing tasks which are impossible by pure deep learning.
+
+Mapping of Brain Signals
+July 1, 2020
+To understand the working, function and to some extent, the structure of the brain specifically so, by using empathy for pain to target Bilateral Anterior Insula and Anterior Cingulate Cortex using external stimuli.To study Brain activity and function using EEG data, learn how to analyse this data and explore the reason behind certain behaviour as we know it.
+Mentor: Prof. KM Sharika, Avisha Gaur, Yatin Azad
+Project Members: Debaditya Bhattacharya, Muskan Goyal, Rakesh Potnuru, Rishika Saraswat, Sagarima Datta, Saksham Pruthi, Sanket Garg, Swapnil Singh
+Abstract:
+The project aims to fulfill its objective through a research study:
+“To find the effect of acetaminophen in empathy and social decision-making.”
+The goals hence, can be outlined as:
+Understand the concept of empathy for pain and in this pursuit monitor and understand brain functionality to a certain aspect.
+Learn EEG data processing and analysis using the EEGLAB toolbox of MATLAB.
+Generalise and work towards automating the process of filtering EEG data.
+Study, record, process, observe, analyse, discuss and present results obtained from the research study by implementing everything learnt to organic data.
+Compile results and derive a comprehensible conclusion.
+
+Knowledge Graph Reasoning for Explainable Recommendation
+July 1, 2020
+Knowledge Graphs connect various types of information related to items into a unified space. Different paths connecting entity pairs often carry relations of different semantics, and PGPR (Policy Guided Path Reasoning) models these with the help of high-quality user and item representations generated using the TransE graph embedding scheme.
+Mentor: Ishika Singh
+Project Members: Aditi Goyal, Rahul Sethi, Somya Lohani, Vansh Bansal
+Abstract:
+Knowledge Graphs connect various types of information related to items into a unified space. Different paths connecting entity pairs often carry relations of different semantics, and PGPR (Policy Guided Path Reasoning) models these with the help of high-quality user and item representations generated using the TransE graph embedding scheme.
+This project -
+highlights the importance of KGs to define and interpret the process of recommendation.
+proposes an RL-based approach (with soft rewards, a multi-hop scoring function, and action pruning)
+imposes a beam search algorithm to sample diverse reasoning paths and items for recommendation.
+evaluates this method on four Amazon datasets to get explicit reasoning behind the predicted paths.
+
+Facial Expression Recognition
+July 1, 2020
+Computer Vision , a well-known problem of every ML enthusiast , is leveraging the computer/machine with the ability to see and classify objects much like human beings. This project was based on exploring Computer vision to a little extent. The aim was to develop a Machine learning model which is able to classify some basic emotions (Happy , Sad, Angry, Disgust, Fear, Surprise and Contempt) using facial expressions of humans .We had chosen the CK+ dataset for implementation. Overall, the project had three phases; Preprocessing , Model , Evaluation.
+Mentor: Avisha Gaur
+Team 1
+Team Members: Shashi Kumar, Aman Agarwal, Arpit Verma, Gaurav Sharma, Himanshu shetty, Anumam Yadav, and Shakshi.
+Abstract:
+Preprocessing : This was the start of the project, basically we aligned, face - cropped, normalized the images of our dataset and also augmented (flipped and randomly rotated) them to ensure good results.
+CNN model : We implemented a CNN model structure with two convolutional layers and two subsampling layers along with dropouts of 0.5 followed by output dense layer of seven units and softmax activation function.
+Evaluation : We evaluated our model on three cropping methods viz. Cropping with background, Cropping without background, Cropping without forehead. We also made variation in the neuron number of hidden dense layer prior to the output layer as 0, 256, 512, 1024. Further, we performed a ten- fold cross validation on our dataset.
+Results : Finally, We got an average accuracy of 97.49 after performing all above mentioned evaluation statistics.
+Team 2
+Team Members: Falguni Yadav, Prachi Singh, Pranav Kumar, Saksham Pruthi, Samriddhi Gupta, Tanisha Agrawal, Videeta Sharma, Yatharth Gupta
+Abstract:
+With the recent development and application of human–computer interaction systems, facial expression recognition (FER) has become a popular research area. The recognition of facial expression is a difficult problem for existing machine learningand deep learning models because that the images can vary in brightness, background, pose, etc. Feature extraction is very important for FER, even a simple algorithm can be very effective if the extracted features are sufficient to be separable. However, deep learning methods automatically extract features so that some useless features can interfere with useful features. For these reasons, FER is still a challenging problem in computer vision.
+Facial expressions are one of the most important features to reflect the human emotional state because they convey useful information to the observer. Several deep learning approaches for facial expression recognition were developed in the last decades, particularly the method of CNN. This project aims to to detect involuntary emotional response occurring simultaneously with conflicting voluntary emotional response and identifying true emotions by building classifiers that categorise facial expressions into 6 universal emotion categories (+1 neutral). We start off by implementing various pre-processing techniques for the images and use a customised face-cropping method. We also implement Linear Binary Patterns for Feature Extraction and then test these on 2 customised CNN models while measuring their performance.
+Team 3
+Team Members: Aditya Prakash, Ananya Gupta, Bhavesh Jain, Shivanshu Tyagi, Urbi Ghosh
+Abstract:
+Facial expression recognition has gained a lot of attention in the past few years due to its wide applications. FER can be classified into two categories: Macro Expressions and Micro expressions recognition. We focused on macro expression recognition. Methods for emotion recognition often involve the Facial Action Coding System (FACS) which describes the facial expression using Action Units (AU). An Action Unit is a facial action like ”raising the Inner Brow”. Detecting such landmarks can be hard, as the distance between them differs depending on the person .
+The presented approach uses Convolutional Neural Networks special type of Artificial Neural Networks(ANNs).The proposed network has been trained on the FER-2103 Dataset and evaluated on the CK+ dataset and achieved an accuracy of 95.6%. After training on image dataset, the problem statement was expanded to video dataset. Approach for the second problem was changed: a hybrid of C3D and CNN+LSTM network was used. LSTM has memory ability and suits for processing sequences with contexts well. In the end, real time emotion classification using webcam input was incorporated.
+Team 4
+Team Members: Kusum Bunkar, Deepika Meena, Lakshita Mohanty, Pranay Vandanapu, Rishi Dhakar, Bhavy Gandhi, Mukulesh Shinde
+Abstract:
+Facial expressions are one of the most important features to reflect the human emotional state and they convey 55% of a communicated message which is more than the part conveyed by the combination of voice and language. FER technique can be used for the development of human–computer interaction systems, such as social robots, visual interactive games, and data-driven animation.
+We used a new face cropping and image rotation strategy to improve the accuracy and simplify the CNN structure. By facial cropping we removed the emotionally inactive part of the region and random rotations to cope up with data scarcity. Also Histogram equalization, Z-score normalization, and down-sampling were applied to standardize the image data.The expanded training data thus obtained is used to train the CNN, and we got our best CNN model by ten-fold cross validation. During the validation or testing phase, the normalized testing images (without expansion) were sent to the CNN model from the training phase for prediction. Further we have used the combined datasets to train a model for detecting single and multiple faces and their six different expressions in a realtime environment.
+Team 5
+Team Members: Aditya Jindal, Mrigya Gupta, Sampada Sinha, Shruthi Sureshkumar
+Abstract:
+Emotions play a hugely important role in our interpersonal communications. Recognizing emotions accurately has wide ranging applications - from marketing to psychology to gaming. In this project we aimed to recognize facial expressions from input image data. We began with a review of existing literature to understand the problem of facial expression recognition. We ended up implementing 3 different papers to obtain better accuracies, and obtained the highest accuracy on the final paper implemented. We were introduced to machine learning, and deep learning techniques. We tested and trained the model on existing standard datasets, and also tested the model with a live webcam feed.
+
+Comparing Deep Neural Network Features With Psychological Representations
+July 1, 2020
+In this project, we are replicating the work of Peterson et al 2016, testing using other state-of-the-art models and testing the method with different changes to testify if the method is really adapting to psychological representations.
+Mentor: Shashi Kant
+Project Members: Abhishek Jain, Aditya Jindal, Amartya Dash, Sahithi Macharla, Sanket Agrawal
+Abstract:
+Peterson et al 2016 attempted to evaluate the relation between deep representations and mental representations for making similarity judgments and see how well the former aligns with the latter. The similarity judgments, in turn, are calculated by taking a weighted inner product of the feature representations of the two objects. Results from the paper revealed that comparatively much better results were obtained when the weights were calculated using a regression technique rather than when they were considered to be constant unity. This seems to produce very favorable results and would indicate that deep learned representations can represent psychological representations. In this project, we are trying to test whether this really is this case. We start off by replicating their work, testing using other state-of-the-art models, and testing the method with different changes to testify if the method is really adapting to psychological representations. Apart from this, we have also designed a similar experiment in the NLP domain.
+
+Analysis of Reinforcement Learning
+July 1, 2020
+Reinforcement Learning(RL) is part of Machine Learning.RL provides very innovative algorithms for control and prediction problems.the principle of RL methods is that there is no supervisor or explicit teacher to command the correct actions.The agent learns by interacting with the environment,rewarding itself when goals are achieved and punishing itself when not.
+Mentor: Ishika Singh
+Project Members: Aaryansh Mohan Bansal
+Abstract:
+Reinforcement Learning(RL) is part of Machine Learning.RL provides very innovative algorithms for control and prediction problems.the principle of RL methods is that there is no supervisor or explicit teacher to command the correct actions.The agent learns by interacting with the environment,rewarding itself when goals are achieved and punishing itself when not. This forms the very true natural way of learning. However,over the time many algorithms have been developed in RL and its difficult to say which one is the most supreme one.The evolution of algorithms has taken place to best suit the type of problem at hand.So it becomes important for one to know which algorithm performs better in different situations.
+This project aims for the same thing.I studied the different types of RL algorithms through well acknowledged RL literatures.To compare these algorithms models, many environments were created and then the algos were applied. All of the results and the environments have been well documented in the github repository of the project.
+
+BLOG POSTS:
+THEORY OF CONSTRUCTED EMOTION
+February 27, 2023
+Have you ever found yourself making a decision solely based on how you feel? Emotions have the power to influence our thoughts, behaviors, and actions. But have you ever wondered if emotions are innate or constructed by the brain? In this blog post, we will take a deep dive into the theory of constructed emotions and how they shape our experiences and actions.
+
+Constructed emotion
+
+Activation Functions
+December 7, 2022
+Activation functions are a critical component of a neural network and, thus, are fundamental building blocks for deep learning. They also serve a very important purpose of shaping the behavior of a deep learning model by introducing non-linearity to it.
+
+Understanding Precision and Recall
+November 1, 2022
+So you've built a machine learning model, trained it on a data and tested on another data... now what?... It is always a good practice to evaluate the quality of one’s work.
+
+Paper Review - A Neural Network Model for Mathematical Development
+November 8, 2021
+The ability to improve in speed and accuracy as a result of repeating some task is an important hallmark of intelligent biological systems. In this work, the authors model the progression from a counting-based strategy for addition to a recall-based strategy. The model consists of two networks working in parallel- a slower basal ganglia loop and a faster cortical network.
+
+JOURNAL CLUB:
+Here we meet to discuss and talk about the latest ongoing research in this field. This is conducted weekly on Friday night of 2 hours long duration. Where interested students present a short talk on some latest articles which they found to be interesting to share. This helps significantly in developing and maintaining curiosity and in spreading the latest research among the campus.
+
+Are ANNs capable of Few-Shot Learning?
+January 9, 2021
+This talk will involve Brendan Lake's paper, as well as other related literature. The speaker shall then discuss the studies he conducted with his mentor, Shashikant Gupta, which provides a completely deep-learning based approach to tackle the Omniglot dataset, and the progress they have achieved with the project.
+Speaker: Som V Tambe, an Undergraduate student at the Dept. of Aerospace Engineering, IIT Kanpur.
+Title: Are ANNs capable of Few-Shot Learning?
+Abstract:
+Despite remarkable advances in artificial intelligence and machine learning, machine systems have lagged behind Human Learning in two aspects. First, people can learn a new concept from just one or a handful of examples, whereas standard algorithms in machine learning require tens or hundreds of examples to perform similarly. Second, people learn richer representations than machines do, even for simple concepts, using them for a wider range of functions. Past efforts to counter these problems include the Bayesian Program Learning, which follows the idea of “how humans do one-shot classification”. The Bayesian Program Learning paper was remarkable but seems to have hand-engineered various parts of the model.
+Our talk focuses on developing more human-like algorithms like One-Shot Learning. This talk will involve Brendan Lake’s paper, as well as other related literature. The speaker shall then discuss the studies he conducted with his mentor, Shashikant Gupta, which provides a completely deep-learning based approach to tackle the Omniglot dataset, and the progress they have achieved with the project.
+
+Does The Brain Do Back Propagation?
+December 20, 2020
+Here we build on past and recent developments to argue whether an algorithm similar to backpropagation enables learning in the brain and modulates synaptic plasticity.
+Speaker: Mohit Kulkarni,Department of Mathematics, IIT Kanpur.
+Title: Does the Brain do Backpropagation? A look into learning rules and synaptic plasticity.
+Abstract:
+During learning, the brain modifies synapses to improve behaviour. In the cortex, synapses are embedded within multilayered networks, making it difficult to determine the effect of an individual synaptic modification on the behaviour of the system. Training deep neural networks with the error backpropagation algorithm is considered implausible from a biological perspective. Numerous recent publications suggest elaborate models for biologically plausible variants of deep learning, Here we build on past and recent developments to argue whether an algorithm similar to backpropagation enables learning in the brain and modulates synaptic plasticity.
+
+More Than More Data
+November 15, 2020
+A theoretical and empirical evidence that data augmentation alone is more effective than commonly used explicit regularisation techniques, and how it can be used to incorporate insights from computational neuroscience as new learning objectives that yield better performance and more robust visual representations.
+Speaker: Alex Hernández García, PhD @ University of Osnabrück, Germany.
+Title: More Than More Data - Insights from data augmentation for deep learning and computational neuroscience
+Abstract:
+Despite its popularity, data augmentation has been heavily understudied in machine learning, often looked down as a way to simply create a few more data points. However, applied on natural images, data augmentation implements perceptually plausible transformations, that is they reflect the transformations we see in our visual world. Furthermore, the higher visual cortex robustly represents objects under these transformations.
+In this talk, I will present theoretical and empirical evidence that data augmentation alone is more effective than commonly used explicit regularisation techniques, and how it can be used to incorporate insights from computational neuroscience as new learning objectives that yield better performance and more robust visual representations.
+
+Codistillation for Distributed Training
+October 27, 2020
+This work contributes to a better understanding of codistillation and how to best take advantage of it in a distributed computing environment.
+Speaker: Shagun Sodhani, Research Engineer at Facebook AI Research, Masters in Artificial Intelligence (Université de Montréal), Btech in Computer Science and Engineering (IIT Roorkee).
+Part 1: Research talk (25min)
+Topic: Distributed Training of Neural Networks
+Title: Codistillation for distributed training
+Abstract: Codistillation has been proposed as a mechanism to share knowledge among concurrently trained models by encouraging them to represent the same function through an auxiliary loss. This contrasts with the more commonly used fully-synchronous data-parallel stochastic gradient descent methods, where different model replicas average their gradients (or parameters) at every iteration and thus maintain identical parameters. We investigate codistillation in a distributed training setup, complementing previous work which focused on extremely large batch sizes. Surprisingly, we find that even at moderate batch sizes, models trained with codistillation can perform as well as models trained with synchronous data-parallel methods, despite using a much weaker synchronization mechanism. These findings hold across a range of batch sizes and learning rate schedules, as well as different kinds of models and datasets. Obtaining this level of accuracy, however, requires properly accounting for the regularization effect of codistillation, which we highlight through several empirical observations. Overall, this work contributes to a better understanding of codistillation and how to best take advantage of it in a distributed computing environment.
+Part2: Ask me anything (25min)
+Bio: His research interest is in lifelong reinforcement learning – training AI systems that can interact with and learn from the physical world and consistently improve as they do so without forgetting the previous knowledge. Previously, he was a graduate student at MILA (advised by Dr Jian Tang and Dr Yoshua Bengio)
+
+Investigating Inductive Biases in Humans and Machines
+October 3, 2020
+Demonstration of how to reformulate recent algorithms for meta-learning as methods for statistical inference in a hierarchical Bayesian model.
+Speaker: Erin Grant, Ph.D. candidate, Dept. of Electrical Engineering & Computer Sciences at UC Berkeley which is affiliated with the Berkeley Artificial Intelligence Research (BAIR) Lab at UC Berkeley and the Computational Cognitive Science (CoCoSci) Lab at Princeton University.
+She has been a research intern and a student researcher on the Google Brain Team and a research intern at OpenAI and received a B.Sc. from the University of Toronto in Computer Science and Statistics. Her research interests lie in understanding prior knowledge in human and machine learning using the lens of meta-learning.
+Title: Investigating Inductive Biases in Humans and Machines
+Abstract:
+Meta-learning describes how an intelligent agent leverages prior learning episodes as a basis for quickly improving performance on a novel task. Bayesian hierarchical modeling provides a theoretical framework for formalizing this capability as statistical inference for a set of parameters that are shared as an initialization for domain-specific learners. She will demonstrate how to reformulate recent algorithms for meta-learning as methods for statistical inference in a hierarchical Bayesian model, thus bridging these two independent approaches. This connection provides a means to understand and improve on the computational underpinnings of algorithms for meta-learning in machine learning, as well as to adapt cognitive models expressed in the language of hierarchical modeling to the modern machine learning toolbox and to naturalistic stimuli.
+
+InfoTabS - Inference on Tables as Semi-Structured Data
+September 20, 2020
+Understanding ubiquitous semi-structured tabulated data requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information.
+Speaker: Vivek Gupta, Y11 Dual-Degree CSE, 1st Co-ordinator of SIGML, Currently PhD student at School of Computiong, University of Utah.
+Title: InfoTabS - Inference on Tables as Semi-Structured Data
+Type: Own PhD Research
+Other memebrs: Maitrey Mehta, Pegah Nokhiz, Vivek Srikumar
+Abstract:
+Understanding ubiquitous semi-structured tabulated data requires not only comprehending the meaning of text fragments, but also implicit relationships between them. We argue that such data can prove as a testing ground for understanding how we reason about information. To study this, we introduce a new dataset called INFOTABS, consisting of human-written textual hypotheses based on premises that are tables extracted from Wikipedia info-boxes. Our analysis shows that the semi-structured, multi-domain and heterogeneous nature of the premises admits complex, multi-faceted reasoning.
+He has also shared many of his experiences and some valuable insights for heading into research as a career option.
+
+Neural Constraints on Learning
+September 13, 2020
+As some behaviours are easier to learn than others, we asked if some neural activity patterns are easier to generate than others.
+Speaker: Amrita Singh, Y12 BSBE, Currently PhD student at Svoboda Lab, HHMI Janelia
+Title: Neural Constraints on Learning
+Type: Paper
+Paper: Sadtler, P., Quick, K., Golub, M. et al. Neural constraints on learning. Nature 512, 423–426 (2014).
+Abstract:
+Learning, whether motor, sensory or cognitive, requires networks of neurons to generate new activity patterns. As some behaviours are easier to learn than others, we asked if some neural activity patterns are easier to generate than others. Here we investigate whether an existing network constrains the patterns that a subset of its neurons is capable of exhibiting, and if so, what principles define this constraint. We employed a closed-loop intracortical brain–computer interface learning paradigm in which Rhesus macaques (Macaca mulatta) controlled a computer cursor by modulating neural activity patterns in the primary motor cortex. Using the brain–computer interface paradigm, we could specify and alter how neural activity mapped to cursor velocity. At the start of each session, we observed the characteristic activity patterns of the recorded neural population. The activity of a neural population can be represented in a high-dimensional space (termed the neural space), wherein each dimension corresponds to the activity of one neuron. These characteristic activity patterns comprise a low-dimensional subspace (termed the intrinsic manifold) within the neural space. The intrinsic manifold presumably reflects constraints imposed by the underlying neural circuitry. Here we show that the animals could readily learn to proficiently control the cursor using neural activity patterns that were within the intrinsic manifold. However, animals were less able to learn to proficiently control the cursor using activity patterns that were outside of the intrinsic manifold. These results suggest that the existing structure of a network can shape learning. On a timescale of hours, it seems to be difficult to learn to generate neural activity patterns that are not consistent with the existing network structure. These findings offer a network-level explanation for the observation that we are more readily able to learn new skills when they are related to the skills that we already possess.
+
+Deep Reinforcement Learning And Its Neuroscientific Implications
+August 30, 2020
+What if a machine could mimic the way a human learns? Sounds pretty ambitious right? Reinforcement Learning is one of the three paradigms of Machine Learning that can be used for this purpose.
+Speaker: Debaditya Bhattacharya, Second Year UG Student of the Department of Physics
+Title: Deep Reinforcement Learning And Its Neuroscientific Implications (Review Paper)
+Type: Paper
+Paper: Deep Reinforcement Learning And Its Neuroscientific Implications-Matthew Botvinick, Jane X. Wang, Will DabneyKevin, J. Miller and Zeb Kurth-Nelson
+Abstract:
+What if a machine could mimic the way a human learns? Sounds pretty ambitious right? Reinforcement Learning is one of the three paradigms of Machine Learning that can be used for this purpose. In this, there is a single task to be accomplished and the machine looks for the most optimal path to solve the task along with maximising the cumulative reward. Does it sound similar? It seems like a person learning from his/her mistakes. It has a very subtle closeness to human learning and its neuroscientific implications has been focused on in the event.
+The emergence of powerful artificial intelligence (AI) is defining new research directions in neuroscience. To date, this research has focused largely on deep neural networks trained using supervised learning in tasks such as image classification. However, there is another area of recent AI work that has so far received less attention from neuroscientists but that may have profound neuroscientific implications: deep reinforcement learning (RL). Deep RL offers a comprehensive framework for studying the interplay among learning, representation, and decision making, offering to the brain sciences a new set of research tools and a wide range of novel hypotheses. In the present review, we provide a high-level introduction to deep RL, discuss some of its initial applications to neuroscience, and survey its wider implications for research on brain and behaviour, concluding with a list of opportunities for next-stage research.
+
+A Network Model of the Emotional Brain
+March 5, 2020	
+Where does emotion reside in the brain? The key question addressed here is as follows - how is emotion instantiated in the brain? Thinking about the brain basis of emotion has fluctuated between a focus on regions and a focus on circuits
+Speaker: Avisha Gaur, Third Year UG Student Department of Electrical Engineering
+Title: A Network Model of the Emotional Brain (Review Paper)
+Type: Paper
+Paper: Pessoa L. (2017). A Network Model of the Emotional Brain. Trends in cognitive sciences, 21(5), 357–371
+Abstract: Where does emotion reside in the brain? The key question addressed here is as follows: how is emotion instantiated in the brain? Thinking about the brain basis of emotion has fluctuated between a focus on regions and a focus on circuits. In the 1920s and 1930s, work by Cannon and Bard propelled the hypothalamus to the epicenter of the emotional brain At the same time, the idea that emotion depends on distributed circuits also was present in early work. Today, characterizing circuit interactions is believed to be key to unraveling how emotion is organized in the brain. Overall, this review clarifies why the impact of emotion is wide-ranging, and how emotion is interlocked with perception, cognition, motivation, and action. (Abstract taken as it is from the original paper)
+
+Journal Club Meeting 1
+March 1, 2020
+Presentations on The Role of Reward Dimensions in Preference Reversal by Shobhit Jagga and IVSN - A Biologically Inspired Computational Model for Visual Search by Shashi Kant Gupta
+Presentation 1:
+Speaker: Shobhit Jagga, 3rd Year UG Student Department of Computer Science & Engineering
+Title: The Role of Reward Dimensions in Preference Reversal
+Type: Own Project
+Abstract: Previous studies has shown that in contrast to rational choice theory human subjects fail to maximize by exhibiting melioration where they prefer smaller sooner reward over larger later reward and also exhibit time-inconsistent preferences. The presented study aims to find out the sensitivity of such preferences to reward dimensions to find out what changes in reward dimensions result in preference reversal where the larger later reward is preferred over smaller sooner reward.
+Utility Maximization and Melioration: Internalities in Individual Choice
+Hyperbolic Discounting
+Presentation 2:
+Speaker: Shashi Kant, Final Year UG Student Department of Electrical Engineering
+Title: IVSN: A Biologically Inspired Computational Model for Visual Search
+Type: Paper
+Paper: Zhang, M., Feng, J., Ma, K.T. et al. Finding any Waldo with zero-shot invariant and efficient visual search. Nat Commun 9, 3730 (2018)
+Abstract: Searching for a target object in a cluttered scene constitutes a fundamental challenge in daily vision. The visual search must be selective enough to discriminate the target from distractors, invariant to changes in the appearance of the target, efficient to avoid exhaustive exploration of the image, and must generalize to locate novel target objects with zero-shot training. Previous work on visual search has focused on searching for perfect matches of a target after extensive category-specific training. Here, they show for the first time that humans can efficiently and invariantly search for natural objects in complex scenes. To gain insight into the mechanisms that guide the visual search, they propose a biologically inspired computational model that can locate targets without exhaustive sampling and which can generalize to novel objects. (Abstract taken as it is from the original paper)
+
+EVENTS:
+Introduction to CNNs
+October 12, 2023
+This workshop was aimed at introducing the participants to CNN (Convolution Neural Network) and the basic layout related to it with correspondence to architecture models.
+This workshop was aimed at introducing the participants to CNN (Convolution Neural Network) and the basic layout related to it with correspondence to architecture models. It comprised of a task and discussion over a range of topics, including:
+Basic Python
+Basic Convolution Operation
+Activation Function and Convolution layering
+Renowned CNN Models
+Task regarding “Hand Gesture Detection”
+The mentioned task was edited accordingly by Brain and Cognitive Society, IIT Kanpur.
+People involved :
+Moderated and Managed by - Aniruddh
+Assignments Curated by -Aniruddh, Aditya Prakash, Debarpita, Vishal
+
+PSYCH101
+September 8, 2023
+This workshop aimed to introduce the attendees to the jist of Cognitive Psychology and various interactive tests to develop a basic understanding of Cognitive Psychology.
+This workshop aimed to introduce the attendees to the jist of Cognitive Psychology and various interactive tests to develop a basic understanding of Cognitive Psychology. It comprised of various tests and questions:
+Cognitive Sciences vs Cognitive Psychology
+Researches in COGSPY
+Psychology of humor
+Psychology tests
+FUN time :)
+People involved :
+Moderated and Managed by - Aniruddh
+Assignments Curated by - Saksham, Manasvi
+
+Brain and Cognitive Society Online Workshop Jan '21
+January 23, 2021
+This workshop was aimed at introducing the participants to Machine Learning and different aspects of related to it with correspondance to Cognitive models. It comprised of assignments in the form of notebooks over a range of topics, including:
+Basic Python
+Model Fitting
+Machine Learning
+Deep Learning
+Reinforcement Learning
+The workshop materials were created with the help of different notebooks under the Summer Course held by Neuromatch Academy. The mentioned assignments were edited accordingly by Brain and Cognitive Society, IIT Kanpur.
+People involved :
+Moderated and Managed by - Harsh
+Assignments Curated by - Harsh, Sandipan, Arpit, Aditya Gupta, Debaditya
+
+Hello Y20!
+The BCS team conducted an introductory lecture for the incoming Y20 batch of IITK so that the freshers can gain some idea about what we do here and to encourage the enthusiasm shown by them during the SnT Pavillion and Orientation’20. We received a tremendous response from the freshers’ batch and we had some really interesting discussions during the lecture. We are very excited ourselves to interact and work together with these bright minds.
+The lecture was divided into 3 parts of approx. 30 mins each. The key speakers were -
+Cognitive Psychology - Ayushi Chaudhary
+Slides - pptx, pdf
+Neuroscience - Debaditya Bhattacharya & Aditya Prakash
+Slides - pptx, pdf
+Machine Learning & AI - Mohit Kulkarni
+Slides - pptx, pdf
+Content Contributors - Ayushi Chaudhary, Debaditya Bhattacharya, Aditya Prakash, Yatin Azad, Mohit Kulkarni & Umang Pandey
+
+Brain and Cognitive Society Online Workshop Apr '20
+The goal of the workshop was to introduce the basics of different technical skills needed for studying brain science and to reverse engineer human brain/intelligence to create more general and intelligent AI’s. It covered a range of topics, including:
+Basic Machine Learning
+Computational Modeling
+Psychophysics, Data Analysis and Experiment Design
+The lectures and workshop materials were a combination of links to different online resources plus some additional materials created by Brain and Cognitive Society, IIT Kanpur. Assignments were created by Brain and Cognitive Society, IIT Kanpur.
+Organisers
+Shashi Kant - Lead Organiser and Mentor
+Avisha Gaur - Volunteered (Logistic)
+Shobhit Jagga - Volunteered (Logistic)
+
+LEADERS:
+Debarpita Dash
+Manasvi Nidugala
+Sagar Arora
+Udbhav Agarwal
+
+SECRETARIES:
+Aarin Sheth
+Akshat Saxena
+Akshat Srivastava
+Akshat Swarup
+Akshay Reddy Kamatam
+Anika Gupta
+Aravind Sarath Chandran
+Bhavnoor Singh
+Divi Pothukuchi
+Gaurav Kumar Rampuria
+Kshitiz Tyagi
+Meher Narula
+Ritika
+Rohan Potukuchi
+Saubhagya Pandey
+Shrey Solanki
+Shruti Sekhar
+Siddhant Shekhar
+Suryansh Verma
+Vedant Neekhra
+Vivek
+
+EX-LEADERS:
+Aniruddh Pramod
+Priyanshu Tiwari
+Roy Shivam Ram Shreshtth
+Shlok Mishra
+Saurabh Patil
+Shashwat Gupta
+Suyash Mallik
+Shivanshu Tyagi
+Mohit Kulkarni
+Yash Baheti
+Ishika Singh
+Avisha Gaur
+Yatin Azad
+
+FOUNDER:
+Shashi Kant
+
+
+
+

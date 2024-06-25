@@ -1,0 +1,304 @@
+PROJECTS
+
+
+Summers'19
+
+LiFi: Visible Light Communication
+
+Li-Fi, formally known as Visible Light Communication, is a portmanteau of “Light” and “Wi-Fi”. It relies on using visible light for transmission of data, instead of radio waves, which are used in the conventional Wi-Fi system. As a cutting-edge technology, it is now finding its place throughout the globe in various applications, both research and industrial alike; mostly due to its economical feasibility, immense scalability and supreme efficiency.
+Our project, albeit preliminary, is a comprehensive proof of concept, with optimized circuitry and an elaborate communication protocol implemented in unison to successfully demonstrate the transfer of various types of files (.txt, .jpg, .pdf, etc) at an unforeseen speed.
+
+FIGURES
+Some numerical figures
+
+2,000
+Speed Attained (bps)
+
+30
+Distance Achieved (cm)
+
+28
+Coke Consumed (Lit.)
+
+4
+Team Size
+
+MILESTONES
+Our Technical Achievements
+
+Initial Stages
+In the initial stages of the project we tried and tested a large number of procedures, processes, components and circuit-designs. Since, this is a growing field in which a lot of research is under progress, we came across a few papers and open-source projects, however, none could help us out. Thus, we embarked on our journey to implement everything from scratch.
+
+Hardware Development
+The first true milestone was when we were able to generate square wave-forms on both sides which enabled us to accurately transfer encoded data from transmitter to receiver. And hence, the first working prototype for Li-Fi was on its way.
+
+Custom File Protocol
+We had initially started with implementing a one-way system for transmitting a string from one device to another. Currently we are using our FTP2.0 which has an acknowledgement system and supports two-way communication. It is capable of transferring files of any format.
+
+Development of a Working Prototype
+After we developed the Custom File Transfer Protocol v2, we turned our attention to testing and optimizations which resulted in a complete working prototype which, in its initial stages itself, allowed file transfer at a speed of 400bps and over a distance of 15cm and was successfully tested with several files and 0% data corruption was observed.
+
+Attainment of speed of 2kbps
+Thanks to the upgrades in our hardware and optimization of out software logic, we were able to achieve the above mentioned speed of 2kbps.
+
+Attainment of a distance of 1ft
+With the development of a custom LED panel we have been able to increase the distance of transmission to 1ft.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FPGA BASED EMULATION OF QUANTUM ALGORITHMS
+
+INTRODUCTION
+This project aims to emulate the behavior of a real quantum system, capable of running quantum algorithms on FPGA(Field Programmable Gate Array) while maintaining their natural time complexity.
+
+Quantum Fourier transform and Grover’s search are chosen to be implemented in this project since they are the core of many useful quantum algorithms. Physical realization of a quantum computer is proving to be extremely challenging. Only small scale small-scale quantum computation implementations have been achieved. This project aims to emulate these small scale quantum computations because of the significant improvements in time over classical computations.
+
+HARDWARE USED
+FPGA Board XUPV5 LX110T 
+USB JTAG
+
+Roadmap
+Learning Verilog & reading quantum algorithms.
+Implement Grover Search in C & FPGA board.
+Implement QFT in C & Verilog.
+Implement QFT on FPGA Board.
+
+INSPIRATION
+Quantum algorithms run on quantum computers, their processing speeds improve exponentially compared to their classical
+counterparts. Quantum computers has Qubit instead of classical bit which can hold superpositions of 0 and 1. For example, as shown in picture If we want to find prime factors of a very large number which is used in encryption. This is nearly impossible for classical computer but quantum computer can do it in 100 sec. Parallel computing in Quantum computers allows this to happen so fast. So we want to emulate such system where parallelism similar to quantum computers can be simulated. Software simulation cannot use the intrinsic parallelism of quantum algorithms eﬃciently. To address the problem, the hardware emulation of quantum algorithms is considered here.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SMART GAMER
+
+About Our Project
+Computer games are a popular consumer electronics item. The game players find it captivating to interact with games via joysticks, buttons, trackballs, or wired gloves. They may find it even more engaging to interact through natural, unencumbered hand or body motions. A computer vision-based user interface could provide these capabilities. Computer games represent a possible mass-market application for computer vision. So in this project we exploit this mass-market application and try to build and interactive game which can be controlled using a particular object and also build an AI which can play the game on its own.
+
+Our Approach
+01.Object Detection
+Using OpenCV to control actions in the game using a particular object for which the model is trained
+
+02.Pygame
+Using PyGame, which is a good library to make simple 2-D games like space shooter etc.
+
+03.Game AI
+Using Behaviour Tree which is a mathematical model of plan execution which describes switching between a finite set of tasks in a modular fashion & Reinforcement Learningn using which Q and DQ-Network models were applied to game
+
+04.Game With Depth Sensing
+Using Intel RealSense camera which tracks the 3-D movements and helps play game using our gestures
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WITRACK
+Through Wall Tracking Using Body Radio Reflections
+
+ABOUT US
+​WiTrack is a device that tracks the 3-D motion of the user from the radio signals reflected off their body. It works even if the person is occluded from the WiTrack device or in a different room.  WiTrack does not require the user to wear any kind of wearable device. It transmits wireless signals whose power is significantly lower than Wi-Fi or cellular transmissions. It can be incorporated into consumer electronics and has a wide set of applications.
+
+The device transmits a radio signal and uses its reflections to estimate the time it takes the signal to travel from the transmitting antenna to the reflecting object and back to each of the receiving antennas. WiTrack then uses its knowledge of the position of the antennas to create a geometric reference model, which maps the round trip delays observed by the receive antennas to a 3D position of the reflecting body.
+
+WORKFLOW & FUTURE TASKS
+​A simplistic way to look at the model we implemented is by referring to the flowchart shown below.
+In near future, we would attempt to miniaturize our model, thereafter generate a heat map of the human body in real time,and finally manifest a gesture control application through the same.
+
+Award
+Awarded the "Best Reseach & Development Project" by SnT Council
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summers'18
+
+Desktopography
+3 D Stackable Display
+FPGA: Neural Networks
+Skin Track
+IMU Localisation
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summers'17
+
+Brain Computer Interface
+Swarm Robotics
+FPGA: Neural Networks
+Stereo Vision
+Wireless HDMI
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summers'16
+
+Wifi Localisation
+Kinect Hands Free
+FPGA: Neural Networks
+Swarm Robotics
+Interactive Bot
+Hand Gesture Recognition Using EMG
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summers'15
+
+EMG: Hand Gesture Recognition
+AFROZ ALAM, KRUTIKA KALKAL, JISHANT SINGH, SAGAR CHAND, KUNAL KAPILA
+Wearable technology is the future of electronics gadgets. As interesting as it seems, it has myriad applications. This project aims at creating one such prototype, a hand gesture recognition system, using electromyography. Electromyography (EMG) is an electrodiagnostic medicine technique for evaluating and recording the electrical activity produced by the skeletal muscles. The basics of EMG are used to design a circuit that takes the differential signals from two electrodes placed on the same muscle at different locations as input, with one electrode as bone reference. The circuit pre-amplifies the input signal, filters the resultant signal for noise, rectifies it, and finally amplifies it. This output signal is then fed to a machine learning algorithm, which associates different signals with different data, and hence different gestures, and this can be utilized further to integrate with objects, that can be controlled using the gesture recognition system.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FPGA Based Audio Processor
+Ganesh Seelam, Mounica Nagavalli, Pratik Bhangale, Sri Krishna
+If we consider the situation of attending a party, our ears capture numerous sounds: a friend’s voice, the voices of others, background music, ringing telephones, and many others. If one concentrates, one can hear what a person is saying and you will filter any other sound. One can also change his/her focus of attention. For example, one may pay attention to your friend’s speech first and shift focus to the music if it is playing a song you like. If we were to record these sources by placing microphones in many places inside the room, the playback would be jumbled mix of sounds. One might be able to pick out a few words here and there, but there is no way one would be able to hear the conversation details. We are going to achieve this audio mapping using FPGA based circuit.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Gesture Recognization Using IMU
+Shubham Sharma, Piyush Tayal, Shubham Jain
+We will put IMU sensor on hand band and then using this sensor we will calculate the trajectory of the hand and then plot the graph of position of hand with respect to time. This data tells the application what the user is doing with their hand. With the help of machine learning we will pre-­‐set the poses to perform specific task in the computer when the certain task is being performed. The IMU sensor will give us a data of certain pose and then the machine will predict which task is to be executed.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Smart Lock
+Tushar Agarwal, Vikulp Bansal, Ritwik Bera, Prateek Yadav
+Smart Lock is an internet controlled biometric security lock. It has been specifically developed for Electronics Club IITK main door, to give a hassle free access to club and non-club members. It gives biometric access to club secretaries and coordinators, while non-club members can be given remote access by club coordinators on request. This lock also features live video steaming and data logging, which can accessed over a secured network using an android app or website.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Mood Visualization
+Abhishek Raj Sahu, Vijayraj Ghadge, Vishal Rana, Rohit Gupta
+With the boom in information technology, there is so much data available on the internet- 'The Big Data'. The abstraction, analysis and classification of this data is a fast growing field of research. This project describes an effort at collecting such data from a social networking site and then representing the same visually.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Smart Handshake
+Shivashish Kumar Gupta, Prawaan Singh, Sunil Misra, Gaurav Sharma, Sanjay Ramesh , Vihang
+The SmartBand is a wearable bracelet-like device that exchanges information about its users and their relationships. This exchange happens during the common gesture of the handshake, which is detected by the device. As such, In this paper, we discuss the SmartBand technology and feedback. The results suggest that control over personal information is an ongoing issue, but they also highlight the possibility for wearable devices to enable the creation of a set of invented techno- gestures with different affordances and constraints that might be more appropriate for certain social interaction applications.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Social Robot
+Nayan Deshmukh, Shyam Gole, Deepali Gupta, Karthik Rangineni, Kritgya Dabi
+Robots have always fascinated mankind. Through the advancement in technology the world has been able to implement Artificial Intelligence to a great extent but we still have a long way to go. In this paper we introduce ZIZO 101, a social robot. It consists of an Radxa Rock board as the development board and Arduino Mega 2560 as the microprocessor. The combination of these with a webcam attached to the animatronic head enables ZIZO 101 to behave as a social robot.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summers'14
+
+EMG: Hand Gesture Recognition
+AFROZ ALAM, KRUTIKA KALKAL, JISHANT SINGH, SAGAR CHAND, KUNAL KAPILA
+The idea of the project is to represent various frequencies present in the audio input signal on a led matrix using FPGA. We will first take an audio input signal an convert it into a digital signal using ADC (Analog to Digital Converter). And then use Fourier transformations on the signals to obtain the coefficients for the various frequencies present in the audio input. Then finally we will represent the output on an LED matrix using Persistence of Vision. The FPGA will be useful as it allows parallel processing of the input signal while applying Fourier transformations.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Conway's Game of Life
+Avani Samdariya, Krati Agrawal, Samyak Jain, Sanjari Srivastava
+The main aim of this project was to implement Conways game of life (a cellular automata) on a grid of 16x16 led matrices. This was later upgraded to work on a VGA display. We have used Mojo V2 FPGA Development board; our design uses its parallelization and is hence fast. We tried to make it interactive but it was not implemented due to technical difficulties. The game of life is much more interesting if its interactive.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Fitness Tracker
+Badal Choudhary, Danny Bobby, Sourya Basu, Vaibhaw Kumar
+The field of wearable electronics has the potential to revolutionise our lifestyle. Our aim was to develop a complete package to monitor various physical activities using a wearable band which can interact with mobile devices. This paper presents our solution using an Arduino Lilypad, a 3-axis accelerometer and a Bluetooth module. The band can pair with mobile devices using Bluetooth and measures the distance travelled while walking, calories burnt while jogging, pushups and skipping, and monitors sleep and also has a smart alarm.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Survelliance Camera
+Kuldeep Soni, Devendra Sunariwal
+We have made an advanced surveillance camera capable of face detection and at the same time recognizing the face de- tected. The face detection and face recog- nition has been done using OpenCV library. The code was written in C++. And this all processing has been done on Raspbian OS on Raspberry Pi. For capturing the im- ages we are using Pi Camera Board. With face recognition capability it can help to improve the security systems.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3D Laser Scanner
+Prince Khatarkar, Rahul Gupta and Ayush Shakya
+We are making a scanner for 3D objects using laser. What we going to do is, throw a planar laser on object (kept in dark surrounding) that is to be scanned and click the image from some angle. Then by using image processing we are going to obtain the bright points are plot their cordinates using some simple trigonometry and save them in a file. Then we will open this file to obtain the point cloud in Meshlab. And finally we will get our job done.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Pi Enabled Tracking Bot
+Amit Gupta, prakhar Kulshreshtra, Preetansh Goyal, Sandipan Mandal
+We have made a robot capable of Surveillance and also with an alternate application in detecting and following a pre-specified object such as ball. The detection and recognition has been done using OpenCV library. The code was written in C++. And this all processing has been done on Raspbian OS on Raspberry Pi. For capturing the images we are using Pi Camera Board.For Surveillance, we have used video streaming over WiFi through a router from Raspberry Pi to laptop.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Laser Tag
+Satyam Dwivedi, Akhil Garg, Sanchit Mall
+We have made a laser tag gaming system comprising of laser gun, sensor jacket and helmet. The laser gun emits lasers, which are detected by sensors on jacket and helmet and various game parameters change which are displayed on LCD mounted on laser gun.Different weapons differing inreload time, damage caused, modes etc. are available and can be bought from shop system implemented. The game ends when the other player's health reduces to 0.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Aura Play
+Prakhar javre, Shashank Bhushan, Sarthak garg, Avishek nath
+luminAR provide you with a computer interface on your desk workspace. Developed such as to provide you with an intuitive interaction using trivial gestures. The projector on device is mounted on the end effector of an articulated mechanical arm capable of moving with 2 DOFs this allows you to drag the screen.It consists of a camera-projector system mounted on an articulated robotic arm. AuraPlay is an intuitive approach to interact with technology. The whole system looks like a table lamp equipped with a computer. It projects desktop screen of Raspberry Pi and user can interact with it using a simple LED pen.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Summers'13
+
+Cashless Campus
+Avi Singh, Kevin Jose, Vineet Anand, Prawaal Pandey
+An electronic payment and billing system using a TFT Display for showing the items, Touchscreen for taking input, and a thermal printer for printing invoice and/or coupons. The billing details are stored onto an SD card and to the cloud. The payment is secured through biometric identification i.e. a fingerprint scanner.User Experience: You come and press your thumb against the fingerprint scanner. The fingerprint scanner generates an image of the thumb, matches it with a database present on the cloud and establishes you identity. Now you are presented with a menu showing the items and using the touchscreen you can select multiple quantities of the same. Once you finalize your order, an invoice is printed containing the details of your order and can be used as coupon. The machine is now ready for the next customer.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3D LED Cube
+Hardik Soni,Saurabh Kataria,Akshay Kumar,Shivam Agarwal
+A LED cube is like a LED screen , but it is special as it has 3D. We can think it as of low resolution displays. In normal displays it is normal to stack pixels closer to each other in order for better resolution but LED cube has its limits. LED cube rely on optical phenomenon called Persistence of vision. If you flash a LED really fast it will remain in your retina for some time even after LED is switched off. By flashing each layer of cube very fast after one another it gives the feeling of 3d animations.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gaming Console
+Shruti Jain, Siddharth Dangi, Chahat Bajpai
+Bringing for you a dazzling gaming experience that will certainly amaze you by its speed, thrill and entertainment. Here we present the Arduino gaming console. It basically comprises of LCD shield for display and a console for controlling the game. The two interacts via Bluetooth. The controller allows the player to control the game using joystick, motion sensing and touch. It allows the user to play the game from a distance upto 8 meters. A variety of games such as car racing and brick game have already been coded while it can be further extended to games like Mario and Mortal Combat. So just code it and play it!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AssistU
+Enayat Ullah, Ishaan Kumar, Vishal, Anshul Goyal
+Do you often miss out several important events because you simply forget about them? 'ASSIST U' is an android app which eases your everyday life by notifying you of things you tend to be forgetful. It's a closed-community(within IITK) tasks and reminder application which has a innate database of geo-coordinates of arguably, all location keywords within IITK, so as soon as you enter your note(containing a location keyword), the keyword is extracted from it and (geo)tagged on to the note saved. It then, incorporates the use of GPS to monitor your current location and chooses to/not to remind you on the premise of your distance from the nearest addressed task. An additional feature is the time-notes, which is similar to straight forward time-based reminders. With the functionality part pragmatic, the UI of the app is kept lucid and alluring with the coalescence of modern android design elements like Swipeable Tabs, Card UI and Drag and Drop. So we assist you so that you don’t miss out anything.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hole in the Wall
+Ravi Kumar, Sai Sravan , Shubham Yadav , Ashish Kumar
+Games played with joysticks are growing outdated day by day by the introduction of many innovative user controls . Kinect being one of them provides user access by means of detecting one's body language. Games can now be rendered more user friendly with the help of Kinect . Hole in the wall is one such game in which pose comparison plays a key role. Different methods of comparison can be sorted out suiting for different types of poses to be compared like comparison of joint angles ,joint proximity etc. In near future ,it is possible that all present gaming controls be replaced by a more interactive user controls like kinect.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Kinect Dodge Ball
+Saurabh Aggarwal, Piyush Awasthi,Sameer Raja, Jay Pandya, Arjun Singh Bhadauriya, Abhishek Chaurasia,Binod Kumar
+A realtime multiplayer game based on kinect and android phone. Kinect connected to a pc recognises the gestures of a player and displays on it. Second player generates balls simultanously with an intention to hit the other player, varying speed and direction of the balls through an android app. First player gains points for every successful dodge of the cannon ball through his actual real-time motion. With connectivity over wi-fi, is also capable of remote multiplayer gaming.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Text Recognition
+Arpit Agarwal, Jaskeerat Singh, Vikrant Singh, Piyush Singla
+We wanted to make a project capable of reading text from an image and subsequently process the data extracted . In our case, Image is a printed system of linear system of equation in two variables, we take a photo of these equations and display it on the screen along with the solution of the above equations. It have various applications in everyday life like extracting valuable information from visiting cards , ATM cards etc., getting information directly from application forms . It saves a lot of time and manual labour .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Evo Mouse
+Aakash Kardam, Bipin Kumar, Nalin Dhameliya
+Evo Mouse, a product which would let people control normal mouse operations just by using their natural hand movements, in short it is a hand gesture controlled device. LED ARRAY and an IR camera was used to achieve it. The camera basically tracks your finger and the mouse follows it. It is obviously more intuitive to use your natural hand gestures and movements to control your cursor movement than pushing a physical mouse. With Evo mouse, move your fingers and the cursor will follow you, tap on any arbitrary surface and it will select, you show two fingers to the camera and it will automatically right click and what not. Inspired with the MOUSELESS project, this is indeed a useful application for people with CARPAL TUNNEL SYNDROME.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Smart Watch
+Mayank Jain,Pranav Kumar,T Raghuveer, Anurendra Kumar
+Think of the noisiest places, the quietest places and the busiest places you have been to. How many times have you missed an important call, message or other notification because you couldn't hear the tone or it wasn't appropriate to check your phone? A lot of times, isn’t it? So, we came up with the idea of making a watch that can connect to your smart phone and behave as a mini phone in case your phone is not accessible to you. Android watch reflects what is happening around the world and lets you know. An Android watch is a computerized wrist watch with functionality enhanced beyond timekeeping, often with features comparable to a PDA. They have full mobile phone capability, while others function as mobile media players, with playback of FM radio and audio and video files, with sound via Bluetooth headset and many more. It comprises of Arduino and LCD shield connected to a smart phone with the help of a Bluetooth module and an Android app.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Balancing Platform
+Aarhee Mishra, Ankit Raj, Ish Kumar Jain, Piyush Jain, Shubham Kumar
+A self-balancing platform consists of platform which is balanced by movement of three motors in opposite direction to the movement of the base at the bottom which supports the motors. So it doesn't matter the angle you put the lower base in, the upper platform will ever stay in the horizontal position (waiter’s delight). The base consists of an inertial measurement unit (IMU) which can be used like a remote. When it is detached from base and triggered, it can control the above platform(It can be used to handle hulky cameras).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Autonomous Quadcopter
+Kartik Agarwal, Karthik Korada, Piyush Sahoo, Rushikesh Chaudhari, Vikram Singh
+Quad copter is multi-purpose micro class unmanned air vehicle (MUAV). This MUAV has a wide range of applications from video surveillance as known by all, to remote location access for military purposes. Manually controlling the Quad copter is pretty difficult task because it requires high accuracy, fast response which is difficult to be achieved manually. Here we have developed a Stability Augmentation System. This provides an inherent stability to the vehicle as possessed by a Plane. This makes it really easy to manually control the Quad copter and self-stabilizing when unattended.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sixth Sense
+Harshvardhan Chhangani, Abhishek Singh, Rajput, Sidhant Khatri
+A a Sixth Sense device works on the principles of gesture recognition and image processing to capture, zoom(in and out) and toggle pictures with ease just by the help of colored caps worn on the fingertips of the user. SixthSense is a wearable gestural interface that augments the physical world around us with digital information and lets us use natural hand gestures to interact with that information.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Arduino Tablet
+Shubham Atreja, Subhrajeet Paul, Shubham Sonewane, Shreyandh Pandey
+An Arduino based tablet that uses Smart GPU display,designing the basic GUI of the tablet and developing the various applications associated with it.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+E- Glove
+Harshit Rathore, Shubham Agrawal, Elle Atma, Vidya Prakash
+Isn’t it fascinating to interact with your computer with hand gestures? Here we introduce a glove which user can wear on his right hand, and can control the mouse cursor, mouse clicks and some keys of the keyboard. With the whole package, one can play any PC game (DirectX supported), control a robot or any windows application.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mind Freaks
+Patel Atish Kumar, Vicki Anand, Tanushree Gupta, Shreya Bharti
+Here we present before you an innovative approach to compare your concentration with your friend’s. It is basically a game which player controls using his concentration. In this game, there is a ping pong ball floating in air using air bed. Two fans are connected at both the ends of the air track to push the ball. Speed of fan is controlled by data coming from emotive (gives the activity of brain) via aurdino uno. Higher you concentrate on ball, the faster will be your fan pushing the ball towards the opponent’s side and ultimately leading to your victory.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FPGA Calculator
+Ankit Jalan, Kavita Meena, Manu Seth
+FPGAs contain programmable logic components called "logic blocks", and a hierarchy of reconfigurable interconnects that allow the blocks to be "wired together"—somewhat like many (changeable) logic gates that can be inter-wired in (many) different configurations. Logic blocks can be configured to perform complex combinational functions, or merely simple logic gates like AND and XOR. In most FPGAs, the logic blocks also include memory elements, which may be simple flip-flops or more complete blocks of memory. FPGA’s have logic blocks, input-out ports and interconnects which are programmable, which provides flexibility to the range of logic circuits which can be configured on the board.
+	
