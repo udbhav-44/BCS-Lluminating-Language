@@ -1,0 +1,124 @@
+Equipe de Robotique Autonome (ERA IITK)
+
+ERA stands for Equipe de Robotique Autonome, which
+is French for "a team for autonomous robotics". ERA IITK is a team of enthusiastic students at IIT Kanpur.
+The primary aim of the team is to participate in
+prestigious international competitions on autonomous
+robotics. In the process of developing robots for these
+competitions, the team strives to find new and
+innovative solutions to existing problems in robotics
+and to publish papers and give talks on those solutions
+at conferences hosted by prestigious institutes
+
+What do we do?
+Robot Operating System(ROS)
+Localization & Robot Motion Control
+Computing Devices & Microcontrollers
+Power management systems
+Multi Sensor Fusion and Object Detection
+Machine Learning
+
+Our team is focused on competing in the prestigious
+RoboCup challenge, one of the world's top-ranking
+robotics and artificial intelligence competitions.
+We focus on developing 5 fully autonomous soccer-playing robots playing in the RoboCup Middle Size League (MSL). Our research emphasizes mechatronics design, control systems, and multi-agent cooperation at plan and perception levels.
+
+RoboCup
+Middle Size League (MSL)
+RoboCup Middle Size League (MSL) is a competition where teams of five
+fully autonomous robots play soccer with a regular-size FIFA soccer ball.
+The robots have a maximum size and weight, and all sensors must be on-
+board.
+
+The challenges include high-velocity control, self-localization, navigation,
+perception in resource-limited systems, and multi-robot coordination
+under real-time constraints in a highly dynamic and adversarial
+environment.
+The mission of RoboCup is to create a autonomous team of robots
+capable of winning against a team of humans in the Soccer World Cup
+championsby2050.
+
+Our Progress
+We have designed a kicking mechanism which uses a
+solenoid based actuator.
+We have developed a unity simulation for testing our
+ball detection and kicking strategies.
+We have successfully implanted the kicking
+mechanism on our Robo Cup Bot(PHASR),which is
+fully manufactured using Indian parts and inside IITK
+We are also experimenting with different localization
+techniques and multi-camera set up for ball tracking.
+
+Autonomous Robocup MSL Robot
+Executed Odometry for the autonomous omni-
+wheeled soccer playing robot, employing Encoders
+for precise and accurate position tracking
+Implemented a Solenoid-based ball-kicking
+mechanism and ball-dribbling mechanism using
+N20motors
+Incorporated a multi-camera distributed omni-
+vision setup to facilitate the localization and
+tracking of robots, the ball and goal posts
+
+Vision
+Made a dataset for detecting balls in frames,
+wehaveusedyolov7forthis.
+Obtained Synchronization of sensors and
+cameras across different CPUs in real-time.
+Created a robust system to obtain the ground
+truth of any airborne/ ground ball using
+stereovision and triangulation.
+We have mapped the real-world coordinates
+with every pixel on arucams using regressors
+to obtain coordinates of a ground point in O(1)
+time.
+
+Future Prospects
+We are striving to become regulars at the MSL with
+a vision to mould our team as an umbrella of small
+groups that participate in the other RoboCup
+competitions as well
+
+Funded Projects
+DEXTER 1.0 
+DEXTER 2.0
+EXCAVATOR
+BIRAC WHEELCHAIR
+RoboCup MSL
+
+Our Present Achievements
+Team ERA proudly announces the publication of our latest research paper in
+the prestigious IEEE (Institute of Electrical and Electronics Engineers) journal.
+In this recent paper, we delve into our approach to the DJI Robomaster AI
+Challenge,2022, where Team ERA-IITK achieved a remarkable 3rd place
+worldwide out of 83 competing teams.
+Our primary focus lies in system hardware design and algorithmic components
+aimed at achieving full autonomy for our robot.
+Following this, we provide a comprehensive overview of our algorithmic
+pipeline, which includes a detailed description of our state machine-based
+approach towards achieving autonomy.
+
+Our Past
+Achievements
+Secured overall 3rd
+position among 40+
+international teams in DJI
+Robo Master AI Challenge 2022
+Secured overall 3rd
+Position in DJI Robo Master
+Challenge 2019
+Technical proposal got
+recognized in top 5 &
+technical poster accepted in
+ICRA Conference 2022
+Outstanding in perception
+and navigation in
+DJI Robo Master Challenge 2020
+
+Team Heads
+Emaad Ahmed 
+Dhruva Sachan 
+Kartik Kulkarni 
+Rishi Agarwal
+era@iitk.ac.in
+eraiitk@gmail.com

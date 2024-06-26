@@ -1,0 +1,45 @@
+Aerial Robotics Team at IIT Kanpur
+Location:
+SnT Room, H- 2, IIT Kanpur, Uttar Pradesh - 208016
+Contact: aerial_snt@iitk.ac.in
+
+About Us:
+We are an undergraduate team established in 2017, aiming to raise awareness and promote the usefulness of UAVs. We strive to offer autonomous UAV-based open-source solutions for real-world issues and represent IIT Kanpur in various regional, national, and international competitions.
+
+Mission:
+
+Explore: Dive into UAV technology and its related fields like computer vision, mapping, path planning, hardware development, and more.
+Educate: Inform the community about existing tech and contribute to the open-source UAV technology.
+Compete: Participate in national and international competitions to bring pride to our institute.
+Subsystems:
+
+Hardware: Custom-built UAVs using various materials including Carbon Fiber. Extensive testing at the AirStrip and Heli Lab of IITK.
+Firmware: Integration and testing of hardware and firmware.
+Visual Processing and Localization: Classical object detection, segmentation methods accelerated with CUDA, and visual data for localization.
+Controls: Robust algorithms for path and position tracking, including MPC and PID, exploring agile drone maneuverability.
+Path Planning & Motion Planning: Combining classical and RL-based methods for optimal trajectory planning and refining pose estimates.
+Achievements:
+
+IMAV 2019, Spain: One of the top 10 student teams globally.
+AUVSI Foundation International Robotics Competition (IARC): One of two teams from India.
+Inter-IIT Tech Meets: Multiple awards including gold, silver, and bronze in various UAV challenges.
+RoboFest: First place in Proof of Concept Stage, moving to final round with a total prize of 1.5 lakhs.
+Future Goals:
+
+IROS: Targeting the prestigious conference in intelligent robotics, held annually.
+IMAV: Continuing as a major focus for the team.
+ICRA: Engaging in control and navigation competitions.
+IARC: Representing IITK in this premier competition.
+A2RL: Developing a software stack for autonomous FPV drone racing.
+Robofest 4.0: Developing a fleet of autonomous aerial vehicles with advanced controls and algorithms for tasks like navigation, localization, and mapping.
+Skills and Prerequisites:
+
+Passion and curiosity in UAV technology.
+Experience with custom builds.
+Knowledge in reinforcement learning, swarm robotics, and dynamic path planning.
+Additional Opportunities:
+
+Frequent Airstrip visits.
+Hands-on experience with custom-made drones.
+International travel opportunities.
+Engaging in all-nighters and fun activities.
