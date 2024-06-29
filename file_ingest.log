@@ -1,0 +1,3 @@
+Exception: Can't pickle <function load_document_batch at 0x127ed47c0>: it's not the same object as __main__.load_document_batch
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
