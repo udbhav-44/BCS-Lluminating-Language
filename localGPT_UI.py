@@ -9,6 +9,7 @@ from langchain.chains import RetrievalQA
 from streamlit_extras.add_vertical_space import add_vertical_space
 from langchain.prompts import PromptTemplate
 from langchain.memory import ConversationBufferMemory
+from streamlit_chat import message
 import os
 os.environ['PYTORCH_ENABLE_MPS_FALLBACK'] = '1'
 
@@ -28,22 +29,23 @@ def model_memory():
 
     return prompt, memory
 
+# Display conversation history using Streamlit messages
+def display_conversation(history):
+    for i in range(len(history["generated"])):
+        message(history["past"][i], is_user=True, key=str(i) + "_user")
+        message(history["generated"][i],key=str(i))
 
 # Sidebar contents
 with st.sidebar:
-    st.title("🤗💬 Converse with your Data")
+    st.title("ChatIITK - IITK's own Chatbot")
     st.markdown(
         """
     ## About
-    This app is an LLM-powered chatbot built using:
-    - [Streamlit](https://streamlit.io/)
-    - [LangChain](https://python.langchain.com/)
-    - [LocalGPT](https://github.com/PromtEngineer/localGPT) 
- 
+    This app is an RAG Based LLM-powered chatbot designed to help the IITK Janta in their day to day life.
     """
     )
     add_vertical_space(5)
-    st.write("Made with ❤️ by [Prompt Engineer](https://youtube.com/@engineerprompt)")
+    st.write("Made with ❤️ by [BCS](https://bcs-iitk.github.io/)")
 
 
 if torch.backends.mps.is_available():
@@ -98,26 +100,49 @@ if "QA" not in st.session_state:
     )
     st.session_state["QA"] = QA
 
-st.title("LocalGPT App 💬")
+st.title("ChatIITK App 💬")
+
+
 # Create a text input box for the user
-prompt = st.text_input("Input your prompt here")
+prompt = st.text_input("Input your query here")
+# Initialize session state for generated responses and past messages
+if "generated" not in st.session_state:
+    st.session_state["generated"] = ["I am ready to help you"]
+if "past" not in st.session_state:
+    st.session_state["past"] = ["Hey there!"]
+
 # while True:
 
 # If the user hits enter
 if prompt:
-    # Then pass the prompt to the LLM
+    
     response = st.session_state["QA"](prompt)
-    answer, docs = response["result"], response["source_documents"]
-    # ...and write it out to the screen
-    st.write(answer)
+    # print(output['source_documents'])
+    st.session_state.past.append(prompt)
+    response_out = str(response["result"])
+    st.session_state.generated.append(response_out)
+    
+    
+    # Display conversation history using Streamlit messages
+    if st.session_state["generated"]:
+        display_conversation(st.session_state)
 
-    # With a streamlit expander
-    with st.expander("Document Similarity Search"):
-        # Find the relevant pages
-        search = st.session_state.DB.similarity_search_with_score(prompt)
-        # Write out the first
-        for i, doc in enumerate(search):
-            # print(doc)
-            st.write(f"Source Document # {i+1} : {doc[0].metadata['source'].split('/')[-1]}")
-            st.write(doc[0].page_content)
-            st.write("--------------------------------")
+    # Then pass the prompt to the LLM
+    # response = st.session_state["QA"](prompt)
+    # answer = response["result"]
+    # answer, docs = response["result"], response["source_documents"]
+    # ...and write it out to the screen
+    # st.write(answer)
+
+    # Display the the source Documents
+    # # With a streamlit expander
+    # with st.expander("Document Similarity Search"):
+    #     # Find the relevant pages
+    #     search = st.session_state.DB.similarity_search_with_score(prompt)
+    #     # Write out the first
+    #     for i, doc in enumerate(search):
+    #         # print(doc)
+    #         st.write(f"Source Document # {i+1} : {doc[0].metadata['source'].split('/')[-1]}")
+    #         st.write(doc[0].page_content)
+    #         st.write("--------------------------------")
+
