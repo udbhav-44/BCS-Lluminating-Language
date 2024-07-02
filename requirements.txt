@@ -29,6 +29,6 @@ requests
 # Streamlit related
 streamlit
 Streamlit-extras
-
+streamlit_chat
 # Excel File Manipulation
 openpyxl
