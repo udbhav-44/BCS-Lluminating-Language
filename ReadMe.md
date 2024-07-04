@@ -22,9 +22,17 @@ Before start inferencing, we need to ingest our data into our VectorDB(ChromaDB 
 You can change the device type to cpu or mps if you don't want access to GPU, by default it will run on best available compute (mps or gpu) otherwise cpu
 
 ```
-python ingest.py --device_type gpu
+python ingest.py --device_type cuda 
 ```
 After the ingestion of data is complete you can see, local vectorDB files in the `DB` folder, Now:
 
 - To start the Terminal interface run `python run_ChatIITK.py`
+    - Additional Flags with `run_ChatIITK.py`
+    1. `--device_type cuda(or mps or cpu)` : You can select the compute on which you want to run the model.
+    2. `--save_qa` : You can store user question and model responsesinto a csv file. This file will be stored as `/local_chat_history/qa_log.csv` 
+    3. `--use_history or -h` : You can enable chat history. This is disable by default. You can enable it by using the `--use_history or -h` flag.
+    4. `--show_sources` : To show, which chunks are being retrieved from your retriever. By default, it will show 4 different sources/chunks. You can change the number of sources/chunks
+    5. `--help` : To get help on these flags.
+
+
 - To start the Streamlit UI run `streamlit run ChatIITK_UI.py`
