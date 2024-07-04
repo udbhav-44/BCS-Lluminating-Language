@@ -36,3 +36,11 @@ After the ingestion of data is complete you can see, local vectorDB files in the
 
 
 - To start the Streamlit UI run `streamlit run ChatIITK_UI.py`
+
+## How to select Different Embedding model and LLM:
+
+- To select different model, you can specify them in `constants.py` 
+- Change the `MODEL_ID` and `MODEL_BASENAME`. If you are using a quantized model (GGML, GPTQ, GGUF), you will need to provide `MODEL_BASENAME`. For unquantized models, set `MODEL_BASENAME` to `NONE`
+- Refer to the examples in the `constant.py` file and check the HuggingFace Hub for more models.
+
+
