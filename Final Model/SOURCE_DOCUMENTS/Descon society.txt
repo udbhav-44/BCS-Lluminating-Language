@@ -1,0 +1,24 @@
+Descon society
+The Design and Construction group organizes different activities including designing of popsicle bridge, Spaghetti Bridge and other types of bridges. Along with that different structural analysis are performed practically. Students are encouraged to perform activities on their own ideas and use of different softwares for structural analysis. Basics of designing and softwares are taught through lectures and workshops throughout the year.
+General Activities:
+DesCon Society organizes various activities, including designing popsicle bridges, spaghetti bridges, and other types of bridges. These activities involve practical structural analysis, encouraging students to work on their own ideas and utilize different structural analysis software. The basics of designing and software usage are taught through lectures and workshops throughout the year.
+
+Specific Events:
+
+Fusion 360 Workshop:
+This workshop aimed to introduce participants to Fusion 360, covering installation, fundamental features, and basic 3D modeling techniques. It was designed for beginners with no prerequisites, emphasizing hands-on experience by encouraging participants to bring their laptops.
+
+Documentary Screening: Superstructures - Burj Khalifa:
+The society hosted a screening of a documentary focusing on the engineering marvel of the Burj Khalifa. The event aimed to educate attendees on the challenges and innovations involved in constructing the world’s tallest building, highlighting the structural engineering and architectural feats achieved.
+
+SnT Summer Projects Showcase:
+DesCon Society shared a presentation outlining the summer projects available for students. The showcase was intended to provide a comprehensive overview of the projects, encouraging students to participate regardless of their prior experience. The society also facilitated communication through a dedicated Discord server.
+
+Two-Day Workshop on SAP2000:
+This workshop was split into two sessions:
+
+Day 1: Basics of truss and beam theory along with an introduction to SAP2000.
+Day 2: Modeling and analysis of a two-storey building using SAP2000.
+The sessions were conducted via Zoom, focusing on the software's capabilities in structural analysis and design.
+AutoCAD Workshop:
+This workshop provided an introduction to AutoCAD, a widely used computer-aided design (CAD) software. Participants were encouraged to bring their laptops with Autodesk Inventor 2020 pre-installed to follow along with the practical aspects of the workshop. The session aimed to equip attendees with essential skills for creating diverse drawings and designs.

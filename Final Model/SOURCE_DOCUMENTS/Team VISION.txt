@@ -1,0 +1,62 @@
+VISION IITK
+
+Team Vision IITK is a student team of IIT Kanpur. We are a dynamic team of 17 engineering undergrad students who have come together to demonstrate technical, designing and management skills to compete in the Intelligent Ground Vehicle Competition 2019. Approximately 40 teams typically from India, Europe, and the USA participate in this competition. We are also aiming to participate in NASA Space Robotics Challenge which is a virtual competition of advance robotic software and autonomous capabilities for space exploration missions on the surface of extraterrestrial objects, such as distant planets or moons. We work together at IIT Kanpur’s Imagering Lab - with a common goal of making the best autonomous robot.
+Team VISiON debuted in IGVC in 2018 and achieved 5th rank in the design competition and 12th rank overall internationally among 36 teams. In the second attempt of the team at 27th Intelligent Ground Vehicle Competition (IGVC), our vehicle, Daksh II stood 2nd in the Grand Challenge (Overall Competition) among 37 international teams and achieved 3rd rank in Autonomous Navigation (the AutoNav Challenge). Apart from AutoNav, our team also participated in the Interoperability Profiles Challenge (IOP) and the Cyber Security Challenge, where we achieved 3rd and 4th ranks respectively.
+
+Team VISiON (previously Team IGVC-IITK), a robotics team from IIT Kanpur is a group of highly motivated students with a passion for robotics consisting of Undergraduate Students and Faculty Advisor, working in the field of autonomous ground vehicles to participate in the Intelligent Ground Vehicle Competition (IGVC), which is being held at Oakland University, Michigan, USA pointer-eventsry year in June for the past 26 years. Approximately 40 teams typically from India, Europe, and the USA participate in this competition. We are also aiming to participate in NASA Space Robotics Challenge which is a virtual competition to advance robotic software and autonomous capabilities for space exploration missions on the surface of extraterrestrial objects, such as distant planets or moons.
+
+Our autonomous bot, Daksh-II is a 3-wheel differential drive vehicle with a front-mounted castor wheel. A sensor frame is attached to the chassis on which we have mounted various sensors like a Laser Scanner, Stereo Camera, Encoders, IMU, GPS, etc.
+
+The Intelligent Ground Vehicle Competition (IGVC) is an annual international robotics competition for teams of undergraduate and graduate students. Teams design and build an autonomous ground vehicle capable of completing several difficult challenges.
+Competition is well suited to senior design “capstone” courses as well as extracurricular design projects.
+The competition has taken place each year since 1993. The competition is normally held on the campus of Oakland University in Rochester, Michigan, although it has occasionally moved to other venues within the state of Michigan. Approximately 40 teams typically participate in this competition.
+
+In Robocon 2015, the team stood 11th overall at the national level
+In Robocon 2016, the second runners’-up title among 105 teams from all over India.
+At IGVC 2018 held at Oakland University, Michigan, we achieved 5th rank in the design competition and 12th rank overall internationally among 36 teams
+In AWS Deep Racer League 2022, the team stood at the 29th place internationally, among 2200 teams
+At IGVC 2019, our vehicle, Daksh II stood 2nd overall among 37 international teams and achieved 3rd rank in the AutoNav Challenge
+
+Autonomous Racing Model
+
+Participating teams race vehicles with similar hardware specification and try to outsmart and outpace each other in a battle of algorithms.
+
+Interpret static obstacles within the environment in order to maintain collision free progress.
+
+Interpret dynamic obstacles within the race environment in order to enable predictive controls and planning, to ensure collision free progress. Exhibit context dependent speed and angular velocity control.
+
+The team is expected to cover maximum laps in the given time.
+
+AWS DEEP RACER
+Designed an efficient Reward Function for training the AWS Deep-Racer bot using the PPO Reinforcement Learning algorithm for completing the September's racetrack in shortest time and an efficient path.
+
+MICROMOUSE CHALLENGE
+Developed Path Planning algorithms to autonomously navigate a self-contained bot (Micromouse) on ROS, simulated on Gazebo, which can get to the center of an unknown maze in the shortest possible time.
+
+AUTONOMOUS EXPLORATION
+Autonomous Navigation and Mapping
+A Clearpath Jackal robot, simulated in Gazebo, autonomously navigates end explores the unknown simulated environment.
+An Unscented Kalman Filter is used to fuse data from various sensors, which is then used for Localization. A ‘cost map’ is maintained for the obstacles detected by the LiDAR sensor, to facilitate obstacle avoidance. 
+
+Benchmarking Navigation Systems
+The task is to navigate the bot from start to a goal as quickly as possible without any collision.
+The proposed navigation system is then evaluated against the BARN metric through 300 pre-generated navigation environments of the BARN dataset, ranging from easy open spaces to difficult highly constrained ones.
+
+I-GIBSON CHALLENGE
+Interactive Navigation Model
+The agent will be required to reach specific coordinates given the visual information.
+Interaction with objects and obstacles is allowed. (similar to real world)
+There can be dynamic changes in the environment.
+
+SOUND-SPACES CHALLENGE
+Audio Navigation Model
+An agent is spawned at a random starting position and orientation in an unseen environment with a sound emitting object in the space.
+It receives a one second audio input as a waveform in each time step and needs to navigate to target location.
+No ground truth map is available
+Sensory inputs will be used to navigate
+
+TEAM LEADS
+DANISH VASDEV
+DEVANSH OJHA
+STUTI GUPTA
+TEJAS AHUJA

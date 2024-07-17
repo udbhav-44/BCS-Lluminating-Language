@@ -1,0 +1,38 @@
+Team AUV IIT Kanpur
+
+About us
+We are a team of undergraduate students researching in the field of marine robotics. The team started off in 2014, as the brainchild of a group of enthusiastic engineers. From a team with just an idea to create an impact on underwater robotics, we have grown into a family of over 40 members, through consistent dedication and hard work.
+
+We have successfully designed and manufactured two robust autonomous underwater vehicles (AUV), namely, Varun and Anahita. These machines are capable of navigating in unknown environments, performing acoustic localization, and identifying objects using computer vision.
+Mission:
+"Concern for man and his fate must always form the chief interest of all technical endeavors. Never forget this in the midst of your diagrams and equations." - Albert Einstein
+
+Team AUV at IIT Kanpur aims to develop autonomous underwater vehicles capable of performing a variety of tasks underwater, such as marker dropping, buoy detection, torpedo firing, and surveillance.
+
+Subteams and Their Functions:
+
+Electrical Subsystem:
+
+Develops the power distribution and monitoring systems.
+Utilizes Arduino Mega to control actuation and read data from various sensors, managed by an Intel NUC.
+Creates custom PCBs and interfaces between software and mechanical subsystems.
+Software Subsystem:
+
+Develops algorithms for robot control and autonomy using cutting-edge robotics technologies.
+Conducts simulations with Gazebo and UWSim to ensure smooth operation before actual testing.
+Writes generic and error-free code to efficiently coordinate vehicle motion and maximize performance.
+Mechanical Subsystem:
+
+Designs and constructs the physical structure and components of the AUV.
+Ensures the integration of mechanical parts with electrical and software systems for optimal functionality.
+Business Subsystem:
+
+Manages funding and outreach activities.
+Handles expenditures, seeks sponsorships, and maintains the team's online presence.
+Ensures the team receives sufficient funding and maintains excellent outreach to support other subsystems.
+Achievements:
+
+5th NIOT-SAVe (December 2016): First runners-up in the competition organized by the National Institute of Ocean Technology, Chennai.
+Upcoming Competitions: Aiming to participate in International Competitions such as SAUVC in Singapore and RoboSub in San Diego, California.
+Conclusion:
+Team AUV at IIT Kanpur is dedicated to the development of advanced autonomous underwater vehicles, leveraging the expertise of its subsystems in electrical, software, mechanical, and business domains. The team's achievements and ongoing efforts in international competitions highlight its commitment to innovation and excellence in the field of underwater robotics.

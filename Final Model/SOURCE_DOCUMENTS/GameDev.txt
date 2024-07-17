@@ -1,0 +1,130 @@
+﻿GAMEDEV
+
+Mission We aim to popularize game development through workshops, collaboration, and production. Our workshops and lectures introduce students to all facets of video game production. Our socials serve as a platform for collaboration and communication for a variety of people with different skills and goals. Finally, we create small and fun games for us to hone our skills and for others to play. Whatever your skills may be, we will have a place for you. 
+
+Vision The goal of the Game Development Society is to bring together students who are interested in the many different aspects of making modern video games. Our primary objective is to broaden people's understanding of the field of game development and to provide resources that will aid in their learning in this area.
+
+1. We have successfully mentored and completed 10+ summer projects in the last three
+summers with over 250 mentees.
+2. The society has organized numerous online and offline workshops for the campus
+community covering aspects ranging from general game development to lighting and
+sound design in games.
+3. We have represented our college in national and international game jams including the
+India Game Developer Conference (IGDC).
+4. Since we first began, our social media following has steadily grown as a result of our
+weekly interactions and posts.
+5. We have completed and published numerous games on our Itch as well as on the
+Google Play Store.
+6. We successfully conducted a nationwide game jam, Respawn collaborating with IIT
+Kharagpur and IIT Guwahati.
+
+Projects offered:
+
+2021
+1. Introduction to Game Development
+2. Introduction to 3D Modelling
+3. Introduction to Game Design
+4. Advanced Game Development
+
+2022
+1. Introduction to Game Development
+2. Introduction to Animations and 2D Art
+3. Introduction to Graphics and Shaders
+4. Introduction to 3D Art
+5. Game Design - UI/UX and Sound Design in Games
+6. Advanced Game Development
+
+2023:
+1. Introduction to Unreal Engine
+2. AR/VR in GameDev
+3. Using AI in games
+4. Intro to Game Art
+5. 3D renderer
+6. Game design
+
+Workshops organized till now
+
+2020-21 Tenure
+1. Lighting Workshop: Taught about the basics of rendering shaders and types of
+lighting.
+2. Unity Workshop: Basics of unity and gameplay programming.
+
+2021-22 Tenure
+1. Introduction to game programming: Covered major programming concepts and
+how they are applied to making games. Attended by an audience of 70+ students.
+2. Introduction to Git/Github: Taught how to use version control and repository
+management to maintain versions of games and collaborate in teams. Attended by an
+audience of 50+ students.
+3. Introduction to Pixel Art: Covered Pixel Art techniques and principles and how to
+create your own using Photoshop. Attended by an audience of 60+ students.
+4. Introduction to 3D Art: Covered 3D art-making techniques like modeling, texturing,
+and animation using Blender software. Attended by an audience of 100+ students.
+5. Procedural Generation and Shaders: An introduction to graphics programming by
+using procedurally generated texture to simulate visual effects. Attended by an
+audience of about 40+ students
+6. Introduction to Level Design: Covered level design concepts and principles behind
+the effective and playable game design. Attended by an audience of about 30+.
+7. Introduction to Lighting: This was the first offline event. We covered major lighting
+and shading techniques and how to implement them in games. Attended by an
+audience of about 100+ students.
+8. Introduction to Game Dev for Freshers: Introductory workshop for Y21 batch
+covering major GameDev specializations and their roles and how to get started in
+each of them. Attended by an audience of about 100+ students.
+9. Unity Workshop for Freshers: A two-day workshop to build a game from scratch.
+Covered programming concepts like OOPs and gameplay programming. Attended by
+an audience of about 120+ students on the first day and 60+ students on the second
+day.
+
+2022-23 Tenure:
+1. Introduction to Unity: Introduced freshers to the Unity game engine and
+demonstrated how to make simple games in unity. Attended by an audience of 200+
+students.
+2. Introduction to 3D and Blender: Covered the use of the Blender art-making
+software for modeling, texturing, and animation. A crowd of more than 100 students
+was present.
+3. Introduction to Git/Github: Taught how to communicate in teams and maintain
+game versions using version control and repository management. 50+ students were
+present in the audience.
+4. Sound Design Workshop: The Game Development Society presented the inaugural
+"Sound Design Workshop" of our institution. We instructed students on how to create
+unique VFX sounds and background scores on a DAW from the ground up covering
+both sampling and synthetic approaches for the same. Attended by an audience of 50+
+students.
+
+Team Structure
+4 coordinators, 25 secretaries, contributors, and senior members.
+Coordinators would be making important decisions for the club. They would have
+administrative rights for the clubs. The secretaries would come just below the coordinators in
+the hierarchy; they can propose initiatives to the coordinators and can act accordingly. Their
+ideas should be taken into account by the coordinators in any matter.
+Contributors would be at the same level in the hierarchy as secretaries, contributors can be
+ratified as secretaries if they show enthusiasm and dedication towards the club throughout
+their tenure. Past secretaries or contributors would be entitled as senior members of the club.
+Senior members can suggest and assist coordinators in the management of the club. Also Past
+Coordinators would also suggest their opinions on club-related matters.
+Secretaries would be given a training doc for those who don't have completed their primary
+evaluations. They would specialize in one or more than one field and would submit their
+specialization evaluations.
+
+
+Game Jams for the campus community
+Registered for “Build your own game” (BYOG) Jam 2021, which took place on the 22nd
+of Oct. Participated in a team of 9 members making a game in 48 hours. We will participate
+in this year’s BYOG as well, with our secys participating in it on August 26.
+Registered for the India Game Developers Conference (IGDC) 2021, which took place
+virtually from the 16th of November for 3 days. This acted as a starting point for our
+networking goals in the Gamedev industry in India. We plan to participate in this year’s
+IGDC in person from November 3 to 5, 2022, in Hyderabad.
+Received an invitation to join the Game Developers World Championship (GDWC) based
+on the performance of our game, “Territorial Attack,” released on the Google PlayStore.
+Organized “Summer Game Jam 2021”, a 7 Day Game Jam with final submission by 4
+teams.
+Created 4 Development Teams from the Secys and started internal Game Jams with a 72
+hours time limit.
+
+Instagram: https://www.instagram.com/gamedev_iitk/
+Facebook: https://www.facebook.com/gamedev.iitk
+Linkedin: https://www.linkedin.com/company/game-development-club-iitk/
+Youtube: https://www.youtube.com/channel/UCMa7EugzVF_YF5DACUKRTJw
+Github: https://github.com/studiocentauri
+

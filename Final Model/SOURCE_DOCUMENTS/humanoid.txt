@@ -1,0 +1,254 @@
+TEAM HUMANOID IITK
+
+ABOUT US 
+
+We are a team of dedicated UGs working on the
+development of Humanoid Robotics.
+We are a team of dedicated UGs working on the development of Humanoid Robotics.
+Our ultimate target is to make a Fully-functional Autonomous Humanoid Robot, which closely mimics 
+human beings. We compete in competitions related to Humanoid Robotics, like the FIRA (Federation of International Robot-soccer Association) HuroCup. 
+
+
+OUR HUMANOID BOTS
+DARWIN
+DARWINAUTOMI
+BIOLOID
+ PREMIUM
+
+SUBSYSTEMS
+
+MECHANICAL SUBDIVISION
+
+A well-designed bot requires flexibility in CAD, along with
+thorough analyses of architecture, mechanics, electronics,
+and thermal aspects. Calculations are crucial for selecting
+the best components to ensure proper functionality.
+A well-designed bot requires flexibility in CAD, along with thorough analyses of architecture, mechanics, electronics, and thermal aspects. Calculations are crucial for selecting the best components to ensure proper functionality.
+DYNAMICS
+We use algorithms to create safe and efficient paths for robots in
+ complex environments, considering obstacles, changin
+g conditions, and uncertain sensory data. These paths account f
+or the robot's kinematics and dynamics.
+
+SOFTWARE
+SUBDIVISION
+
+Computer vision can solve more complex
+problems such as facial recognition
+(used, for example, by Snapchat to apply
+filters), and detailed image analysis that
+allows for visual searches. 
+Computer vision can solve more complex problems such as facial recognition (used, for example, by Snapchat to apply filters), and detailed image analysis that allows for visual searches. 
+In team Humanoid, we use Computer Vision for object detection, target identification, and environment mapping. 
+
+SIMULATION
+Simulation in robotics involves creating a
+ virtual environment that mimics the real
+-world conditions in which a robot will operate. This virtual environment can 
+be used to test and evaluate the robot's performance, behavior, and capabilities before it is deployed in the real world.
+In Team Humanoid, we test various
+ algorithms like the one used for walking using simulation. 
+
+ELECTRONICS
+SUBDIVISION
+
+In humanoid robotics, it is common to
+utilize Arduino, controllers, and sensors
+to equip robots with the necessary control
+and sensing abilities. 
+In humanoid robotics, it is common to utilize Arduino, controllers, and sensors to equip robots with the
+ necessary control and sensing abilities. 
+These components play a crucial role in enabling robots to interact with their environment, making them an indispensable aspect of robotics.
+
+
+ACHIEVEMENTS
+
+IEEE IROS AND ICRA 2023
+IEEE IROS AND ICRA 2023
+These competitions were based on simulation on WEBOTS platform and we used several image processing algorithms for depth estimation, and designed several motion files for the bot from scratch.
+We participated in IEEE IROS Humanoid Wrestling competition in September 2023
+and secured 2nd place globally in the first stage, and in ICRA competition held in June 2023, we secured 4th place globally. 
+These competitions were based on
+simulation on WEBOTS platform and we
+used several image processing algorithms
+for depth estimation, and designed several
+motion files for the bot from scratch.
+
+INTER IIT TECH MEET 11.0
+The Inter IIT Problem Statement
+ consisted of designing and simulating an automatic robotic charging arm f
+or electric vehicles. 
+We had to design a robotic arm from
+ scratch that would have a charger connected to its end effector. 
+The arm had to automatically detect the
+ charging port, apply inverse kinematics to reach the aforementioned port, plug 
+in the charger and return to its initial position. 
+
+COMPETITIONS
+
+FIRA HuroCup.
+
+IIT Kanpur became the First Indian team to qualify for FIRA HuroCup.
+Team Humanoid participated in 5 events and the team performed creditably in each event. 
+
+WHY FIRA?
+FIRA hosts robotics events
+ attracting over 150 teams annually. The FIRA HURO CUP simulates human tasks, aiding humanoid robot development through competitive engagement.Visit www.fira.net for more.
+
+
+ARCHERY
+Create robots for an endurance race
+ on a colored track. They segment 
+the line for the goal, generate 
+a path for navigation, and adjust
+ the path based on arrow detection.
+
+MARATHON
+Create robots for an endurance race on
+a colored track. They segment the line
+for the goal, generate a path for
+navigation, and adjust the path based on
+arrow detection.
+
+BASKET BALL
+AT FIRA HURO CUP
+Grab the basketball, identify it, and
+ approach.  Use  trajectory  generation  to determine motor angle s based on start and end points. Measure distances to 
+the ball and ho op. Th row  at the suitable departure angle.
+
+WEIGHTLIFTING
+Task: Pick up weights and carry them to a goal
+Adapt to the change in weight distribution by
+lowering the robot’s natural COM
+
+
+PROJECTS
+
+
+Automi Walking Simulation
+
+Our FIRA HuroCup participation involves training
+our autonomous bot in diverse skills like walking,
+archery, and basketball. AUTOMI, our humanoid bot
+based on the Darwin architecture, undergoes
+realistic simulations using Gazebo, ROS, and
+Simulink. We integrate Simulink with Gazebo,
+configure ROS communication, and fine-tune
+Python-controlled joint movements for realistic and
+precise task execution.
+
+Automi Redesign
+
+Motivated to enhance AUTOMI's efficiency for
+the FIRA HURO Cup, our project undertook a
+redesign journey, incorporating CAD modeling
+with Autodesk Fusion 360 and Solidworks. This
+included an analysis of global research on
+humanoid biped robots, informing the tentative
+dimensions for our robot's parts and laying the
+foundation for an optimized design.
+
+Robotic Arm
+
+Guided by Prof. K.S. Nalwa, our team is
+building two 3 DOF robotic arms for
+automating a solar cell manufacturing step in
+India, funded by the Government of India.
+Progress includes concluding the literature
+review and ideation, completing the first
+design iteration with component
+procurement, and currently, the team is
+dedicated to developing the electronics and
+control system for the arms, ensuring timely
+project delivery.
+
+Soccer Simulation
+
+1. For our debut in the February 2024
+RoboCup Soccer Simulation League, we are
+strategically approaching the 2D soccer
+simulation competition, focusing on serverclient interaction and soccer-playing strategy
+formulation.
+2. Sub-problems tackled involve multi-agent
+communication setup, custom logfile
+protocol development for parsing, and a
+detailed examination of essential sensors
+like visual, aural, and body sensors.
+Additionally, the team is acquiring socket
+programming skills for connection
+establishment using UDP/IP Protocol.
+
+
+SOFTWARES
+USED
+
+INVENTOR
+Robotic Operating System
+INVENTOR
+MATLAB
+CAD Platform
+ROS
+Robotic
+Operating
+System
+SolidWorks
+CAD 
+For scientific computing and visualisation
+MATLAB
+For scientific
+computing and
+visualisation
+GAZEBO
+3D physical
+environment
+
+LIBRARIES
+
+INVENTORLibrary for image processing
+MATLAB
+INVENTORMachine Learning Library
+SCI-KIT IMAGE
+Library for
+image
+processing
+TENSORFLOW
+Machine
+Learning Library
+For camera image 
+reading an
+d processing
+reading and
+processing
+MATLAB
+INVENTOR
+Provides API for
+plotting graphs
+MATPLOTLIB
+Provides API for
+plotting graphs
+Provides support for multi-dimensional
+arrays
+
+FUTURE PLANS
+
+We are also planning to participate in various other competitions with
+problem statements related to humanoid robotics including the Inter IIT
+Tech Meet.
+We are about to start with Y23 recruitment soon. We are looking for
+technical team members in the fields of mechanics, computer vision,
+electronics, design, and simulation who are enthusiastic to work for the
+team and achieve great heights together. 
+We are also planning to participate in various other competitions with p
+roblem statements related to humanoid robotics including the Inter IIT Tech Meet.We are about to start with Y23 recruitment soon. We are looking for technical team members in the fields of mechanics, computer vision, electronics, design, and simulation who are enthusiastic to work for the team and achieve great heights together. 
+Junior Team members will work as a team on projects spanning all domains of robotics to build fully functional biped robots.
+
+THANK YOU
+    Team heads:
+Aadvik Kumar
+Ankit Kumar
+Khushi Agarwal
+Aadvik Kumar
+Ankit Kumar
+Khushi Agarwal
+Mehar Goenka
+Siddharth Garg

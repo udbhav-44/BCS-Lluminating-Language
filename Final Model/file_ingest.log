@@ -1,0 +1,38 @@
+Exception: Can't pickle <function load_document_batch at 0x127ed47c0>: it's not the same object as __main__.load_document_batch
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/Lluminate/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Alumni.csv loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loading error: 
+
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/udbhavagarwal/nltk_data'
+    - '/opt/anaconda3/nltk_data'
+    - '/opt/anaconda3/share/nltk_data'
+    - '/opt/anaconda3/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Constitution.md loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/SPO.txt loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/VOX Articles.xlsx loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/UG-Manual.pdf loaded.
+/Users/udbhavagarwal/Documents/Code/BCS-Lluminating-Language-experimentation/SOURCE_DOCUMENTS/Alumni.csv loaded.

@@ -1,0 +1,127 @@
+IITK Rocketry and Space Exploration Team (IRASET)
+Who We Are and What We Do
+
+We are a group of students who are highly motivated towards Experimental Rocketry. We came
+together to form the first student rocketry team on Campus whose aim is to compete with the best
+student teams across the globe and help realise India’s innate potential in this field.
+
+We work on exciting areas such as developing completely student build Solid-Propellant-Rocket-Motor,
+manufacturing light-weight, high-performance rocket parts - made from Glass Fibre or Carbon Fiber
+composites and finding innovative methods for in-flight data logging, telemetry and parachute recovery.
+We are completing our first year since inception, it feels we are just getting started!!
+
+What is our motive
+
+Student researched projects
+We are working on the following projects
+currently:
+1) Developing our own KNSB Solid
+Rocket Motor
+2) Developing a flight computer for data
+logging and recovery.
+3) Manufacturing Composite Rocket
+Parts via hand layups
+We will pursue the following student
+research projects in the future:
+1) Active control via fin stabilization
+2) Liquid rocket engine using aerospike
+nozzles
+
+Target competitions
+We are targeting the following
+competitions:
+1) Latin America Space Challenge
+2) IN-Space Cansat competition
+3) Spaceport America Cup
+
+Our Competitions
+Spaceport America Cup 
+NACDeC
+DoraHacks
+
+Spaceport America Cup
+This is an annual global competition for experimental sounding rockets.
+Target apogee categories - 10k ft and 30k ft
+Propulsion categories - COTS Solid, SRAD Solid and SRAD Liquid
+Recovery - Dual and Single Stage
+Payload Challenge - Has various concepts every year out of which each team chooses one to proceed with application
+The competition has various stages -
+Preliminary Design Report
+First Progress Report
+Second Progress Report
+Safety Review
+Final Launch
+
+We are participating in 10k COTS category with our payload being
+based on the application of AI/ML.
+We have successfully crossed the stage of First Progress Report
+submission and working on the second report.
+Simultaneously we are manufacturing our payload, avionics bay and
+airframe at present.
+
+NACDeC
+NACDeC-VII competition organized by the
+Aeronautical Society Of India is focused on
+conceptual design and sizing of a Martian
+Unmanned Aerial Vehicle (UAV) intended for
+conducting atmospheric exploration missions in
+close proximity to the planet’s surface. This project
+aims to identify feasible UAV design by considering
+various configurations and leveraging available
+technologies.
+We have cleared stage one and have submitted our
+second design report for a UAV for Mars Exploration
+the National Aerospace Conceptual Design
+Challenge (NACDeC - VII).
+In the final stage we aim to finalise the design
+configuration of UAV.
+
+DoraHacks
+This is a hackathon for developing pragmatic use cases of Spacex Starship.
+Among the proposed sub categories, we went on with an open ended
+challenge of coming up with a novel satellite constellation.
+
+Our solution -
+Service Satellites in LEO and VLEO to refuel and service
+existing defunct but useful satellites and also to deorbit others
+to clean space debris.
+Chief Satellites in GEO for the refueling and servicing of
+Service Satellites.
+We eventually won the first round of the hackathon acquiring a prize
+money of 40,000 INR.
+We will be moving to work further on this idea for the second round
+which we plan to keep open for the campus junta as well.
+
+Propulsion Subsystem
+Propulsion subsystem designs, simulates and manufactures the propulsion system of the rocket. We
+manufacture our own custom solid-propellants, cast them and test fire them. We are currently
+working on Potassium Nitrate/Sorbitol Propellant. Here’s what we have done so far.
+
+Structures and Aerodynamics
+Structures and Aerodynamics subsystem is responsible for designing and
+manufacturing the most optimized Rocket structure. We coordinate between
+all the other subsystems to make the design compatible and efficient at the
+same time. The subsystem manufactures custom light-weight, high
+performance aerodynamic parts and primarily deals with composite materials.
+Composites are famous for high strength-to-weight ratios. Here are some of our
+GlassFibre layups.
+
+Avionics, Recovery & Payload
+We are responsible for in-flight data logging, telemetry and ejection of parachute and payload. We also work
+on active control systems of the rocket. We are currently building a student developed flight computer capable
+of doing all this. We are also developing a Cansat which will be used as a payload in our sounding rocket.
+Here is our flight computer being tested and the design of avionics bay
+
+Our Faculty Advisors
+Dr. Abhijit Kushari 
+Dr. Ashoke De 
+Dr. Rajesh Kitey
+
+Contact Us
+Y20:
+Atharva Dehadraya
+Y21:
+Shraman Das
+Nandan Madhuj
+Anushree Shukla
+M.R. Rakshith
